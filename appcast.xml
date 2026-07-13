@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.0.4 (beta)</title>
-      <description><![CDATA[Sub-janelas abrem ja no tamanho certo (sem o pulo visual) e a arena mostra a cidade de Kanto no lugar do nome do cenario.]]></description>
-      <pubDate>Mon, 13 Jul 2026 19:00:20 GMT</pubDate>
+      <title>PokeTaskBar 1.0.5 (beta)</title>
+      <description><![CDATA[Sub-janelas agora aparecem de uma vez so, ja prontas (sem a abertura em dois estagios).]]></description>
+      <pubDate>Mon, 13 Jul 2026 19:07:14 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.0.4-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.0.4"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.0.5-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.0.5"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="40889250"
+        length="40886542"
         type="application/octet-stream" />
     </item>
   </channel>
