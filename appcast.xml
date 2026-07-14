@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.0.8 (beta)</title>
-      <description><![CDATA[Novo: janela Trofeus com insignias por dificuldade (selos coloridos) e conquistas que dao bonus permanentes (Pokedex e shiny). Arraste itens da Mochila e pecas do treinador para equipar. Gastly no tamanho certo.]]></description>
-      <pubDate>Tue, 14 Jul 2026 01:00:55 GMT</pubDate>
+      <title>PokeTaskBar 1.0.9 (beta)</title>
+      <description><![CDATA[Clique num pokemon do seu time na arena para abrir a Ficha dele (stats e itens).]]></description>
+      <pubDate>Tue, 14 Jul 2026 01:17:19 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.0.8-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.0.8"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.0.9-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.0.9"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="40901846"
+        length="40902979"
         type="application/octet-stream" />
     </item>
   </channel>
