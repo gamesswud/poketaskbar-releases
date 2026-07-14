@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.2.4 (beta)</title>
-      <description><![CDATA[A janela do jogo agora e PERMANENTEMENTE do tamanho exato da arena: o redimensionamento do ginasio (que travava a janela larga e criava espaco invisivel a direita/embaixo) foi removido - as abas dos treinadores agora deslizam por cima da arena.]]></description>
-      <pubDate>Tue, 14 Jul 2026 17:37:11 GMT</pubDate>
+      <title>PokeTaskBar 1.2.5 (beta)</title>
+      <description><![CDATA[As abas penduradas do TBH estao de volta (avisos, baus, seletor de bolas, abas de treinador) E o espaco vazio entre elas agora e atravessavel de verdade: clique e arraste passam para as janelas de tras (recorte nativo da janela).]]></description>
+      <pubDate>Tue, 14 Jul 2026 18:06:17 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.2.4-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.2.4"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.2.5-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.2.5"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="40968919"
+        length="40978410"
         type="application/octet-stream" />
     </item>
   </channel>
