@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.1.2 (beta)</title>
-      <description><![CDATA[Novas insignias de ginasio em pixel art e pagina de Trofeus reformulada: fundo escuro que faz os selos brilharem, halo por dificuldade e selos bloqueados em cinza.]]></description>
-      <pubDate>Tue, 14 Jul 2026 02:50:52 GMT</pubDate>
+      <title>PokeTaskBar 1.2.0 (beta)</title>
+      <description><![CDATA[ROLES: cada pokemon agora tem 2 roles possiveis decididas pelos 2 maiores IVs (Curandeiro, Tanque, DPS Fisico, DPS Especial, DPS Veloz). A role muda o kit de habilidades e da +12% no stat dela - troque na Ficha. Curas escalam com Atq. Especial.]]></description>
+      <pubDate>Tue, 14 Jul 2026 16:12:04 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.1.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.1.2"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.2.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.2.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="40964032"
+        length="40968945"
         type="application/octet-stream" />
     </item>
   </channel>
