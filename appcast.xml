@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.3.2 (beta)</title>
-      <description><![CDATA[Na Ficha do Treinador, a secao de Builds agora fica minimizada (so o titulo) e abre ao clicar no cabecalho.]]></description>
-      <pubDate>Wed, 15 Jul 2026 01:57:23 GMT</pubDate>
+      <title>PokeTaskBar 1.4.0 (beta)</title>
+      <description><![CDATA[Modo Amigos completo: adicione amigos pelo codigo, desafie, monte o time no draft alternado e batalhe. Mais: fonte pixel nova no jogo todo e botao de expandir a Pokedex.]]></description>
+      <pubDate>Wed, 15 Jul 2026 17:35:14 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.3.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.3.2"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.4.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.4.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="40985852"
+        length="41034390"
         type="application/octet-stream" />
     </item>
   </channel>
