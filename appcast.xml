@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.4.2 (beta)</title>
-      <description><![CDATA[Batalha de amigo agora acontece na ARENA REAL, igual ao ginasio: abas dos treinadores, sprites andando e atacando, vida embaixo dos pes. 6 pokemon cada (3 titulares + 3 banco). Mesma luta nos dois PCs.]]></description>
-      <pubDate>Wed, 15 Jul 2026 18:26:42 GMT</pubDate>
+      <title>PokeTaskBar 1.4.3 (beta)</title>
+      <description><![CDATA[PvP: botao DESISTIR (surrender); partida dura no maximo 1 min (no fim, quem tiver mais pokemon vivos vence); o 1o pokemon do draft fica na FRENTE (tank); corrigido o escudo Withdraw - so recarrega com 5 golpes que entram no HP e nao reativa por cima de um escudo ja ativo.]]></description>
+      <pubDate>Wed, 15 Jul 2026 20:14:11 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.4.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.4.2"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.4.3-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.4.3"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41031804"
+        length="41033732"
         type="application/octet-stream" />
     </item>
   </channel>
