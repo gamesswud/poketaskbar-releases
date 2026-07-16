@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.5.7 (beta)</title>
-      <description><![CDATA[Conserta de vez o quebra-quebra das versoes 1.5.4-1.5.6: a janela volta ao tamanho estavel (sem cortes, sem areas pretas). A legibilidade veio por outro caminho seguro: TODAS as fontes 6 por cento maiores e os sprites da arena 5 por cento maiores.]]></description>
-      <pubDate>Thu, 16 Jul 2026 18:04:00 GMT</pubDate>
+      <title>PokeTaskBar 1.5.8 (beta)</title>
+      <description><![CDATA[Fontes 10 por cento maiores em todo o jogo (legibilidade).]]></description>
+      <pubDate>Thu, 16 Jul 2026 18:13:54 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.7-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.5.7"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.8-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.5.8"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41085256"
+        length="41084537"
         type="application/octet-stream" />
     </item>
   </channel>
