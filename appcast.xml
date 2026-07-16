@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.4.14 (beta)</title>
-      <description><![CDATA[Batalhas contra treinador (ginasio) e PvP: pokemon caido NAO revive mais no meio da luta - so o banco (reservas) entra no lugar. Quando os 6 caem, e derrota. Nas ondas normais o renascimento continua igual.]]></description>
-      <pubDate>Thu, 16 Jul 2026 01:31:32 GMT</pubDate>
+      <title>PokeTaskBar 1.4.15 (beta)</title>
+      <description><![CDATA[Pokedex: pokemon nao capturado agora e uma silhueta ESTATICA (congelada), e so ganha animacao depois que voce captura. E a aba Pokedex tambem ganhou o botao Expandir (preenche a janela), igual ao PC.]]></description>
+      <pubDate>Thu, 16 Jul 2026 01:42:28 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.4.14-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.4.14"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.4.15-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.4.15"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41041235"
+        length="41043778"
         type="application/octet-stream" />
     </item>
   </channel>
