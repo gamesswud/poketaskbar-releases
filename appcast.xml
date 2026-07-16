@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.4.11 (beta)</title>
-      <description><![CDATA[Ficha Do Treinador reorganizada: topo compacto (retrato menor + as 4 pecas numa linha so + resumo), sobrando muito mais espaco para o guarda-roupa, que agora tem BUSCA (por nome, raridade ou bonus) e filtro por tipo de peca.]]></description>
-      <pubDate>Thu, 16 Jul 2026 00:31:47 GMT</pubDate>
+      <title>PokeTaskBar 1.4.12 (beta)</title>
+      <description><![CDATA[Correcao (primeira contribuicao do socio): melhora o contraste do nome dos lideres de ginasio na pagina de Trofeus, deixando mais legivel.]]></description>
+      <pubDate>Thu, 16 Jul 2026 00:44:41 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.4.11-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.4.11"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.4.12-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.4.12"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41041978"
+        length="41042078"
         type="application/octet-stream" />
     </item>
   </channel>
