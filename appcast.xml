@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.5.5 (beta)</title>
-      <description><![CDATA[Corrige a arena cortada da 1.5.4: a janela agora nasce ja no tamanho certo e o jogo inteiro escala os 5% direitinho (barra da onda, botoes e bordas de volta).]]></description>
-      <pubDate>Thu, 16 Jul 2026 17:02:41 GMT</pubDate>
+      <title>PokeTaskBar 1.5.6 (beta)</title>
+      <description><![CDATA[Corrige as areas PRETAS da 1.5.5 (fundo transparente de volta nos avisos e paineis). A escala de 5% segue valendo em tudo.]]></description>
+      <pubDate>Thu, 16 Jul 2026 17:28:47 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.5-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.5.5"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.6-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.5.6"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41084126"
+        length="41083480"
         type="application/octet-stream" />
     </item>
   </channel>
