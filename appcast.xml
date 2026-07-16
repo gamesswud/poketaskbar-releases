@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.5.3 (beta)</title>
-      <description><![CDATA[Os 6 pokemon do time lutam nas ondas normais: caiu um titular, entra o banco; a onda so e perdida com os 6 fora. Baus virarem UMA aba com contador em quadradinhos (arte nova em pixel); abrir e clique - ou compre os nos novos da arvore: Abridor Automatico (45s) e Maos Ageis (ate 3s).]]></description>
-      <pubDate>Thu, 16 Jul 2026 16:11:16 GMT</pubDate>
+      <title>PokeTaskBar 1.5.4 (beta)</title>
+      <description><![CDATA[Tudo 5% maior: letras e sprites mais legiveis (a janela abre um pouco maior e o jogo inteiro escala junto).]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:28:19 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.5.3"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.4-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.5.4"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41080969"
+        length="41079904"
         type="application/octet-stream" />
     </item>
   </channel>
