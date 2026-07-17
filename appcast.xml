@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.6.0 (beta)</title>
-      <description><![CDATA[Level Do Treinador (conta): seus pokemons sobem ate o nivel da conta e capturados chegam nesse nivel; progressao longa (meses ate 100). Novos nos de arvore que aumentam o XP da conta. Escudo agora absorve o dobro do dano. Ginasio ja vencido inicia revancha automatica ao farmar de volta. Troca de pokemon no meio da batalha liberada (cooldown de 15s). Trofeus renomeados para Insignias. Todo jogo novo comeca com 20 pokebolas. Arvore do treinador reordenada: upgrades fixos vem antes dos de porcentagem. Seletor de role com fundo claro.]]></description>
-      <pubDate>Fri, 17 Jul 2026 20:43:44 GMT</pubDate>
+      <title>PokeTaskBar 1.7.0 (beta)</title>
+      <description><![CDATA[Rotas de Kanto: mapa com as rotas reais de Red/Blue, encontros fieis por rota, dex 151 completa e Portal renovado (feito pelo socio). Mais pokemons ja nas primeiras ondas (alcateias), enfraquecidos no comeco para equilibrar. Mais capturaveis nas 20 primeiras ondas para montar time cedo.]]></description>
+      <pubDate>Fri, 17 Jul 2026 22:07:53 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.6.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.6.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.7.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41170364"
+        length="41177988"
         type="application/octet-stream" />
     </item>
   </channel>
