@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.5.11 (beta)</title>
-      <description><![CDATA[Descricoes completas de buffs e debuffs nas habilidades (numeros reais). Equipar AUTOMATICO inteligente (casa os itens com as skills do pokemon) + botao Tirar Tudo. Arvore com nos FLAT: +HP fixo, +Ataque fixo e +ouro fixo por abate. Bolas: pokebola comum agora dropa, Great e Ultra bem mais raras, e a MASTER BALL so vencendo o ultimo da Liga em cada dificuldade. Captura respeita o nivel do seu maior pokemon. Venda em massa na mochila (selecao multipla + por raridade). Atalhos Arvore, PC e Mapa de volta na arena. Contrastes consertados (natureza, codigo de amigo) e pedido de amizade mostra o nome do treinador.]]></description>
-      <pubDate>Fri, 17 Jul 2026 16:09:20 GMT</pubDate>
+      <title>PokeTaskBar 1.5.12 (beta)</title>
+      <description><![CDATA[Guarda-roupa do treinador com os mesmos controles da mochila: Vender Varios (selecao multipla com atalhos por raridade), ordenacao Por Raridade ou Recentes. Vender uma peca vestida desequipa sozinha.]]></description>
+      <pubDate>Fri, 17 Jul 2026 16:17:28 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.11-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.5.11"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.5.12-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.5.12"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="41168749"
+        length="41169609"
         type="application/octet-stream" />
     </item>
   </channel>
