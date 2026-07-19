@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.7.5 (beta)</title>
-      <description><![CDATA[Balanceamento: curva de stats composta, lideres com build propria e numeros compactos (12,5k). Escudo 2.0: bolha curta com recarga por tempo. Repetir Rota (farm em loop). Copia manual do save na Config. Bugfix: item equipado nao vende. Novidade: versao ANDROID com auto-update!]]></description>
-      <pubDate>Sun, 19 Jul 2026 01:18:02 GMT</pubDate>
+      <title>PokeTaskBar 1.7.6 (beta)</title>
+      <description><![CDATA[Tela de abertura com o logo do PTB (adeus iniciais fantasmas no boot). Fix critico: janela restaurada fora da tela quando o save gravava a posicao minimizada (jogo 'nao abria').]]></description>
+      <pubDate>Sun, 19 Jul 2026 01:42:22 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.5-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.7.5"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.6-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.7.6"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="39673941"
+        length="39906161"
         type="application/octet-stream" />
     </item>
   </channel>

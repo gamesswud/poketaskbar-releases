@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.5-beta/PokeTaskBar.apk",
-                    "notas":  "Balanceamento: curva de stats composta, lideres com build propria e numeros compactos (12,5k). Escudo 2.0: bolha curta com recarga por tempo. Repetir Rota (farm em loop). Copia manual do save na Config. Bugfix: item equipado nao vende. Novidade: versao ANDROID com auto-update!",
-                    "versao":  "1.7.5"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.6-beta/PokeTaskBar.apk",
+                    "notas":  "Tela de abertura com o logo do PTB (adeus iniciais fantasmas no boot). Fix critico: janela restaurada fora da tela quando o save gravava a posicao minimizada (jogo \u0027nao abria\u0027).",
+                    "versao":  "1.7.6"
                 }
 }
