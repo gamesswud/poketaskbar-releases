@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.8-beta/PokeTaskBar.apk",
-                    "notas":  "Auto-Equipar do treinador: veste as melhores pecas pro SEU time (dano elemental conta pelo quanto o time usa cada tipo). Conta: olhinho para conferir a senha e mensagens de erro corretas ao criar conta.",
-                    "versao":  "1.7.8"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.9-beta/PokeTaskBar.apk",
+                    "notas":  "VFX 2.0: todos os efeitos de skill posicionados um a um pelo dev (posicoes, tamanhos por eixo, rotacoes e composicoes com copias - trilha de pedras, teia, chuva de cristais), feixes redesenhados (Flamethrower, Hydro Pump, Hyper Beam, Gust, Psybeam, Solar Beam) e 4 artes trocadas (Hyper Beam, Poison Sting, Acid, Poison Powder).",
+                    "versao":  "1.7.9"
                 }
 }

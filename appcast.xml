@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.8.0 (beta)</title>
-      <description><![CDATA[Relatorio Da Rota (timer, XP/ouro por hora, loot, placar com valores efetivos e treinadores), Horas De Jogo na Ficha Do Treinador, barra de XP da conta na arena (clique na insignia abre a Ficha), icones das skills com carga sob a barra de vida, barra de XP roxa por pokemon, atalho de Insignias na Ficha e melhorias de UX no Android.]]></description>
-      <pubDate>Sun, 19 Jul 2026 06:10:00 GMT</pubDate>
+      <title>PokeTaskBar 1.7.9 (beta)</title>
+      <description><![CDATA[VFX 2.0: todos os efeitos de skill posicionados um a um pelo dev (posicoes, tamanhos por eixo, rotacoes e composicoes com copias - trilha de pedras, teia, chuva de cristais), feixes redesenhados (Flamethrower, Hydro Pump, Hyper Beam, Gust, Psybeam, Solar Beam) e 4 artes trocadas (Hyper Beam, Poison Sting, Acid, Poison Powder).]]></description>
+      <pubDate>Sun, 19 Jul 2026 19:06:22 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.8.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.9-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.7.9"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="43349678"
+        length="43818306"
         type="application/octet-stream" />
     </item>
   </channel>
