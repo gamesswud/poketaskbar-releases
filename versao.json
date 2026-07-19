@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.6-beta/PokeTaskBar.apk",
-                    "notas":  "Tela de abertura com o logo do PTB (adeus iniciais fantasmas no boot). Fix critico: janela restaurada fora da tela quando o save gravava a posicao minimizada (jogo \u0027nao abria\u0027).",
-                    "versao":  "1.7.6"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.7-beta/PokeTaskBar.apk",
+                    "notas":  "Kanto renovada: 29 cenarios unicos, um por rota (amanhecer, tarde, noite e madrugada — floresta noturna com vagalumes!). Conta com e-mail e senha na Config: jogue com o MESMO save no PC e no celular. Roles agora sao FIXAS por especie (iguais para todos os jogadores). Fix: clique na pokebola jogava 2 bolas.",
+                    "versao":  "1.7.7"
                 }
 }
