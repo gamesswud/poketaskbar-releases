@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PokeTaskBar — E-mail Confirmado!</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    min-height: 100vh;
+    background: #141523;
+    background-image:
+      radial-gradient(circle at 20% 30%, rgba(87,232,255,.06) 0, transparent 40%),
+      radial-gradient(circle at 80% 70%, rgba(227,53,13,.08) 0, transparent 40%);
+    color: #ECEEF8;
+    font-family: "Segoe UI", system-ui, sans-serif;
+    display: flex; align-items: center; justify-content: center;
+    padding: 24px;
+  }
+  .cartao {
+    max-width: 460px; width: 100%;
+    background: #1D1F33;
+    border: 2px solid #E3350D;
+    border-radius: 16px;
+    padding: 36px 28px;
+    text-align: center;
+    box-shadow: 0 12px 48px rgba(0,0,0,.5);
+  }
+  .bola {
+    width: 96px; height: 96px; margin: 0 auto 20px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #E3350D 0 46%, #1c1c1c 46% 54%, #F4F4F4 54% 100%);
+    position: relative;
+    image-rendering: pixelated;
+    animation: balancar 2.4s ease-in-out infinite;
+  }
+  .bola::after {
+    content: ""; position: absolute; inset: 0; margin: auto;
+    width: 26px; height: 26px; border-radius: 50%;
+    background: #F4F4F4; border: 6px solid #1c1c1c;
+  }
+  @keyframes balancar {
+    0%, 100% { transform: rotate(-6deg); }
+    50% { transform: rotate(6deg); }
+  }
+  h1 { font-size: 26px; color: #FFD34D; margin-bottom: 10px; }
+  .destaque { color: #57E8FF; font-weight: 700; }
+  p { font-size: 15px; line-height: 1.6; color: #C9CEE8; margin-bottom: 12px; }
+  .selo {
+    display: inline-block; margin-top: 14px;
+    background: #2E9E5B; color: #fff; font-weight: 800;
+    border-radius: 999px; padding: 8px 18px; font-size: 14px;
+  }
+  .rodape { margin-top: 22px; font-size: 12px; color: #7A85A5; }
+</style>
+</head>
+<body>
+  <div class="cartao">
+    <div class="bola"></div>
+    <h1>E-mail Confirmado! ✨</h1>
+    <p><span class="destaque">Agora começa a sua nova jornada no mundo de
+    PokeTaskBar!</span></p>
+    <p>Sua conta está ativa: seu progresso vive na nuvem e te acompanha
+    no PC e no celular. Capture, evolua, desafie os ginásios — a Elite
+    Four espera por você.</p>
+    <div class="selo">✅ Conta Ativada</div>
+    <p class="rodape">Pode fechar esta página e voltar ao jogo.<br>
+    Boa sorte, Treinador! 🍀</p>
+  </div>
+</body>
+</html>
