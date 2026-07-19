@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.7.9 (beta)</title>
-      <description><![CDATA[VFX 2.0: todos os efeitos de skill posicionados um a um pelo dev (posicoes, tamanhos por eixo, rotacoes e composicoes com copias - trilha de pedras, teia, chuva de cristais), feixes redesenhados (Flamethrower, Hydro Pump, Hyper Beam, Gust, Psybeam, Solar Beam) e 4 artes trocadas (Hyper Beam, Poison Sting, Acid, Poison Powder).]]></description>
-      <pubDate>Sun, 19 Jul 2026 19:06:22 GMT</pubDate>
+      <title>PokeTaskBar 1.8.1 (beta)</title>
+      <description><![CDATA[VFX 2.0 + Relatorio: efeitos de skill posicionados um a um (posicoes, tamanhos, rotacoes e composicoes com copias), cores por elemento, feixes redesenhados, 4 artes trocadas (Hyper Beam, Poison Sting, Acid, Poison Powder) — e junta o Relatorio da rota com dano efetivo/escudo inimigo e as melhorias de QoL da 1.8.0.]]></description>
+      <pubDate>Sun, 19 Jul 2026 19:12:55 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.9-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.7.9"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.8.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="43818306"
+        length="43820082"
         type="application/octet-stream" />
     </item>
   </channel>
