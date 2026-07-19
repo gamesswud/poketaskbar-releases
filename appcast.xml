@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.7.7 (beta)</title>
-      <description><![CDATA[Kanto renovada: 29 cenarios unicos, um por rota (amanhecer, tarde, noite e madrugada — floresta noturna com vagalumes!). Conta com e-mail e senha na Config: jogue com o MESMO save no PC e no celular. Roles agora sao FIXAS por especie (iguais para todos os jogadores). Fix: clique na pokebola jogava 2 bolas.]]></description>
-      <pubDate>Sun, 19 Jul 2026 03:57:50 GMT</pubDate>
+      <title>PokeTaskBar 1.7.8 (beta)</title>
+      <description><![CDATA[Auto-Equipar do treinador: veste as melhores pecas pro SEU time (dano elemental conta pelo quanto o time usa cada tipo). Conta: olhinho para conferir a senha e mensagens de erro corretas ao criar conta.]]></description>
+      <pubDate>Sun, 19 Jul 2026 04:19:54 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.7-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.7.7"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.8-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.7.8"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="43328557"
+        length="43332338"
         type="application/octet-stream" />
     </item>
   </channel>

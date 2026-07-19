@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.7-beta/PokeTaskBar.apk",
-                    "notas":  "Kanto renovada: 29 cenarios unicos, um por rota (amanhecer, tarde, noite e madrugada — floresta noturna com vagalumes!). Conta com e-mail e senha na Config: jogue com o MESMO save no PC e no celular. Roles agora sao FIXAS por especie (iguais para todos os jogadores). Fix: clique na pokebola jogava 2 bolas.",
-                    "versao":  "1.7.7"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.7.8-beta/PokeTaskBar.apk",
+                    "notas":  "Auto-Equipar do treinador: veste as melhores pecas pro SEU time (dano elemental conta pelo quanto o time usa cada tipo). Conta: olhinho para conferir a senha e mensagens de erro corretas ao criar conta.",
+                    "versao":  "1.7.8"
                 }
 }
