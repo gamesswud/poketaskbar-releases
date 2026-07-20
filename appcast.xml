@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.8.5 (beta)</title>
-      <description><![CDATA[VFX: Hyper Beam em 3 fases (espiral que carrega + linha reta + explosao), Flamethrower corrigido, projeteis que pousam no alvo (nao passam mais), ataques brancos bem mais visiveis. Relatorio: botao que zera so o placar do time. Inclui a grande atualizacao de progressao do time (arvore 3.0, tutores, itens, dojo) do socio.]]></description>
-      <pubDate>Mon, 20 Jul 2026 17:42:10 GMT</pubDate>
+      <title>PokeTaskBar 1.8.6 (beta)</title>
+      <description><![CDATA[Captura automatica e repeticao de rota mais simples: os botoes redondos sairam. Agora SEGURAR a pokebola (canto inferior direito) liga/desliga a captura automatica, e CLICAR no nome da rota (topo) liga/desliga a repeticao em loop (setinhas douradas giram ao redor do nome quando ligada).]]></description>
+      <pubDate>Mon, 20 Jul 2026 20:29:39 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.5-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.8.5"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.6-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.8.6"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="46351425"
+        length="46359001"
         type="application/octet-stream" />
     </item>
   </channel>
