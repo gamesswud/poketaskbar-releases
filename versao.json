@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.1-beta/PokeTaskBar.apk",
-                    "notas":  "VFX 2.0 + Relatorio: efeitos de skill posicionados um a um (posicoes, tamanhos, rotacoes e composicoes com copias), cores por elemento, feixes redesenhados, 4 artes trocadas (Hyper Beam, Poison Sting, Acid, Poison Powder) — e junta o Relatorio da rota com dano efetivo/escudo inimigo e as melhorias de QoL da 1.8.0.",
-                    "versao":  "1.8.1"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.2-beta/PokeTaskBar.apk",
+                    "notas":  "Skills 2.0: sistema de 5 arquetipos curado skill a skill (projeteis que viajam ate o alvo, feixes horizontais de 3s com dano canalizado, feixes verticais, buffs e debuffs), cores refeitas preservando nuances (hyper beam amarelo vivo, withdraw azul-agua), efeitos que seguem os pokemon e respeitam a linha do chao, ataques basicos em arco. Fundos nivelados na mesma linha de chao, Elite Four sem personagens, navegacao nova da Ficha (setas + miniaturas).",
+                    "versao":  "1.8.2"
                 }
 }
