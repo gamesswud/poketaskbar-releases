@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.8.3 (beta)</title>
-      <description><![CDATA[Ataques basicos 2.0: um SFX unico na cor do elemento de cada pokemon, tamanho fixo e voo em arco. Skills 100% opacas (sem fades), frames vazios aparados, escudo do Withdraw/Reflect/Barrier estavel (so os frames de escudo cheio), vento verde-claro e planta verde-escuro, e botao de teste na Config para liberar a dex no Lv 50.]]></description>
-      <pubDate>Mon, 20 Jul 2026 01:27:19 GMT</pubDate>
+      <title>PokeTaskBar 1.8.4 (beta)</title>
+      <description><![CDATA[Golpes de area 2.0: todos os alvos levam 0,5 do poder (ninguem leva dano cheio), o efeito visual bate em cada inimigo (leque de jatos/impactos), Solar Beam vira golpe de area, e Thunder + Solar Beam ficam ligados 3s com o dano dividido no tempo (como os feixes horizontais). Inclui tambem: ataques basicos por elemento (tamanho fixo, em arco), skills sem fades, escudo estavel, verdes ajustados (vento claro/planta escuro) e botao de teste Lv 50 na Config.]]></description>
+      <pubDate>Mon, 20 Jul 2026 02:31:54 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.8.3"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.4-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.8.4"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="46213091"
+        length="46212951"
         type="application/octet-stream" />
     </item>
   </channel>
