@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.9.4 (beta)</title>
-      <description><![CDATA[Tela de boas-vindas: o Professor Carvalho agora aparece bem maior (1.8x), mais proeminente ao lado das Poke Bolas.]]></description>
-      <pubDate>Tue, 21 Jul 2026 17:18:01 GMT</pubDate>
+      <title>PokeTaskBar 1.9.5 (beta)</title>
+      <description><![CDATA[Tela de boas-vindas: o Professor Carvalho agora aparece realmente grande e proeminente (correcao do tamanho que nao estava sendo aplicado).]]></description>
+      <pubDate>Tue, 21 Jul 2026 17:29:36 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.9.4-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.9.4"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.9.5-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.9.5"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="46873512"
+        length="46873080"
         type="application/octet-stream" />
     </item>
   </channel>
