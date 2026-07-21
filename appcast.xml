@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.8.7 (beta)</title>
-      <description><![CDATA[Waterfall agora e golpe de area: a cachoeira desaba sobre todos os inimigos vivos (50% do poder em cada, cada um com a propria defesa/efetividade).]]></description>
-      <pubDate>Mon, 20 Jul 2026 21:33:16 GMT</pubDate>
+      <title>PokeTaskBar 1.9.0 (beta)</title>
+      <description><![CDATA[A Jornada Completa: mapa de Kanto inteiro com 55 Fases em 11 Atos, time que cresce por captura e colecao que vira poder permanente. E conserto: o jogo nao fica mais preso na tela inicial ao abrir.]]></description>
+      <pubDate>Tue, 21 Jul 2026 06:20:00 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.7-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.8.7"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.9.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.9.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="46359279"
+        length="46468763"
         type="application/octet-stream" />
     </item>
   </channel>
