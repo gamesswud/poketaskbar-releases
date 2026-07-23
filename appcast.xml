@@ -3,23 +3,10 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.9.9 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Skills com cara nova e a música original na abertura!
-
-• Todos os efeitos das skills passaram por uma curadoria de cores e animações — cada golpe agora tem o visual e a cor certos do seu tipo.
-• Waterfall corrigido: os splashes de água agora acontecem junto do tornado, em cima do alvo.
-• Blizzard virou uma nevasca de verdade: 3 segundos de duração com 1 golpe por segundo.
-• Psybeam agora é um disparo único e direto.
-• A abertura do jogo agora toca a música tema original do PokeTaskBar.
-• O Baú ficou solto na tela (sem caixa branca) e os contadores viraram quadradinhos dourados embaixo dele.</body></html>]]></description>
-      <pubDate>Thu, 23 Jul 2026 02:29:06 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.9.9-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.9.9"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="63064742"
-        type="application/octet-stream" />
+      <title>PokeTaskBar 1.9.10 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Conserto: os Pokemon Viajantes (as aparicoes brilhantes de trofeu) apareciam demais no comeco da jornada. Agora voltam a ser um evento raro, do jeito que deviam ser.</body></html>]]></description>
+      <pubDate>Thu, 23 Jul 2026 03:46:44 GMT</pubDate>
+      <enclosure url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.9.10-beta/PokeTaskBar-Setup.exe" sparkle:version="1.9.10" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP-" length="63082208" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
