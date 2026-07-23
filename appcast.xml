@@ -3,19 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.9.7 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Pokémon viajantes agora são aparições raras.
+      <title>PokeTaskBar 1.9.8 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Pokémon viajantes ainda mais raros.
 
-• Cada viajante aparece no máximo uma vez por rota: depois de surgir, ele some — e só volta a aparecer quando você termina a rota e recomeça.
-• No geral ficaram bem mais raros: viraram um evento especial, não algo do dia a dia.
-• O Pikachu garantido da Floresta de Viridian continua igual.</body></html>]]></description>
-      <pubDate>Thu, 23 Jul 2026 01:33:34 GMT</pubDate>
+• Reduzimos bastante a chance de um viajante aparecer no meio das batalhas — agora são um encontro realmente especial.
+• Continua valendo: cada viajante aparece no máximo uma vez por rota (some depois de surgir e volta quando você recomeça a rota).
+• O Pikachu garantido da Floresta de Viridian segue igual.</body></html>]]></description>
+      <pubDate>Thu, 23 Jul 2026 01:51:17 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.9.7-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.9.7"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.9.8-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.9.8"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="46908965"
+        length="46909949"
         type="application/octet-stream" />
     </item>
   </channel>
