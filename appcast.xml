@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.11.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mostrador de cooldown das skills refinado (quadradinhos com borda preta, transparentes quando vazios, enchendo com a cor do tipo conforme a skill carrega) e sprites do Charizard estabilizados no modelo Alternate em todas as animacoes.</body></html>]]></description>
-      <pubDate>Sun, 26 Jul 2026 15:36:33 GMT</pubDate>
+      <title>PokeTaskBar 1.12.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>MODO MINI: um botao novo encolhe o jogo numa faixinha fofa onde o seu time passeia em sprites overworld pelo cenario da rota, encontrando selvagens em mini batalhas — o jogo continua rodando por baixo; duplo clique traz de volta. Arrasto da janela sem o retangulo branco fantasma.</body></html>]]></description>
+      <pubDate>Sun, 26 Jul 2026 21:08:17 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.11.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.11.2"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.12.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.12.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="168618742"
+        length="169406917"
         type="application/octet-stream" />
     </item>
   </channel>
