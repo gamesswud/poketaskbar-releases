@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.13.4 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Save Blindado: seu progresso agora tem uma Copia Reserva automatica — se o arquivo principal de save falhar, o jogo carrega a reserva sozinho e nada se perde (e avisa na tela quando algo nao esta gravando). Fechar no X ficou instantaneo. Guardar Copia agora tambem exporta um arquivo de verdade para Documentos\PokeTaskBar. Bonus: Tema Escuro nos menus (ative na Config) e efeitos visuais de varios Golpes refinados.</body></html>]]></description>
-      <pubDate>Tue, 28 Jul 2026 00:32:50 GMT</pubDate>
+      <title>PokeTaskBar 1.14.0 (beta)</title>
+      <description><![CDATA[COMBATE POR TURNOS! O jogo agora e turn-based como o original: todos os pokemon entram numa fila ordenada por VELOCIDADE (e prioridade de golpes como Quick Attack) e agem um por vez. O ataque basico saiu do jogo: toda acao e uma skill com PP OFICIAL (restaura a cada onda; sem PP sobra o Struggle, com recuo). PRECISAO OFICIAL: golpes podem errar como no original (Errou! na tela). EFEITOS SECUNDARIOS OFICIAIS: queimadura, paralisia, congelamento, veneno, sono e confusao com as chances da PokeAPI. ROTACAO DE GOLPES na Ficha: escolha a ordem e quantas vezes cada golpe entra no ciclo (ex.: 1 Hyper Beam a cada 3 Tackle) ou deixe a IA decidir. Pokemon derrotado agora fica na tela ate a animacao do golpe fatal terminar. Cenarios com PARALLAX real (fundo e chao em camadas) e ritmo geral mais rapido. Correcao: travamento raro com a arena vazia.]]></description>
+      <pubDate>Thu, 30 Jul 2026 23:08:16 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.13.4-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.13.4"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.14.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.14.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="180787630"
+        length="180777416"
         type="application/octet-stream" />
     </item>
   </channel>
