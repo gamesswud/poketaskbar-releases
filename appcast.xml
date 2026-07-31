@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.14.0 (beta)</title>
-      <description><![CDATA[COMBATE POR TURNOS! O jogo agora e turn-based como o original: todos os pokemon entram numa fila ordenada por VELOCIDADE (e prioridade de golpes como Quick Attack) e agem um por vez. O ataque basico saiu do jogo: toda acao e uma skill com PP OFICIAL (restaura a cada onda; sem PP sobra o Struggle, com recuo). PRECISAO OFICIAL: golpes podem errar como no original (Errou! na tela). EFEITOS SECUNDARIOS OFICIAIS: queimadura, paralisia, congelamento, veneno, sono e confusao com as chances da PokeAPI. ROTACAO DE GOLPES na Ficha: escolha a ordem e quantas vezes cada golpe entra no ciclo (ex.: 1 Hyper Beam a cada 3 Tackle) ou deixe a IA decidir. Pokemon derrotado agora fica na tela ate a animacao do golpe fatal terminar. Cenarios com PARALLAX real (fundo e chao em camadas) e ritmo geral mais rapido. Correcao: travamento raro com a arena vazia.]]></description>
-      <pubDate>Thu, 30 Jul 2026 23:08:16 GMT</pubDate>
+      <title>PokeTaskBar 1.15.0 (beta)</title>
+      <description><![CDATA[Menu novo estilo Pokemon com destaques NOVO!, Ficha reorganizada em abas (Golpes, Itens e Formacao - o PC agora mora na Formacao), rotacao de golpes editada direto no chip (toque no Nx), PP recarrega 25% por vitoria (enche ao desafiar ginasio), golpe inutil nao gasta mais PP, e desbloqueio progressivo para contas novas.]]></description>
+      <pubDate>Fri, 31 Jul 2026 07:24:49 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.14.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.14.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.15.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.15.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="180777416"
+        length="180816211"
         type="application/octet-stream" />
     </item>
   </channel>
