@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.15.1 (beta)</title>
-      <description><![CDATA[VERSAO UNIFICADA! Junta a 1.15.0 (menu novo estilo Pokemon, Ficha em abas com Golpes/Itens/Formacao, rotacao editada direto no chip, PP recarrega 25 por cento por vitoria, golpe inutil nao gasta PP, desbloqueio progressivo) com a leva nova: RENASCIMENTO (no Lv 100, renasca do Lv 1 com +50 por cento permanente em todos os stats, acumulavel, e uma aura dourada na arena), balanceamento dos 3 atos (Elite mais rapida e com risco real - dano quebra-muralha contra chefes e lideres), correcao DEFINITIVA do travamento de arena vazia (onda parada com o time em pe), setinhas de buff/debuff de volta abaixo do PP, golpes com alvo especial (Drill Peck/Sky Attack/Razor Wind atacam a linha de tras; Quick Attack executa o mais ferido), Growl/Leer/Tail Whip/String Shot debuffam a alcateia inteira, e o VFX dos escudos (Withdraw/Reflect/Barrier) visivel de novo. Struggle recupera 2 PP de cada golpe a cada 2 usos.]]></description>
-      <pubDate>Sat, 01 Aug 2026 04:54:22 GMT</pubDate>
+      <title>PokeTaskBar 1.16.0 (beta)</title>
+      <description><![CDATA[Tudo da 1.15.1 mais a Ficha Do Treinador nova! RENASCIMENTO (no Lv 100, renasca do Lv 1 com +50 por cento permanente em todos os stats, acumulavel, e uma aura dourada na arena), balanceamento dos 3 atos (Elite mais rapida e com risco real - dano quebra-muralha contra chefes e lideres), Ficha Do Treinador em tela unica com abas (Perfil, Insignias, Fama, Guarda-Roupa e Hall), recomecar a jornada limpa tudo de verdade (visual, musica e rival), correcao DEFINITIVA do travamento de arena vazia, setinhas de buff/debuff abaixo do PP, golpes com alvo especial, debuffs em area e o VFX dos escudos visivel de novo.]]></description>
+      <pubDate>Sat, 01 Aug 2026 05:52:10 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.15.1-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.15.1"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.16.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.16.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="180799693"
+        length="180818706"
         type="application/octet-stream" />
     </item>
   </channel>
