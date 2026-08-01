@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.16.0 (beta)</title>
-      <description><![CDATA[Tudo da 1.15.1 mais a Ficha Do Treinador nova! RENASCIMENTO (no Lv 100, renasca do Lv 1 com +50 por cento permanente em todos os stats, acumulavel, e uma aura dourada na arena), balanceamento dos 3 atos (Elite mais rapida e com risco real - dano quebra-muralha contra chefes e lideres), Ficha Do Treinador em tela unica com abas (Perfil, Insignias, Fama, Guarda-Roupa e Hall), recomecar a jornada limpa tudo de verdade (visual, musica e rival), correcao DEFINITIVA do travamento de arena vazia, setinhas de buff/debuff abaixo do PP, golpes com alvo especial, debuffs em area e o VFX dos escudos visivel de novo.]]></description>
-      <pubDate>Sat, 01 Aug 2026 05:52:10 GMT</pubDate>
+      <title>PokeTaskBar 1.16.1 (beta)</title>
+      <description><![CDATA[VERSAO CONSOLIDADA! RENASCIMENTO (no Lv 100, renasca do Lv 1 com +50 por cento permanente em todos os stats, acumulavel, e uma aura dourada na arena), Calibragem Do Mes (a jornada dos 3 atos afinada), balanceamento da Liga (Elite mais rapida e com risco real - dano quebra-muralha contra chefes e lideres), Ficha Do Treinador em tela unica com abas (Perfil, Insignias, Fama, Guarda-Roupa e Hall), recomecar a jornada limpa tudo de verdade (visual, musica e rival), a marcha entre fases espera todos os efeitos terminarem, correcao DEFINITIVA do travamento de arena vazia, setinhas de buff/debuff abaixo do PP, golpes com alvo especial, debuffs em area e o VFX dos escudos visivel de novo.]]></description>
+      <pubDate>Sat, 01 Aug 2026 06:39:02 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.16.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.16.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.16.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.16.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="180818706"
+        length="180820022"
         type="application/octet-stream" />
     </item>
   </channel>
