@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.18.0 (beta)</title>
-      <description><![CDATA[A MAIOR ATUALIZACAO DE COMBATE ATE HOJE! 1) MODELO OFICIAL POR TURNOS: veneno/queimadura tiram 1/8 do HP por TURNO, toxico cresce n/16, sono dura 1-4 turnos, paralisia corta a Velocidade em 4x com 25 por cento de perder o turno, congelado descongela 20 por cento por turno, confusao faz o pokemon se acertar (50 por cento), e buffs/debuffs viraram ESTAGIOS oficiais (-6..+6, ate o fim da onda) com precisao/evasao valendo na mira. Tudo em AREA aplica com o valor pela METADE. 2) APRENDIZADO POR NIVEL: o kit de cada pokemon e o learnset do FireRed em ordem - golpes destravam conforme o nivel, e a Ficha mostra os stats buffados AO VIVO. 3) 123 SKILLS NOVAS do FireRed entraram no jogo (thunderbolt com raio proprio do ceu, fire-blast, sludge-bomb, aerial-ace com RAZANTE - o voador sobe e mergulha no alvo -, giga-drain, calm-mind, dragon-dance, belly-drum e muito mais), cada uma com VFX proprio e efeitos oficiais. 4) Turnos esperam a animacao terminar; tanques e suportes ganharam skills da sua identidade; catalogo de golpes agora so mostra o que ja foi aprendido.]]></description>
-      <pubDate>Mon, 03 Aug 2026 22:35:18 GMT</pubDate>
+      <title>PokeTaskBar 1.18.1 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>COMPLETA A 1.18.0 - A MAIOR ATUALIZACAO DE COMBATE ATE HOJE, AGORA COM A FICHA DO TREINADOR NOVA! 1) MODELO OFICIAL POR TURNOS: veneno/queimadura tiram 1/8 do HP por TURNO, toxico cresce n/16, sono dura 1-4 turnos, paralisia corta a Velocidade em 4x com 25 por cento de perder o turno, congelado descongela 20 por cento por turno, confusao faz o pokemon se acertar (50 por cento), e buffs/debuffs viraram ESTAGIOS oficiais (-6..+6) com precisao/evasao valendo na mira. Area aplica pela metade. 2) APRENDIZADO POR NIVEL: o kit de cada pokemon segue o learnset do FireRed em ordem - golpes destravam conforme o nivel, e a Ficha mostra os stats buffados AO VIVO. 3) 123 SKILLS NOVAS do FireRed, cada uma com VFX proprio e efeitos oficiais (thunderbolt, fire-blast, aerial-ace com razante, giga-drain, dragon-dance e muito mais). 4) FICHA DO TREINADOR 2.0: um Trainer Card de verdade - insignias em destaque, retrato maior, roupas ao lado - e a aba CONQUISTAS nova: Relatorio Da Campanha + 10 conquistas com bonus permanentes (Ginasios, Liga, nivel 100, Lendarios, Fase 55). 5) Guarda-Roupa compara pecas no hover (ganho em verde, perda em vermelho), setinhas clicaveis nas listas, e o catalogo de golpes so mostra o que ja foi aprendido.</body></html>]]></description>
+      <pubDate>Mon, 03 Aug 2026 22:58:14 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.18.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.18.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.18.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.18.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="183681857"
+        length="183701567"
         type="application/octet-stream" />
     </item>
   </channel>
