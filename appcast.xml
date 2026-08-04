@@ -11,7 +11,7 @@
         sparkle:version="1.18.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="183701567"
+        length="183689057"
         type="application/octet-stream" />
     </item>
   </channel>
