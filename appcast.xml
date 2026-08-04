@@ -3,27 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.18.3 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>NAVEGACAO SEM NO: o menu ganhou juizo. 1) UMA TELA SO PARA O TIME: o botao do Ginasio abre a mesma Formacao do menu, com o DESAFIAR no rodape - acabou a tela irma quase igual. 2) VOLTAR PREVISIVEL: o botao Voltar agora sempre leva a tela anterior ou ao menu (o X segue fechando tudo). 3) BUSCA NA POKEDEX: pesquise por nome ou numero da dex + filtro por tipo (nome so encontra especie que voce ja viu - misterio continua misterio). 4) ABA GOLPES: destrava ao equipar ou melhorar qualquer golpe (antes ela podia ficar escondida mesmo pra quem ja mexia nos golpes). 5) Cartoezinhos de Pokemon unificados por dentro (Formacao, PC, Creche e Pokedex) - mesma cara, menos bug futuro.</body></html>]]></description>
-      <pubDate>Tue, 04 Aug 2026 08:58:00 GMT</pubDate>
+      <title>PokeTaskBar 1.18.4 (beta)</title>
+      <description><![CDATA[CURADORIA VISUAL V15: dezenas de VFX refinados pelo dev (Dragon Dance, Fire Blast, Sandstorm, Shadow Ball, Blizzard, Feather Dance e mais) com as cores oficiais do editor, e ajustes de quais golpes fazem o dash corpo-a-corpo.]]></description>
+      <pubDate>Tue, 04 Aug 2026 15:18:41 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.18.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.18.3"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.18.4-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.18.4"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="184211852"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.18.2 (beta)</title>
-      <description><![CDATA[POLIMENTO DA GRANDE ATUALIZACAO: 1) CORES OFICIAIS DOS VFX - as cores de todas as skills agora sao exatamente as curadas no editor (pipeline de cor refeito, ~450 efeitos regenerados) + curadoria visual nova do dev em dezenas de skills. 2) CLIMA DE VERDADE: Rain Dance, Sunny Day e Sandstorm mudam o tempo da arena por 5 turnos com particulas em tempo real (chuva, sol, areia), efeitos oficiais no dano e aviso na timeline. 3) EFEITOS ESCRITOS: golpe de status nao mostra mais numero - aparece o que aplicou (Dormindo, -Ataque, Escudo, Chuva!...) em cima de quem recebeu; buffs compostos como Dragon Dance descritos por inteiro em toda a UI. 4) FICHA: consertada a ficha em branco com golpes de status equipados; stats mostram buffs/debuffs AO VIVO com estagios; Formacao agora usa as artes MINI (com shiny). 5) Gyarados e Onix redimensionados (nao amontoam mais o time), 15+ skills de terra/vento ganharam seus VFX que faltavam, e o catalogo de golpes so mostra o que ja foi aprendido.]]></description>
-      <pubDate>Tue, 04 Aug 2026 03:46:42 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.18.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.18.2"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="184188934"
+        length="185409671"
         type="application/octet-stream" />
     </item>
   </channel>
