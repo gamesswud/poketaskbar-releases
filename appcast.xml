@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.18.10 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>CORRECOES E POLIMENTO DE COLECAO: 1) EQUIPAR AUTOMATICO DE VERDADE: o botao agora compara o que o Pokemon ja usa com a Mochila e troca pelo melhor (o substituido volta pra Mochila). 2) CONTADOR DE INSIGNIAS CONSERTADO: a Liga nao conta mais como Insignia - so os 8 Ginasios - e o contador acumula por dificuldade (8, 16, 24...) reconhecendo as revencidas no Pesadelo em diante. 3) GUIA DE CACA HONESTO: a lista de especies de cada rota agora reflete a SUA dificuldade, com as chances certas + migrantes do ciclo, Lendarios (Pesadelo+) e Reliquias (Inferno+). 4) NOVIDADE MARCADA: Pokemon recem-capturado aparece com bolinha vermelha na Pokedex e na Formacao, igual aos itens novos. 5) COMECO JUSTO: jogo novo nao destrava mais o 3o espaco do time sozinho.</body></html>]]></description>
-      <pubDate>Mon, 10 Aug 2026 23:05:00 GMT</pubDate>
+      <title>PokeTaskBar 1.18.11 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>HOTFIX DAS TELAS DESFORMATADAS + POLIMENTO DE COLECAO: 0) CONSERTO URGENTE: a 1.18.10 embarcou por engano um arquivo de ajustes de layout de teste que deslocava e escalava elementos das telas - tudo volta ao normal. E o que veio na 1.18.10: 1) EQUIPAR AUTOMATICO DE VERDADE: compara o que o Pokemon ja usa com a Mochila e troca pelo melhor. 2) CONTADOR DE INSIGNIAS: a Liga nao conta mais - so os 8 Ginasios - e o contador acumula por dificuldade (8, 16, 24...). 3) GUIA DE CACA HONESTO: especies e chances da SUA dificuldade + migrantes, Lendarios (Pesadelo+) e Reliquias (Inferno+). 4) Pokemon recem-capturado marcado com bolinha vermelha na Pokedex e na Formacao. 5) Jogo novo nao destrava mais o 3o espaco do time sozinho.</body></html>]]></description>
+      <pubDate>Mon, 10 Aug 2026 23:59:00 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.18.10-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.18.10"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.18.11-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.18.11"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="189852973"
+        length="189858006"
         type="application/octet-stream" />
     </item>
   </channel>
