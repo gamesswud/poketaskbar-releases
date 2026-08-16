@@ -3,24 +3,24 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.20.1 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>POLIMENTO DA FICHA + CORREÇÕES!
+      <title>PokeTaskBar 1.20.2 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>PVP CONSERTADO + TROCAS EM BATALHA!
 
-• Card de STATS: bônus verdes e IVs alinhados em colunas, botões +/− sempre visíveis colados na borda, números maiores.
-• O card de identidade agora mostra o SPRITE ANIMADO do pokémon sobre um fundo temático do elemento dele (15 cenários novos!).
-• A roleta do PC mostra os retratos oficiais.
-• Retrato/sprite na mesma altura das grades de itens e skills (tudo simétrico).
-• Renascer virou uma estrelinha ⭐ abaixo das skills (aparece no Lv 100).
-• Slot de held item com borda dourada e ícone de saquinho novo.
-• Lista de golpes mais limpa (só nomes) e sem a bolha vermelha.
-• Golpes não podem mais ser resetados: o investimento é permanente.</body></html>]]></description>
-      <pubDate>Sun, 16 Aug 2026 03:26:28 GMT</pubDate>
+• CORREÇÃO IMPORTANTE: o PvP manual travava depois da primeira escolha — corrigido! Atualizem os DOIS lados para batalhar.
+• Troca em batalha no PvP: na sua vez, arraste um pokémon do banco (aba lateral) para a arena. A troca gasta o turno, como nos jogos originais.
+• As abas laterais do PvP mostram os 6 de cada time em miniatura (caído fica apagado).
+• Escolha de time: ordene por Nível, A–Z ou IV; miniatura e renascimentos visíveis em cada pokémon.
+• Batalha de ginásio agora acontece na arena temática do líder (8 cenários novos!).
+• Stats do PC: colunas alinhadas, bônus de item em pontos (o % era um erro de exibição).
+• Descrições de golpes reescritas: curtas e diretas; dicas só aparecem após 1s de hover.
+• Árvore: o Arremesso Automático explica como ligar/desligar (segurar a pokébola).</body></html>]]></description>
+      <pubDate>Sun, 16 Aug 2026 22:58:52 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.20.1-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.20.1"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.20.2-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.20.2"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="191713774"
+        length="192695791"
         type="application/octet-stream" />
     </item>
   </channel>
