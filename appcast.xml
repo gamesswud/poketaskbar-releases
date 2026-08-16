@@ -3,25 +3,24 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.20.0 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>GRANDE ATUALIZAÇÃO DA FICHA E DO PVP!
+      <title>PokeTaskBar 1.20.1 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>POLIMENTO DA FICHA + CORREÇÕES!
 
-• PvP 100% Manual: agora você escolhe cada golpe na sua vez (15s por turno). A batalha é idêntica nos dois PCs.
-• 4 Golpes Para Todos: todo pokémon equipa 4 golpes, como nos jogos originais.
-• Ficha Repaginada: card de identidade compacto, stats grandes e legíveis, retrato maior, lista de golpes limpa.
-• Renascer virou uma estrelinha abaixo das skills (aparece no Lv 100).
-• Renascimento é upgrade puro: mantém os stats de Lv 100 e as skills abertas, com cerimônia especial.
-• Troca em batalha: arraste um pokémon da aba do treinador para a arena (o que entra perde o turno).
-• Dano de veneno/queimadura/semente aparece na hora certa do turno.
-• VFX dos golpes proporcional a quem ataca; marcha espera as animações.
-• Vários polimentos de UI (fontes +5%, ícones nítidos, mochila com held items).</body></html>]]></description>
-      <pubDate>Sat, 15 Aug 2026 17:50:50 GMT</pubDate>
+• Card de STATS: bônus verdes e IVs alinhados em colunas, botões +/− sempre visíveis colados na borda, números maiores.
+• O card de identidade agora mostra o SPRITE ANIMADO do pokémon sobre um fundo temático do elemento dele (15 cenários novos!).
+• A roleta do PC mostra os retratos oficiais.
+• Retrato/sprite na mesma altura das grades de itens e skills (tudo simétrico).
+• Renascer virou uma estrelinha ⭐ abaixo das skills (aparece no Lv 100).
+• Slot de held item com borda dourada e ícone de saquinho novo.
+• Lista de golpes mais limpa (só nomes) e sem a bolha vermelha.
+• Golpes não podem mais ser resetados: o investimento é permanente.</body></html>]]></description>
+      <pubDate>Sun, 16 Aug 2026 03:26:28 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.20.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.20.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.20.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.20.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="190588151"
+        length="191713774"
         type="application/octet-stream" />
     </item>
   </channel>
