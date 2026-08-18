@@ -3,78 +3,25 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.21.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>MOCHILA 2.0!
+      <title>PokeTaskBar 1.21.3 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>BATALHA MANUAL + MAPA DE TERRITÓRIOS + PVP COMPLETO!
 
-A Mochila foi reconstruida: painel dividido em Herói e Inventário, abas novas e fusão de itens por arraste.</body></html>]]></description>
-      <pubDate>Tue, 18 Aug 2026 01:39:00 GMT</pubDate>
+• Batalha Manual: nova pill AUTO/MANUAL no canto da arena — no manual você escolhe o golpe de cada pokémon na vez dele (como no PvP), sem relógio.
+• Mapa: as fases viraram territórios coloridos com o nome do lugar; ícone novo de ginásio.
+• PvP: troca de pokémon com animação da pokébola (também no KO), golpes na arena com PP ao lado do nome, anel azul no pokémon da vez, escolha de alvo, aba com o time dos dois lados. Bot De Treino na aba Amigos.
+• Balanceamento (experimental): efetividade de tipo menos extrema — super efetivo continua forte, mas resistido não zera mais.
+• 24 golpes ganharam mecânica de verdade (Dragon Rage, Super Fang, Roar, Metronome…); Struggle enfraquecido; Splash não faz nada (de propósito).
+• Ficha: card de STATS em colunas, sprite animado com fundo do elemento, retratos na roleta, hover dos golpes com o elemento.
+• Arenas temáticas nos 8 ginásios; Pikachu e outros minis corrigidos; ícones de elemento atualizados.
+• Correções: área fantasma ao redor da arena, tooltips cortados, ginásio durante PvP.
+• Inclui a Mochila 2.0, o Mapa 3.0 e a Barra De Menu das versões anteriores.</body></html>]]></description>
+      <pubDate>Tue, 18 Aug 2026 16:34:33 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.21.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.21.2"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.21.3-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.21.3"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="192744618"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.21.1 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>MAPA DE KANTO 3.0!
-
-O Mapa foi redesenhado: o mapa MOSTRA, a lista ESCOLHE.
-
-• Fases do ato numa lista ao lado do mapa: clique na linha (ou no circulo do mapa) e viaje.
-• Selos claros: check = fase vencida, estrela = todos os pokemon da fase capturados, cadeado = trancada.
-• Atos: setas + pontinhos clicaveis para pular direto; dificuldade em chips, sem lista.
-• Guia De Caca em grade com sprites maiores e pokebola cheia/apagada (capturado ou nao).
-• O mapa da zoom na regiao do ato e o local escolhido pulsa.</body></html>]]></description>
-      <pubDate>Mon, 17 Aug 2026 23:20:00 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.21.1-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.21.1"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="192724828"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.21.0 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>BARRA DE MENU!
-
-O menu virou uma barra de ícones que sobe da arena: tudo a 1 clique.
-
-• Barra De Menu: ☰ abre os ícones acima da arena; passe o mouse para ver o nome; trocar de tela é 1 clique. ☰ de novo esconde a barra.
-• Bot De Treino: batalha PvP local contra a IA com uma cópia do seu time (aba Amigos).
-• PvP: fim do "esperando o oponente pra sempre"; golpes canalizados dão o dano inteiro.
-• 24 golpes que não faziam nada agora têm efeito (Dragon Rage, Sonic Boom, Guillotine, Super Fang…).
-• HUD da arena só com Modo Mini, ☰ e ✕ — e fechar o jogo pede confirmação.</body></html>]]></description>
-      <pubDate>Sun, 17 Aug 2026 21:05:00 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.21.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.21.0"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="192712780"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.20.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>PVP CONSERTADO + TROCAS EM BATALHA!
-
-• CORREÇÃO IMPORTANTE: o PvP manual travava depois da primeira escolha — corrigido! Atualizem os DOIS lados para batalhar.
-• Troca em batalha no PvP: na sua vez, arraste um pokémon do banco (aba lateral) para a arena. A troca gasta o turno, como nos jogos originais.
-• As abas laterais do PvP mostram os 6 de cada time em miniatura (caído fica apagado).
-• Escolha de time: ordene por Nível, A–Z ou IV; miniatura e renascimentos visíveis em cada pokémon.
-• Batalha de ginásio agora acontece na arena temática do líder (8 cenários novos!).
-• Stats do PC: colunas alinhadas, bônus de item em pontos (o % era um erro de exibição).
-• Descrições de golpes reescritas: curtas e diretas; dicas só aparecem após 1s de hover.
-• Árvore: o Arremesso Automático explica como ligar/desligar (segurar a pokébola).</body></html>]]></description>
-      <pubDate>Sun, 16 Aug 2026 22:58:52 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.20.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.20.2"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="192695791"
+        length="194644114"
         type="application/octet-stream" />
     </item>
   </channel>
