@@ -3,25 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.21.3 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>BATALHA MANUAL + MAPA DE TERRITÓRIOS + PVP COMPLETO!
-
-• Batalha Manual: nova pill AUTO/MANUAL no canto da arena — no manual você escolhe o golpe de cada pokémon na vez dele (como no PvP), sem relógio.
-• Mapa: as fases viraram territórios coloridos com o nome do lugar; ícone novo de ginásio.
-• PvP: troca de pokémon com animação da pokébola (também no KO), golpes na arena com PP ao lado do nome, anel azul no pokémon da vez, escolha de alvo, aba com o time dos dois lados. Bot De Treino na aba Amigos.
-• Balanceamento (experimental): efetividade de tipo menos extrema — super efetivo continua forte, mas resistido não zera mais.
-• 24 golpes ganharam mecânica de verdade (Dragon Rage, Super Fang, Roar, Metronome…); Struggle enfraquecido; Splash não faz nada (de propósito).
-• Ficha: card de STATS em colunas, sprite animado com fundo do elemento, retratos na roleta, hover dos golpes com o elemento.
-• Arenas temáticas nos 8 ginásios; Pikachu e outros minis corrigidos; ícones de elemento atualizados.
-• Correções: área fantasma ao redor da arena, tooltips cortados, ginásio durante PvP.
-• Inclui a Mochila 2.0, o Mapa 3.0 e a Barra De Menu das versões anteriores.</body></html>]]></description>
-      <pubDate>Tue, 18 Aug 2026 16:34:33 GMT</pubDate>
+      <title>PokeTaskBar 1.21.4 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Atualização da beta.</body></html>]]></description>
+      <pubDate>Tue, 18 Aug 2026 17:38:19 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.21.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.21.3"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.21.4-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.21.4"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="194644114"
+        length="194642236"
         type="application/octet-stream" />
     </item>
   </channel>
