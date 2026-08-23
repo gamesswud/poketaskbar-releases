@@ -3,27 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.23.0 (beta) — Reforma De Moedas</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Reforma De Moedas! Subir golpe agora custa Fichas do Game Corner - e a Fita saiu da exigencia do nivel 10. A Loja da Mochila aceita Ouro: buffs com limite diario, lotes de Pokebola (sem teto) e Great Ball, e ate Fichas. Pokebola nao se compra mais na hora do arremesso - agora e do estoque (drop, presente diario e Loja). A Forja ganhou tres servicos novos pra gastar seu Ouro: Polir, Transmutar e Gravar afixos dos itens. Numeros em ajuste - contem nos feedbacks como sentiram o ritmo novo!</body></html>]]></description>
-      <pubDate>Sun, 23 Aug 2026 23:55:00 GMT</pubDate>
+      <title>PokeTaskBar 1.23.1 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Sobre a Reforma De Moedas: a roleta do Game Corner nao paga mais Ouro - no lugar dele saem 5 Poke Balls - e Held Item virou carta propria de 1% (antes ele vinha escondido dentro da carta de item). Seta de voltar agora volta para a tela anterior em vez de fechar. Roleta: puxar a alavanca gira de novo, com botoes Girar 10x e Fechar. Pokemon que renasce volta com pelo menos 50% de PP. Hover em cima de um pokemon mostra nome e HP logo acima da cabeca dele. Card de Stats com as letras cheias, sem nome cortado. Conserto: o cenario nao anda mais enquanto ha corpos ou efeitos em cena.</body></html>]]></description>
+      <pubDate>Sun, 23 Aug 2026 21:20:31 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.23.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.23.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.23.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.23.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="194758972"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.22.3 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Seta de voltar agora volta para a tela anterior (historico) em vez de fechar ou cair numa tela em branco. Game Corner: depois que a roleta para, puxar a alavanca gira de novo; botoes Girar 10x (mostra a grade com todos os giros) e Fechar; Girar 10x tambem no balcao. Pokemon que renasce volta com pelo menos 50% de PP em cada skill. Inclui a 1.22.2 (Forja Com Limite + Fila Em Pill).</body></html>]]></description>
-      <pubDate>Sun, 23 Aug 2026 18:35:10 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.22.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.22.3"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="195012400"
+        length="195028928"
         type="application/octet-stream" />
     </item>
   </channel>
