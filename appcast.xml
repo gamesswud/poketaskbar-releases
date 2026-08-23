@@ -2,6 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>PokeTaskBar</title>
+     <item>
+       <title>PokeTaskBar 1.22.1 (beta)</title>
+       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>O jogo ficou mais dificil - mas so depois do comeco: itens caem bem mais raro (ate de chefes e treinadores); Raros so a partir da fase 8 e Lendarios so perto da Liga. XP continua cheio ate a Misty e vai caindo ate 1/3 na altura do Koga - e fica assim dali em diante. A Forja agora cobra Ouro (alem de Essencia) para re-rolar um afixo, mais caro quanto mais raro o item; reciclar rende 10x mais Essencia. A partir do ciclo 1, os pokemon comecam no nivel do Blue e todo inimigo carrega 1 Fita por ciclo. Pokebola: passe o mouse e aparece uma setinha - clique nela para trocar de bola.</body></html>]]></description>
+       <pubDate>Sun, 23 Aug 2026 04:30:54 GMT</pubDate>
+       <enclosure
+         url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.22.1-beta/PokeTaskBar-Setup.exe"
+         sparkle:version="1.22.1"
+         sparkle:os="windows"
+         sparkle:installerArguments="/SILENT /SP-"
+         length="194742061"
+         type="application/octet-stream" />
+     </item>
     <item>
       <title>PokeTaskBar 1.22.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Arvore De Habilidades 2.0 - agora por Pontos De Habilidade! Cada Level Do Treinador, insignia, vitoria na Liga e conquista da pontos; a arvore virou escolha de verdade (2 cliques compram, botao direito tira 1 nivel, respec pago em ouro e gratis no comeco). O ouro que voce tinha investido na arvore antiga volta pra sua carteira. Captura no coracao: Paciencia, Olho De Colecionador, Alvo Da Rota (marque na Pokedex ou no Guia De Caca), Bola Por Alvo, Colecionador Nato e Instinto Lendario - e o Abridor Automatico agora trabalha sozinho por um tempo depois do seu ultimo toque. Fama, Hall Da Fama e Treino Intensivo sairam: os nos do Hall viraram nos da arvore (apos a Liga). Nomes dos nos com sabor Kanto e aba Buffs Ativos.</body></html>]]></description>
