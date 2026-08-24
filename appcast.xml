@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.23.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Os pokemon pequenos e medios ficaram 10% maiores na arena (os grandes, como Onix e Gyarados, seguem iguais). As notificacoes cresceram e agora quebram em duas linhas - da pra ler o aviso inteiro. As Fichas ganharam icone proprio, e o seu saldo aparece na aba Golpes da Ficha do pokemon, que e onde ele faz falta. Pokebola da arena: a setinha de trocar de bola ficou menor e foi para o canto de cima; passe o mouse na bola para abrir a aba lateral com as suas bolas. Passar o mouse em um pokemon agora mostra o nome e o HP dele logo acima da cabeca. A seta de voltar (o triangulo) leva para a tela anterior em vez de fechar o painel. No Game Corner, puxar a alavanca gira de novo, e tem botao Girar 10x; a roleta nao paga mais Ouro - no lugar dele saem 5 Poke Balls - e Held Item virou premio proprio de 1%. Pokemon que renasce volta com pelo menos metade do PP. Consertos: o cenario nao anda mais enquanto ha corpos ou efeitos na tela, e o card de Stats voltou a mostrar os nomes inteiros.</body></html>]]></description>
-      <pubDate>Mon, 24 Aug 2026 01:05:55 GMT</pubDate>
+      <title>PokeTaskBar 1.23.3 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Os treinadores ficaram espertos. Todo pokemon inimigo agora entra com 4 golpes (era 2, contra os 4 do seu time), escolhidos para COBRIR TIPOS diferentes — e a inteligencia de escolha mudou de nivel: lider de ginasio, Elite e o Rival usam sempre o golpe de MAIOR DANO REAL contra o seu pokemon (efetividade, STAB e ataque contra a defesa certa), finalizam quando da para finalizar e nao perdem turno com status em quem ja vai cair. O treinador do caminho joga bem, mas erra as vezes; o pokemon selvagem segue simples. O SEU time tambem passou a escolher melhor quando a Rotacao nao manda. Cooldown de morte agora conta em TURNOS (4) e nao em segundos: antes o castigo dependia da velocidade da luta - numa luta de 1x1 o caido voltava em 2 turnos, numa de 6 em 8. O no Centro Pokemon Expresso passou a tirar 1 turno por nivel. O nome do treinador inimigo agora aparece no topo da aba lateral, igual ao seu, e em duas linhas quando e comprido. E o menu da arena (as tres barrinhas) abre passando o mouse e se recolhe sozinho quando voce escolhe uma tela.</body></html>]]></description>
+      <pubDate>Mon, 24 Aug 2026 03:23:38 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.23.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.23.2"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.23.3-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.23.3"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="197632674"
+        length="197635209"
         type="application/octet-stream" />
     </item>
   </channel>
