@@ -3,15 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.23.1 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Sobre a Reforma De Moedas: a roleta do Game Corner nao paga mais Ouro - no lugar dele saem 5 Poke Balls - e Held Item virou carta propria de 1% (antes ele vinha escondido dentro da carta de item). Seta de voltar agora volta para a tela anterior em vez de fechar. Roleta: puxar a alavanca gira de novo, com botoes Girar 10x e Fechar. Pokemon que renasce volta com pelo menos 50% de PP. Hover em cima de um pokemon mostra nome e HP logo acima da cabeca dele. Card de Stats com as letras cheias, sem nome cortado. Conserto: o cenario nao anda mais enquanto ha corpos ou efeitos em cena.</body></html>]]></description>
-      <pubDate>Sun, 23 Aug 2026 21:20:31 GMT</pubDate>
+      <title>PokeTaskBar 1.23.2 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Os pokemon pequenos e medios ficaram 10% maiores na arena (os grandes, como Onix e Gyarados, seguem iguais). As notificacoes cresceram e agora quebram em duas linhas - da pra ler o aviso inteiro. As Fichas ganharam icone proprio, e o seu saldo aparece na aba Golpes da Ficha do pokemon, que e onde ele faz falta. Pokebola da arena: a setinha de trocar de bola ficou menor e foi para o canto de cima; passe o mouse na bola para abrir a aba lateral com as suas bolas. Passar o mouse em um pokemon agora mostra o nome e o HP dele logo acima da cabeca. A seta de voltar (o triangulo) leva para a tela anterior em vez de fechar o painel. No Game Corner, puxar a alavanca gira de novo, e tem botao Girar 10x; a roleta nao paga mais Ouro - no lugar dele saem 5 Poke Balls - e Held Item virou premio proprio de 1%. Pokemon que renasce volta com pelo menos metade do PP. Consertos: o cenario nao anda mais enquanto ha corpos ou efeitos na tela, e o card de Stats voltou a mostrar os nomes inteiros.</body></html>]]></description>
+      <pubDate>Mon, 24 Aug 2026 01:05:55 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.23.1-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.23.1"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.23.2-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.23.2"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="195028928"
+        length="197632674"
         type="application/octet-stream" />
     </item>
   </channel>
