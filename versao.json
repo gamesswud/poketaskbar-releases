@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.3-beta/PokeTaskBar.apk",
-                    "notas":  "ICONE DO CELULAR: o app no Android estava com o icone azul padrao do Flutter. Agora usa o mesmo simbolo do PC -- a pokebola do PTB. Vai em duas versoes, a quadrada classica e a adaptativa do Android 8+, em que o sistema recorta a bola no formato que o seu aparelho usa (circulo, quadrado arredondado, gota), sobre o azul-escuro da arena.",
-                    "versao":  "1.24.3"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.4-beta/PokeTaskBar.apk",
+                    "notas":  "TROCAR DE TIME POR TOQUE: por alguem do banco no time era a unica acao do jogo que so existia como arraste. Agora cada pokemon tem um simbolo de mover no canto: toque nele para LEVANTAR e toque num slot para POR. Enquanto tem alguem na mao, todos os slots acendem como destino e uma faixa diz o que fazer. Vale tambem no catalogo — com o pokemon na mao da pra rolar a lista a vontade e so entao escolher o slot. O arraste continua igual para quem ja o usa.\n\nARRASTE DO ITEM NA BATALHA CONSERTADO: a correcao da rolagem tinha exigido pressionar-e-segurar em todo arraste do jogo, e isso quebrou justo o arraste mais urgente. O item agora pega no primeiro movimento para o lado, e o eixo de cima/baixo fica livre para a lista rolar.\n\nRIVAL 1 MAIS DURO: o Squirtle do Blue morria em 2 golpes sem encostar em ninguem. Ele ganhou CASCA — o triplo de vida, mas o mesmo nivel, para o golpe de agua dele nao virar sentenca contra um inicial de fogo. A luta passou de 2,5s para 8s, voce continua vencendo, e agora ele costuma levar um dos seus junto.\n\nGINASIOS: o 4o, 5o e 6o pokemon de um lider (os que entram quando alguem cai) jogavam com a IA do bicho selvagem. Agora jogam no maximo, como os tres primeiros — o fim da luta ficou mais dificil.",
+                    "versao":  "1.24.4"
                 }
 }
