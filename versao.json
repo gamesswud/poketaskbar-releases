@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.8.2-beta/PokeTaskBar.apk",
-                    "notas":  "Skills 2.0: sistema de 5 arquetipos curado skill a skill (projeteis que viajam ate o alvo, feixes horizontais de 3s com dano canalizado, feixes verticais, buffs e debuffs), cores refeitas preservando nuances (hyper beam amarelo vivo, withdraw azul-agua), efeitos que seguem os pokemon e respeitam a linha do chao, ataques basicos em arco. Fundos nivelados na mesma linha de chao, Elite Four sem personagens, navegacao nova da Ficha (setas + miniaturas).",
-                    "versao":  "1.8.2"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.1-beta/PokeTaskBar.apk",
+                    "notas":  "ANDROID ATUALIZADO: o APK estava parado ha varias versoes. Esta build traz TUDO o que entrou no PC ate agora - itens de combate (arraste a Potion em cima do pokemon), treinadores inimigos com 4 golpes e IA de verdade (lider de ginasio joga no talo, Rival quase junto), cooldown de morte em turnos, icones oficiais dos itens, roleta do Game Corner, e o ouro com um simbolo so, o $.\n\nCELULAR - MENU EM TELA CHEIA: qualquer menu que abrir agora ocupa a tela inteira do aparelho deitado. Antes o zoom saia so da largura e o painel ficava preso no topo: o rodape do menu caia fora da tela.\n\nCELULAR - ARENA COM OS DOIS ESPACOS: as abas laterais de treinador ganharam lugar reservado, um de cada lado da arena. Antes elas empurravam o zoom quando a batalha comecava e a arena inteira encolhia no meio da luta pra abrir caminho; agora ela fica parada e as abas entram no espaco que ja era delas.",
+                    "versao":  "1.24.1"
                 }
 }

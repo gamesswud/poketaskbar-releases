@@ -3,21 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.24.0 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>ITENS DE COMBATE: a lateral do treinador ganhou uma aba de itens. Arraste a Potion (ou X Attack, Ether, Full Heal...) em cima do pokemon que precisa. Usar o item gasta o turno de quem recebe. Compra na Loja da Mochila, com ouro (limite diario) ou gemas. Ao curar, sobe o numero VERDE acima da cabeca, igual ao dano.
+      <title>PokeTaskBar 1.24.1 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>ANDROID ATUALIZADO: o APK estava parado ha varias versoes. Esta build traz TUDO o que entrou no PC ate agora - itens de combate (arraste a Potion em cima do pokemon), treinadores inimigos com 4 golpes e IA de verdade (lider de ginasio joga no talo, Rival quase junto), cooldown de morte em turnos, icones oficiais dos itens, roleta do Game Corner, e o ouro com um simbolo so, o $.
 
-TREINADORES MAIS ESPERTOS: todo pokemon inimigo agora tem 4 golpes. Os lideres de ginasio jogam no talo (procuram o super efetivo e fecham o abate com o golpe mais barato que mata), os treinadores do caminho jogam mediano e erram as vezes, e o Rival joga quase no nivel dos lideres.
+CELULAR - MENU EM TELA CHEIA: qualquer menu que abrir agora ocupa a tela inteira do aparelho deitado. Antes o zoom saia so da largura e o painel ficava preso no topo: o rodape do menu caia fora da tela.
 
-COOLDOWN DE MORTE EM TURNOS: quem cai volta depois de 4 turnos, nao mais por relogio - o tempo de espera agora acompanha o ritmo da luta.
-
-ARRUMADOS: a tooltip que ficava cortada na beirada da janela; os icones dos itens (agora os oficiais, inclusive nos antigos como incenso e repel); o menu da arena abre no hover e se esconde sozinho; o nome do treinador inimigo aparece inteiro no topo da aba; e o ouro tem um simbolo so no jogo inteiro, o $.</body></html>]]></description>
-      <pubDate>Tue, 25 Aug 2026 00:43:59 GMT</pubDate>
+CELULAR - ARENA COM OS DOIS ESPACOS: as abas laterais de treinador ganharam lugar reservado, um de cada lado da arena. Antes elas empurravam o zoom quando a batalha comecava e a arena inteira encolhia no meio da luta pra abrir caminho; agora ela fica parada e as abas entram no espaco que ja era delas.</body></html>]]></description>
+      <pubDate>Tue, 25 Aug 2026 16:32:26 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.24.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.24.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="197650545"
+        length="197648008"
         type="application/octet-stream" />
     </item>
   </channel>
