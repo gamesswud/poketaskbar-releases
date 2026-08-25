@@ -3,17 +3,15 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.24.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>CELULAR - A ROLAGEM VOLTOU: as telas que pedem scroll (Golpes, Itens, Mochila, Ficha) ficavam travadas no celular. Os itens delas sao arrastaveis ate o slot, e no toque um arraste comum vence a rolagem no primeiro pixel de movimento. Agora o arraste comeca por PRESSIONAR E SEGURAR e o dedo deslizando rola a lista, como em qualquer app. No PC nada muda.
-
-CELULAR - AS ABAS ENCOSTAM NA BORDA: sobrava uma faixa preta ao lado das duas abas laterais de treinador. A maior parte dela nem era do jogo - com o modo de recorte no padrao, o proprio Android encolhe a janela para longe do furo da camera quando o aparelho esta deitado, e varios aparelhos fazem isso dos dois lados. Agora a janela ocupa a tela inteira, o jogo nao recua mais nas laterais e a reserva das abas e exatamente o tanto que elas avancam.</body></html>]]></description>
-      <pubDate>Tue, 25 Aug 2026 17:42:30 GMT</pubDate>
+      <title>PokeTaskBar 1.24.3 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>ICONE DO CELULAR: o app no Android estava com o icone azul padrao do Flutter. Agora usa o mesmo simbolo do PC -- a pokebola do PTB. Vai em duas versoes, a quadrada classica e a adaptativa do Android 8+, em que o sistema recorta a bola no formato que o seu aparelho usa (circulo, quadrado arredondado, gota), sobre o azul-escuro da arena.</body></html>]]></description>
+      <pubDate>Tue, 25 Aug 2026 18:18:00 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.24.2"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.3-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.24.3"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="197650596"
+        length="197651728"
         type="application/octet-stream" />
     </item>
   </channel>
