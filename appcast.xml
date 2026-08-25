@@ -3,15 +3,21 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.23.3 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Os treinadores ficaram espertos. Todo pokemon inimigo agora entra com 4 golpes (era 2, contra os 4 do seu time), escolhidos para COBRIR TIPOS diferentes — e a inteligencia de escolha mudou de nivel: lider de ginasio, Elite e o Rival usam sempre o golpe de MAIOR DANO REAL contra o seu pokemon (efetividade, STAB e ataque contra a defesa certa), finalizam quando da para finalizar e nao perdem turno com status em quem ja vai cair. O treinador do caminho joga bem, mas erra as vezes; o pokemon selvagem segue simples. O SEU time tambem passou a escolher melhor quando a Rotacao nao manda. Cooldown de morte agora conta em TURNOS (4) e nao em segundos: antes o castigo dependia da velocidade da luta - numa luta de 1x1 o caido voltava em 2 turnos, numa de 6 em 8. O no Centro Pokemon Expresso passou a tirar 1 turno por nivel. O nome do treinador inimigo agora aparece no topo da aba lateral, igual ao seu, e em duas linhas quando e comprido. E o menu da arena (as tres barrinhas) abre passando o mouse e se recolhe sozinho quando voce escolhe uma tela.</body></html>]]></description>
-      <pubDate>Mon, 24 Aug 2026 03:23:38 GMT</pubDate>
+      <title>PokeTaskBar 1.24.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>ITENS DE COMBATE: a lateral do treinador ganhou uma aba de itens. Arraste a Potion (ou X Attack, Ether, Full Heal...) em cima do pokemon que precisa. Usar o item gasta o turno de quem recebe. Compra na Loja da Mochila, com ouro (limite diario) ou gemas. Ao curar, sobe o numero VERDE acima da cabeca, igual ao dano.
+
+TREINADORES MAIS ESPERTOS: todo pokemon inimigo agora tem 4 golpes. Os lideres de ginasio jogam no talo (procuram o super efetivo e fecham o abate com o golpe mais barato que mata), os treinadores do caminho jogam mediano e erram as vezes, e o Rival joga quase no nivel dos lideres.
+
+COOLDOWN DE MORTE EM TURNOS: quem cai volta depois de 4 turnos, nao mais por relogio - o tempo de espera agora acompanha o ritmo da luta.
+
+ARRUMADOS: a tooltip que ficava cortada na beirada da janela; os icones dos itens (agora os oficiais, inclusive nos antigos como incenso e repel); o menu da arena abre no hover e se esconde sozinho; o nome do treinador inimigo aparece inteiro no topo da aba; e o ouro tem um simbolo so no jogo inteiro, o $.</body></html>]]></description>
+      <pubDate>Tue, 25 Aug 2026 00:43:59 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.23.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.23.3"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.24.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="197635209"
+        length="197650545"
         type="application/octet-stream" />
     </item>
   </channel>
