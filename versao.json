@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.1-beta/PokeTaskBar.apk",
-                    "notas":  "ANDROID ATUALIZADO: o APK estava parado ha varias versoes. Esta build traz TUDO o que entrou no PC ate agora - itens de combate (arraste a Potion em cima do pokemon), treinadores inimigos com 4 golpes e IA de verdade (lider de ginasio joga no talo, Rival quase junto), cooldown de morte em turnos, icones oficiais dos itens, roleta do Game Corner, e o ouro com um simbolo so, o $.\n\nCELULAR - MENU EM TELA CHEIA: qualquer menu que abrir agora ocupa a tela inteira do aparelho deitado. Antes o zoom saia so da largura e o painel ficava preso no topo: o rodape do menu caia fora da tela.\n\nCELULAR - ARENA COM OS DOIS ESPACOS: as abas laterais de treinador ganharam lugar reservado, um de cada lado da arena. Antes elas empurravam o zoom quando a batalha comecava e a arena inteira encolhia no meio da luta pra abrir caminho; agora ela fica parada e as abas entram no espaco que ja era delas.",
-                    "versao":  "1.24.1"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.2-beta/PokeTaskBar.apk",
+                    "notas":  "CELULAR - A ROLAGEM VOLTOU: as telas que pedem scroll (Golpes, Itens, Mochila, Ficha) ficavam travadas no celular. Os itens delas sao arrastaveis ate o slot, e no toque um arraste comum vence a rolagem no primeiro pixel de movimento. Agora o arraste comeca por PRESSIONAR E SEGURAR e o dedo deslizando rola a lista, como em qualquer app. No PC nada muda.\n\nCELULAR - AS ABAS ENCOSTAM NA BORDA: sobrava uma faixa preta ao lado das duas abas laterais de treinador. A maior parte dela nem era do jogo - com o modo de recorte no padrao, o proprio Android encolhe a janela para longe do furo da camera quando o aparelho esta deitado, e varios aparelhos fazem isso dos dois lados. Agora a janela ocupa a tela inteira, o jogo nao recua mais nas laterais e a reserva das abas e exatamente o tanto que elas avancam.",
+                    "versao":  "1.24.2"
                 }
 }

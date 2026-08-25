@@ -3,19 +3,17 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.24.1 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>ANDROID ATUALIZADO: o APK estava parado ha varias versoes. Esta build traz TUDO o que entrou no PC ate agora - itens de combate (arraste a Potion em cima do pokemon), treinadores inimigos com 4 golpes e IA de verdade (lider de ginasio joga no talo, Rival quase junto), cooldown de morte em turnos, icones oficiais dos itens, roleta do Game Corner, e o ouro com um simbolo so, o $.
+      <title>PokeTaskBar 1.24.2 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>CELULAR - A ROLAGEM VOLTOU: as telas que pedem scroll (Golpes, Itens, Mochila, Ficha) ficavam travadas no celular. Os itens delas sao arrastaveis ate o slot, e no toque um arraste comum vence a rolagem no primeiro pixel de movimento. Agora o arraste comeca por PRESSIONAR E SEGURAR e o dedo deslizando rola a lista, como em qualquer app. No PC nada muda.
 
-CELULAR - MENU EM TELA CHEIA: qualquer menu que abrir agora ocupa a tela inteira do aparelho deitado. Antes o zoom saia so da largura e o painel ficava preso no topo: o rodape do menu caia fora da tela.
-
-CELULAR - ARENA COM OS DOIS ESPACOS: as abas laterais de treinador ganharam lugar reservado, um de cada lado da arena. Antes elas empurravam o zoom quando a batalha comecava e a arena inteira encolhia no meio da luta pra abrir caminho; agora ela fica parada e as abas entram no espaco que ja era delas.</body></html>]]></description>
-      <pubDate>Tue, 25 Aug 2026 16:32:26 GMT</pubDate>
+CELULAR - AS ABAS ENCOSTAM NA BORDA: sobrava uma faixa preta ao lado das duas abas laterais de treinador. A maior parte dela nem era do jogo - com o modo de recorte no padrao, o proprio Android encolhe a janela para longe do furo da camera quando o aparelho esta deitado, e varios aparelhos fazem isso dos dois lados. Agora a janela ocupa a tela inteira, o jogo nao recua mais nas laterais e a reserva das abas e exatamente o tanto que elas avancam.</body></html>]]></description>
+      <pubDate>Tue, 25 Aug 2026 17:42:30 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.1-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.24.1"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.2-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.24.2"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="197648008"
+        length="197650596"
         type="application/octet-stream" />
     </item>
   </channel>
