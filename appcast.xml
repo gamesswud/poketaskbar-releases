@@ -3,21 +3,21 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.24.4 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>TROCAR DE TIME POR TOQUE: por alguem do banco no time era a unica acao do jogo que so existia como arraste. Agora cada pokemon tem um simbolo de mover no canto: toque nele para LEVANTAR e toque num slot para POR. Enquanto tem alguem na mao, todos os slots acendem como destino e uma faixa diz o que fazer. Vale tambem no catalogo — com o pokemon na mao da pra rolar a lista a vontade e so entao escolher o slot. O arraste continua igual para quem ja o usa.
+      <title>PokeTaskBar 1.24.5 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>SEU TIME BATE COM O GOLPE CERTO. O maior conserto desta versao: o time do jogador estava jogando com a IA basica, cuja conta ignora o STAB - um Charmeleon com scratch (normal, 40) e ember (fogo, 40) via um EMPATE e batia sempre o primeiro da lista. Medido: 44 scratch contra 1 ember. Agora ele escolhe pelo dano REAL contra aquele alvo. Junto vieram duas coisas: o time so economiza o golpe forte quando o PP dele esta acabando, e passou a FOCAR o inimigo de menor vida em vez do mais proximo. Tambem gasta menos turnos em golpe de status (20%, era 45%).
 
-ARRASTE DO ITEM NA BATALHA CONSERTADO: a correcao da rolagem tinha exigido pressionar-e-segurar em todo arraste do jogo, e isso quebrou justo o arraste mais urgente. O item agora pega no primeiro movimento para o lado, e o eixo de cima/baixo fica livre para a lista rolar.
+GINASIOS E ELITE FOUR - FORMACAO ARRUMADA. Os pokemon do treinador inimigo entravam em posicoes estranhas, as vezes numa quarta casa que a formacao nem tem: a posicao saia do TAMANHO da lista de inimigos, que muda conforme os corpos sao recolhidos. Agora cada um tem o seu lugar do comeco ao fim e o substituto entra na casa exata de quem caiu. E as pokebolinhas da aba lateral contam o time REAL do treinador: quem tem 3 mostra 3 vermelhas e 3 vazias, nao 6 vermelhas.
 
-RIVAL 1 MAIS DURO: o Squirtle do Blue morria em 2 golpes sem encostar em ninguem. Ele ganhou CASCA — o triplo de vida, mas o mesmo nivel, para o golpe de agua dele nao virar sentenca contra um inicial de fogo. A luta passou de 2,5s para 8s, voce continua vencendo, e agora ele costuma levar um dos seus junto.
+CELULAR - SELETOR DE POKEBOLA. Nao dava para trocar o tipo de bola: o botao que abre o seletor so aparecia com o mouse em cima, e no toque nao existe mouse. Agora ele fica sempre a vista, com folga para o dedo.
 
-GINASIOS: o 4o, 5o e 6o pokemon de um lider (os que entram quando alguem cai) jogavam com a IA do bicho selvagem. Agora jogam no maximo, como os tres primeiros — o fim da luta ficou mais dificil.</body></html>]]></description>
-      <pubDate>Tue, 25 Aug 2026 20:33:41 GMT</pubDate>
+RIVAL 1 RECALIBRADO de novo, porque os consertos de IA mudaram a forca dos dois lados: a luta ficou em 7,2s, voce vence, e ele costuma levar um dos seus junto.</body></html>]]></description>
+      <pubDate>Wed, 26 Aug 2026 15:59:27 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.4-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.24.4"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.5-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.24.5"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="197651626"
+        length="197650235"
         type="application/octet-stream" />
     </item>
   </channel>
