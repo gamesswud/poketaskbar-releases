@@ -3,6 +3,22 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.24.6 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>TELEMETRIA LOCAL. O jogo passa a anotar, so no seu computador, como a jornada vai: fases, batalhas, capturas, compras e erros. Nada sai do PC.
+
+NOVA OPCAO NA CONFIG: "Enviar Dados De Jogo Anonimos" (desligada por padrao). Quando ligada, ajuda a calibrar o jogo com dados reais - sem nome nem e-mail.
+
+E a base para o time do PTB enxergar onde o jogo trava e ajustar o balanceamento. Inclui as novidades da 1.24.5 (cena de cura v2 e IA do time).</body></html>]]></description>
+      <pubDate>Thu, 27 Aug 2026 04:52:03 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.6-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.24.6"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="194916589"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.24.5 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>SEU TIME BATE COM O GOLPE CERTO. O maior conserto desta versao: o time do jogador estava jogando com a IA basica, cuja conta ignora o STAB - um Charmeleon com scratch (normal, 40) e ember (fogo, 40) via um EMPATE e batia sempre o primeiro da lista. Medido: 44 scratch contra 1 ember. Agora ele escolhe pelo dano REAL contra aquele alvo. Junto vieram duas coisas: o time so economiza o golpe forte quando o PP dele esta acabando, e passou a FOCAR o inimigo de menor vida em vez do mais proximo. Tambem gasta menos turnos em golpe de status (20%, era 45%).
 
