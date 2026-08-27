@@ -3,6 +3,18 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.25.1 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>O XP virou RARE CANDY: os doces caem na sua conta e VOCE escolhe quem sobe de nivel, na Ficha (o offline tambem paga em doces). Arvore De Habilidades nova: mapa inteiro navegavel com camera e seus Pontos De Habilidade sempre a vista. Todo lider agora e um pico de verdade: o teto do Treinador sobe por marcos da Pokedex ancorados em cada ginasio, e o Campeao deixou de ser injusto. Golpes mais caros de subir e a fundacao dos ciclos renascidos. Inclui tudo da 1.25.0.</body></html>]]></description>
+      <pubDate>Thu, 27 Aug 2026 20:15:00 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.25.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.25.1"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="194973829"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.25.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Centro Pokemon na derrota (fade, enfermeira, time piscando e a musica de cura), suspense da pokebola (o pokemon entra na bola antes do chacoalho, nos dois desfechos) e resistencia a pokebolas: cada selvagem aguenta um numero diferente de arremessos, e a bola cara gasta menos a paciencia dele.</body></html>]]></description>
       <pubDate>Thu, 27 Aug 2026 19:38:56 GMT</pubDate>
