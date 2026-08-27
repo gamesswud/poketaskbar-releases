@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.25.0-beta/PokeTaskBar.apk",
-                    "notas":  "Centro Pokemon na derrota (fade, enfermeira, time piscando e a musica de cura), suspense da pokebola (o pokemon entra na bola antes do chacoalho, nos dois desfechos) e resistencia a pokebolas: cada selvagem aguenta um numero diferente de arremessos, e a bola cara gasta menos a paciencia dele.",
-                    "versao":  "1.25.0"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.25.2-beta/PokeTaskBar.apk",
+                    "notas":  "Musica no celular (ate agora o mobile era mudo: todo o audio do jogo era uma API do Windows), a pokebola para na base do pokemon sem afundar no chao, Centro Pokemon na derrota, resistencia a pokebolas, Rare Candy, Geracoes De Reset e Arvore Visivel.",
+                    "versao":  "1.25.2"
                 }
 }
