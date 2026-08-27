@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.24.5-beta/PokeTaskBar.apk",
-                    "notas":  "SEU TIME BATE COM O GOLPE CERTO. O maior conserto desta versao: o time do jogador estava jogando com a IA basica, cuja conta ignora o STAB - um Charmeleon com scratch (normal, 40) e ember (fogo, 40) via um EMPATE e batia sempre o primeiro da lista. Medido: 44 scratch contra 1 ember. Agora ele escolhe pelo dano REAL contra aquele alvo. Junto vieram duas coisas: o time so economiza o golpe forte quando o PP dele esta acabando, e passou a FOCAR o inimigo de menor vida em vez do mais proximo. Tambem gasta menos turnos em golpe de status (20%, era 45%).\n\nGINASIOS E ELITE FOUR - FORMACAO ARRUMADA. Os pokemon do treinador inimigo entravam em posicoes estranhas, as vezes numa quarta casa que a formacao nem tem: a posicao saia do TAMANHO da lista de inimigos, que muda conforme os corpos sao recolhidos. Agora cada um tem o seu lugar do comeco ao fim e o substituto entra na casa exata de quem caiu. E as pokebolinhas da aba lateral contam o time REAL do treinador: quem tem 3 mostra 3 vermelhas e 3 vazias, nao 6 vermelhas.\n\nCELULAR - SELETOR DE POKEBOLA. Nao dava para trocar o tipo de bola: o botao que abre o seletor so aparecia com o mouse em cima, e no toque nao existe mouse. Agora ele fica sempre a vista, com folga para o dedo.\n\nRIVAL 1 RECALIBRADO de novo, porque os consertos de IA mudaram a forca dos dois lados: a luta ficou em 7,2s, voce vence, e ele costuma levar um dos seus junto.",
-                    "versao":  "1.24.5"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.25.0-beta/PokeTaskBar.apk",
+                    "notas":  "Centro Pokemon na derrota (fade, enfermeira, time piscando e a musica de cura), suspense da pokebola (o pokemon entra na bola antes do chacoalho, nos dois desfechos) e resistencia a pokebolas: cada selvagem aguenta um numero diferente de arremessos, e a bola cara gasta menos a paciencia dele.",
+                    "versao":  "1.25.0"
                 }
 }
