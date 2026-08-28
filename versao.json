@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.25.2-beta/PokeTaskBar.apk",
-                    "notas":  "Musica no celular (ate agora o mobile era mudo: todo o audio do jogo era uma API do Windows), a pokebola para na base do pokemon sem afundar no chao, Centro Pokemon na derrota, resistencia a pokebolas, Rare Candy, Geracoes De Reset e Arvore Visivel.",
-                    "versao":  "1.25.2"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.26.1-beta/PokeTaskBar.apk",
+                    "notas":  "Animacao de fuga quando o pokemon escapa, pokebola pousando na linha do chao, musica no celular, Centro Pokemon na derrota e resistencia a pokebolas -- mais Tier Da Especie, Lacos e Telemetria Na Nuvem. Primeira versao com APK desde a 1.25.2: o celular estava tres versoes atras.",
+                    "versao":  "1.26.1"
                 }
 }
