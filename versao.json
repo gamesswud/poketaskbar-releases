@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.26.1-beta/PokeTaskBar.apk",
-                    "notas":  "Animacao de fuga quando o pokemon escapa, pokebola pousando na linha do chao, musica no celular, Centro Pokemon na derrota e resistencia a pokebolas -- mais Tier Da Especie, Lacos e Telemetria Na Nuvem. Primeira versao com APK desde a 1.25.2: o celular estava tres versoes atras.",
-                    "versao":  "1.26.1"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.4-beta/PokeTaskBar.apk",
+                    "notas":  "Drops viram Bau (o loot raro espera na Mochila), Arvore Do Treinador refeita, Comeco Suave, Modo Dev, chefe na HUD -- mais a animacao de fuga, a pokebola pousando no chao e a musica no celular.",
+                    "versao":  "1.27.4"
                 }
 }
