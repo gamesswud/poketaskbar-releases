@@ -3,6 +3,18 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.27.5 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Uma versao de conserto: tres coisas que tinham se perdido pelo caminho voltaram ao lugar. A BARRA DE ESPACO arremessa a pokebola de novo -- ela parava de responder assim que voce abria qualquer tela do menu. O quadradinho do CHEFE na barra da fase agora e vermelho pokebola solido e mais alto, em vez de um contorno oco. Os AVISOS viraram um icone fixo no canto de cima da arena: clique nele para abrir o Historico com a mensagem inteira -- e ele some na hora. E o Historico e os paineis de baixo ganharam vida propria: abrir outra tela do menu nao fecha mais o de baixo.</body></html>]]></description>
+      <pubDate>Sat, 29 Aug 2026 16:15:29 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.5-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.27.5"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="195177971"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.27.4 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>O loot agora vem em BAUS. Item, held, bola, as Fichas do chefe e a Energia do fim da fase pararam de pingar soltos: eles se acumulam em baus na sua Mochila -- ouro e Candy continuam caindo direto no HUD. Abrir e o momento: o bau chacoalha, a tampa estoura e o que veio salta na tela, um de cada vez. Os baus se empilham por raridade (Comum, Raro e Lendario) e da para abrir um a um ou tudo de uma vez.</body></html>]]></description>
       <pubDate>Sat, 29 Aug 2026 08:31:05 GMT</pubDate>
