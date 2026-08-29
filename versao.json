@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.4-beta/PokeTaskBar.apk",
-                    "notas":  "Drops viram Bau (o loot raro espera na Mochila), Arvore Do Treinador refeita, Comeco Suave, Modo Dev, chefe na HUD -- mais a animacao de fuga, a pokebola pousando no chao e a musica no celular.",
-                    "versao":  "1.27.4"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.5-beta/PokeTaskBar.apk",
+                    "notas":  "Conserto do ESPACO que arremessa a pokebola, quadradinho do chefe e notificacoes em icone -- mais Drops Viram Bau, Arvore Do Treinador, animacao de fuga, a pokebola pousando no chao e a musica no celular.",
+                    "versao":  "1.27.5"
                 }
 }
