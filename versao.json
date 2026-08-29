@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.5-beta/PokeTaskBar.apk",
-                    "notas":  "Conserto do ESPACO que arremessa a pokebola, quadradinho do chefe e notificacoes em icone -- mais Drops Viram Bau, Arvore Do Treinador, animacao de fuga, a pokebola pousando no chao e a musica no celular.",
-                    "versao":  "1.27.5"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.6-beta/PokeTaskBar.apk",
+                    "notas":  "Icones novos para as abas Loja, Forja e Game Corner, e 30 icones retocados a mao pelo dev (menu, simbolos de tipo e nos da Arvore).",
+                    "versao":  "1.27.6"
                 }
 }
