@@ -3,6 +3,18 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.27.9 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>A Pokebola do Arremesso Automatico agora captura com uma fracao da chance da bola manual: 1% no primeiro nivel do no, subindo ate 2% no maximo. A bola jogada por voce segue igual. Os niveis do no nao aceleram mais o ritmo: a proxima bola sai assim que a anterior terminou de cair e chacoalhar. Uma bola automatica que falha gasta a bola, mas nao cansa o selvagem - ele nao foge por causa dela. Numeros provisorios: vao ser calibrados na proxima rodada de balanceamento.</body></html>]]></description>
+      <pubDate>Sun, 30 Aug 2026 19:02:30 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.9-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.27.9"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="195207909"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.27.8 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>O ramo Capturar da Arvore Do Treinador estava trancado: o Arremesso Automatico parava no nivel 2 e nenhum outro no do ramo abria. Agora o nivel 3 e livre (uma bola a cada 2,5 segundos) e a Dica Do Velho De Viridian e a Paciencia destravam normalmente. O nivel 4, o da bola por segundo, passou a ser a recompensa de quem investe 6 pontos no ramo. Quem estava preso com 2 pontos ve o nivel 3 liberado assim que abrir a Arvore.</body></html>]]></description>
       <pubDate>Sun, 30 Aug 2026 00:34:34 GMT</pubDate>
