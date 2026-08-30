@@ -3,6 +3,18 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.27.10 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Versao de bastidores: nada muda no jogo em si - e a telemetria ficando esperta. As estatisticas anonimas agora distinguem cada uma das 3 jornadas (slots) da sua conta, inclusive quando voce troca de slot com o jogo aberto. A Pokebola automatica parou de inundar o registro: as falhas dela viram um resuminho so. O arquivo de eventos no seu disco ganhou teto (20 MB) e se limpa sozinho. E a economia toda (Forja, vendas, respec, Lacos, baus perdidos) passou a ser medida - dados que vao guiar a proxima rodada de balanceamento.</body></html>]]></description>
+      <pubDate>Sun, 30 Aug 2026 21:30:00 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.10-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.27.10"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="195214880"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.27.9 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>A Pokebola do Arremesso Automatico agora captura com uma fracao da chance da bola manual: 1% no primeiro nivel do no, subindo ate 2% no maximo. A bola jogada por voce segue igual. Os niveis do no nao aceleram mais o ritmo: a proxima bola sai assim que a anterior terminou de cair e chacoalhar. Uma bola automatica que falha gasta a bola, mas nao cansa o selvagem - ele nao foge por causa dela. Numeros provisorios: vao ser calibrados na proxima rodada de balanceamento.</body></html>]]></description>
       <pubDate>Sun, 30 Aug 2026 19:02:30 GMT</pubDate>
