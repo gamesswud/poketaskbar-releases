@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.27.7-beta/PokeTaskBar.apk",
-                    "notas":  "Conserto do menu no celular: ele abria acima da borda da tela e nao dava para tocar. A arena agora respeita a altura do aparelho.",
-                    "versao":  "1.27.7"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.28.2-beta/PokeTaskBar.apk",
+                    "notas":  "Icones do menu redesenhados e alinhados: todos comecam e terminam na mesma altura. Loja, Forja e Game Corner ganharam arte propria, e as moedas e abas da Mochila trocaram emoji por pixel art.",
+                    "versao":  "1.28.2"
                 }
 }
