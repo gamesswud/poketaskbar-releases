@@ -3,31 +3,22 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.28.3 (beta) - Rampa De Crescimento</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>A jornada ganhou ritmo de verdade: subir de nivel entre o Lv 10 e o 29 agora custa mais XP (e volta ao normal ate o Lv 45) - cada insignia do comeco vira uma conquista, em vez de quatro cairem no primeiro dia.
+      <title>PokeTaskBar 1.29.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>PokeTaskBar 1.29.0 — Treinadores Conectados
 
-- O 3o ginasio deixa de cair na primeira sentada: o Lt. Surge agora espera voce voltar.
-- A viagem ate o Campeao ficou no alvo de ~1 mes para quem joga todo dia.
-- Nada muda nos seus pokemon de nivel alto - a curva so pesa na adolescencia deles.</body></html>]]></description>
-      <pubDate>Tue, 01 Sep 2026 05:55:47 GMT</pubDate>
+O jogo ganhou gente: converse, espie perfis, encontre o time dos amigos na rota e dispute o Ranking.
+
+• Chat Global com todo mundo que está jogando
+• Perfil De Treinador público, Fantasmas De Amigos e Ranking em 4 quadros
+• Pokémon capturáveis aparecem 4× mais depois das primeiras Fases
+• Arraste um pokémon na arena para trocar de casa; ícones em pixel art</body></html>]]></description>
+      <pubDate>Wed, 02 Sep 2026 19:04:17 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.28.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.28.3"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.29.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.29.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="195228451"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.28.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Icones do menu redesenhados e alinhados: todos comecam e terminam na mesma altura. Loja, Forja e Game Corner ganharam arte propria, e as moedas e abas da Mochila trocaram emoji por pixel art.</body></html>]]></description>
-      <pubDate>Mon, 31 Aug 2026 19:38:49 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.28.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.28.2"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="198106969"
+        length="198144890"
         type="application/octet-stream" />
     </item>
   </channel>
