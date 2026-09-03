@@ -3,6 +3,25 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.30.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>PokeTaskBar 1.30.0 - A Liga Sente O Tipo
+
+Contra lideres, Elite e Campeao, o golpe super efetivo pesa mais e o buff deles ficou menor: montar o time certo agora vale de verdade.
+
+- Evoluir custa Laco + Fichas por grupo da linha, sem Energia; a Energia virou moeda de escolha (golpes 7-9, Tier, Reforja, pedra, Eevee)
+- Creche mudou de lugar na Arvore e da XP gratis a partir do Candy que entra, sem gastar o seu
+- Game Corner cobra Bilhetes (1 por giro; na Loja por 2000 Ouro ou 10 Gemas)
+- Sabrina agora e mais forte que o Koga</body></html>]]></description>
+      <pubDate>Thu, 03 Sep 2026 19:09:42 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.30.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.30.0"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="195271771"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.29.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>PokeTaskBar 1.29.0 — Treinadores Conectados
 
