@@ -3,6 +3,22 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.31.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Cara nova: os 130 icones do jogo foram refeitos e 54 golpes que apareciam como emoji ganharam icone proprio, com o selo de sobe/desce no canto.
+Modo manual mais limpo: os golpes vivem so na aba lateral (sem botao IA e sem a fileira no chao), os quadradinhos de PP sob os pokemon sairam e o pendulo de captura so arma segurando a pokebola do canto ou a barra de espaco.
+Captura automatica: a barrinha sobre a pokebola nao vaza mais da arena e, ao clicar, abre uma aba a direita com todos os capturados e o botao Liberar Estoque.
+Pendulo de captura com zonas por raridade (perfeito +30%), chance de capturavel maior, aura dourada em quem esta pronto para evoluir, chat que expande para baixo e Ficha com o botao S de skins no retrato.
+Amigos da lista agora aparecem so em batalhas de rota, e o nome deles substitui o Treinador generico; ginasios e fases de treinadores seguem com os oficiais.</body></html>]]></description>
+      <pubDate>Thu, 03 Sep 2026 19:34:33 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.31.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.31.0"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="198739246"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.30.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>PokeTaskBar 1.30.0 - A Liga Sente O Tipo
 
