@@ -3,6 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.31.1 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Correcao pequena depois da Cara Nova: a bancada de testes e o Modo Dev da Config (aba Avancado) agora ficam atras de uma senha. Nada muda para quem joga normalmente.
+A versao navegador foi atualizada junto, com todas as novidades da 1.31.0.</body></html>]]></description>
+      <pubDate>Thu, 03 Sep 2026 20:40:52 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.31.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.31.1"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="195872246"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.31.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Cara nova: os 130 icones do jogo foram refeitos e 54 golpes que apareciam como emoji ganharam icone proprio, com o selo de sobe/desce no canto.
 Modo manual mais limpo: os golpes vivem so na aba lateral (sem botao IA e sem a fileira no chao), os quadradinhos de PP sob os pokemon sairam e o pendulo de captura so arma segurando a pokebola do canto ou a barra de espaco.
