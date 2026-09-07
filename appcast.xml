@@ -3,6 +3,22 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.32.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Game Corner para todos: ele aparece no menu desde o comeco, com cadeado ate voce vencer o Giovanni em Celadon. O giro gratis de cada dia ja funciona antes, com o Pack Iniciante (uma Energia ou Essencia, e um item comum).
+Avisos da arena de cara nova: a aba verde saiu. Avisos leves viram um balao rapido no topo, os importantes viram um letreiro no centro, e os repetidos ("X quer batalhar", "derrotou X") ficaram so no Historico.
+Topo da arena numa fileira so: o card do mapa foi para a direita, ao lado do menu, e nenhum aviso cobre mais o vizinho.
+Captura automatica que falha tambem mostra a sugada, o chacoalho e a bola arrebentando, como no arremesso manual.
+Visual: as Gemas tem um icone so (o cristal azul) na Loja, na Mochila e no chip; a Forja ganhou icones nitidos de Essencia e Ouro; e a Ficha recebeu 24 molduras novas.</body></html>]]></description>
+      <pubDate>Mon, 07 Sep 2026 21:35:37 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.32.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.32.0"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="195875722"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.31.3 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Captura automatica completa: quando a bola pega, o pokemon e sugado para dentro dela e ela chacoalha tres vezes antes de ir para a fila de capturas, como no arremesso manual.
 Config mais enxuta: as opcoes Posicao Da Janela e Fonte Do Jogo sairam do Geral; a fonte Pokemon e a oficial e a janela se posiciona pelo arraste.</body></html>]]></description>
