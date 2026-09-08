@@ -3,6 +3,22 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.33.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Itens favoritos: clique com o botao direito em qualquer item, held ou peca do treinador, em qualquer tela em que ele apareca (Mochila, Forja, Loja, Ficha, Guarda-Roupa), para marcar com uma estrela  favorito nunca e vendido nem reciclado, nem nas vendas em lote.
+Ficha Do Pokemon renovada: requisitos de tier em barrinhas, painel do Laco, botao da Pokedex ao lado do held, skins inteiras e as colunas Itens e Skills espelhadas, sem o chip de ouro no topo; duplo clique equipa ou manda para a Creche.
+Arvore Do Treinador com abas por ramo, porcentagem de cada ramo, contador de pontos so no rodape e a bolinha no menu quando ha ponto sobrando.
+Game Corner vende os proprios lotes de bilhetes (ouro ou gemas) na aba dele; a Loja perdeu essa aba.
+Chat mostra a hora de cada mensagem, todo aviso virou o toast pequeno do topo (nada gigante no meio da tela), o titulo mostra so a tela atual e a arena na web dobrou de tamanho. Icones e sprites de itens originais.</body></html>]]></description>
+      <pubDate>Tue, 08 Sep 2026 00:19:04 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.33.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.33.0"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="198779306"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.32.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Game Corner para todos: ele aparece no menu desde o comeco, com cadeado ate voce vencer o Giovanni em Celadon. O giro gratis de cada dia ja funciona antes, com o Pack Iniciante (uma Energia ou Essencia, e um item comum).
 Avisos da arena de cara nova: a aba verde saiu. Avisos leves viram um balao rapido no topo, os importantes viram um letreiro no centro, e os repetidos ("X quer batalhar", "derrotou X") ficaram so no Historico.
