@@ -3,6 +3,26 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.38.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>## PokeTaskBar 1.38.0 (beta)  Treinadores Com Nome
+
+- **Nome unico**: cada treinador tem um nome so seu. Quem estava repetido escolhe outro no proximo boot; a primeira troca e gratis (Config  Trocar Nome) e as seguintes usam o item Alterar Nome, na Loja  Gemas.
+- **Aba Amigos reformulada**: sem o Bot De Treino; seu codigo de amigo fica no cabecalho, ao lado do  (clique copia); clicar no nome de um amigo abre o perfil dele; largura da arena.
+- **Mensagens privadas**: converse com um amigo numa aba so de voces dois ( na lista de amigos ou Enviar Mensagem no perfil); nao lidas aparecem em numero.
+- **Mencoes no chat**: escreva @Nome para chamar alguem; a mencao chega como aviso e como bolinha dourada no menu, na outra ponta do icone do Chat.
+- **Contador de online**: o Global Chat mostra quantos treinadores estao jogando agora.
+- **Notificacoes so com numero**: as bolinhas de Mochila, Amigos, Chat e Arvore mostram apenas a quantidade, sem emoji; o NOVO! continua.
+- **Chat**: o texto digitado ficou legivel (era branco sobre branco).</body></html>]]></description>
+      <pubDate>Thu, 10 Sep 2026 22:30:11 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.38.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.38.0"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="198855161"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.37.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>## PokeTaskBar 1.37.0 (beta)  O Professor Ensina Tudo
 
