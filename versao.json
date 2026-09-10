@@ -1,7 +1,7 @@
 {
-    "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.28.2-beta/PokeTaskBar.apk",
-                    "notas":  "Icones do menu redesenhados e alinhados: todos comecam e terminam na mesma altura. Loja, Forja e Game Corner ganharam arte propria, e as moedas e abas da Mochila trocaram emoji por pixel art.",
-                    "versao":  "1.28.2"
-                }
+    "android": {
+        "versao": "1.36.0",
+        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.36.0-beta/PokeTaskBar.apk",
+        "notas": "Perfil Do Treinador novo: seis Pokémon prediletos em pódios com holofote (marque com a ★ no retrato da Ficha), toque num deles para ver itens, golpes, IVs e natureza; as 8 insígnias com ícones; placar de PvP com % de vitórias, batalhas, sequência e posição no Ranking. Ícones: 10 ícones retocados na Pixelaria e o boné do Ash na aba do Treinador. Ficha: botão Evoluir sempre visível (hover diz o nível e o custo); ícone oficial da Ficha De Treinador em todo lugar, inclusive na recompensa offline; \"Vitórias Da Linha\" virou \"Pokémons Derrotados\". Mochila: botão Todos Os Itens para voltar à grade completa; a aba Roupas ganhou a barra de peças e o ▼ Organizar; o ⇅ saiu. Arena e menu: a pokébola some em ginásio, treinador e PvP, e só arremessa depois que a wave inteira chegou e parou; a barra ☰ fica aberta junto da tela e fecha no ✕ dela. Banco = campo: os 6 do time ganham o mesmo Laço, o mesmo bônus de ouro e o mesmo peso de XP. Música: escolha com ou sem música já na tela de boas-vindas; o jingle obedece ao interruptor da Config."
+    }
 }

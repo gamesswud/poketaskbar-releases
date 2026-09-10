@@ -3,6 +3,26 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.36.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>## PokeTaskBar 1.36.0 (beta)  Perfil Do Treinador
+
+- **Perfil Do Treinador novo**: seis Pokemon prediletos em podios com holofote (marque com a  no retrato da Ficha), toque num deles para ver itens, golpes, IVs e natureza; as 8 insignias com icones; placar de PvP com % de vitorias, batalhas, sequencia e posicao no Ranking.
+- **Icones**: 10 icones retocados na Pixelaria e o bone do Ash na aba do Treinador.
+- **Ficha**: botao Evoluir sempre visivel (hover diz o nivel e o custo); icone oficial da Ficha De Treinador em todo lugar, inclusive na recompensa offline; &quot;Vitorias Da Linha&quot; virou &quot;Pokemons Derrotados&quot;.
+- **Mochila**: botao Todos Os Itens para voltar a grade completa; a aba Roupas ganhou a barra de pecas e o  Organizar; o  saiu.
+- **Arena e menu**: a pokebola some em ginasio, treinador e PvP, e so arremessa depois que a wave inteira chegou e parou; a barra  fica aberta junto da tela e fecha no  dela.
+- **Banco = campo**: os 6 do time ganham o mesmo Laco, o mesmo bonus de ouro e o mesmo peso de XP.
+- **Musica**: escolha com ou sem musica ja na tela de boas-vindas; o jingle obedece ao interruptor da Config.</body></html>]]></description>
+      <pubDate>Thu, 10 Sep 2026 17:13:38 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.36.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.36.0"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="198802718"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.35.0 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>O jogo agora guarda sozinho as 3 ultimas copias do seu save antes de Comecar do zero, Restaurar Copia ou entrar numa conta. Elas ficam na Config &gt; Conta &amp; Saves, com data, e nada apaga essas copias.
 Restaurar Copia e Comecar do zero mostram a data do que vai ser substituido. No Slot 1, o reset avisa que apaga tambem o save da nuvem.
