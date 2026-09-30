@@ -3,37 +3,32 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.42.0 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Loja Premium
+      <title>PokeTaskBar 1.42.1 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Conta Obrigatória
 
 NOVIDADES
-- Aba Premium na Loja: compre Gemas por PIX sem sair do jogo. O QR Code aparece na tela e as Gemas chegam em segundos.
-- Itens Premium pagos em Gemas: Buff Semanal (+15% Rare Candy, +10% Captura, +15% Chance De Shiny, +20% Fichas por 7 dias, e cada compra soma mais 7), Great Ball, Ultra Ball, Master Ball e a Skin Pikachu Libre.
-- Bônus Do Beta: toda Gema comprada agora rende o dobro de presente no lançamento oficial.
-- Gemas, Buff Semanal e Skin são da sua conta: valem nos três slots e não se perdem ao Começar Do Zero.
-- Os três slots de save agora ficam guardados na nuvem.
+- Jogo novo começa criando a sua conta (ou entrando na que você já tem), antes da história do Professor Carvalho. A conta guarda o progresso na nuvem, garante o lugar no Ranking e nunca perde as Gemas compradas.
+- Apagar Slot em Config → Saves: apaga o save do computador e da nuvem, com cópia de segurança antes.
+- Loja reorganizada: a aba de Gemas tem só os pacotes por PIX; Master Ball entrou na aba de Pokébolas; Buff Semanal e Passe De Nome ficam nos Buffs.
 
 MUDANÇAS
-- Poké Ball, Great Ball e Ultra Ball mais baratas em Gemas (5, 10 e 20).
-- Gastar Gemas pede internet e conta com e-mail conectada.
-- Ranking mostra apenas contas com e-mail.
+- Ranking: quem joga sem e-mail continua aparecendo enquanto está ativo; só a conta com e-mail garante o lugar. O jogo avisa ao abrir e na tela do Ranking.
+- Gemas, Buff Semanal e Skin valem iguais nos três slots de save.
+- Na tela do Professor Carvalho, a música vira um ícone de nota: um clique silencia tudo, outro devolve o som.
+- As bolinhas da fila de captura empilham na vertical, acima da pokébola.
 
 CORREÇÕES
-- Botões nas bordas da tela ampliada voltaram a responder.
-- A posição que você escolhe na arena não volta mais sozinha.
-- Future Sight acerta mesmo quando a fase muda.
-- A captura automática do Olho De Colecionador arremessa em toda espécie que falta capturar.
-- Torre Pokémon com fauna nova: Zubat, Drowzee, Koffing e Golbat.
-- Chat com separador de dia (Hoje, Ontem, data).
-- Nomes de cidades e ginásios de volta em inglês para quem joga em inglês.
+- Os ícones dos pacotes de Gemas crescem do Punhado (1 gema) ao Tesouro (10 gemas).
+- O convite do tutorial não fica mais cortado quando uma tela está aberta.
+- O menu de naturezas rola quando há muitas capturadas.
 </body></html>]]></description>
-      <pubDate>Tue, 29 Sep 2026 22:17:43 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 22:01:39 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.0-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.42.0"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.1-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.42.1"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="198912515"
+        length="198917558"
         type="application/octet-stream" />
     </item>
   </channel>
