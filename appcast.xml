@@ -3,6 +3,27 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.42.3 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Árvore Revisada
+
+NOVIDADES
+- Textos da Árvore Do Treinador mais claros, em português e inglês.
+- Quatro nós com nome novo: Casal Da Creche, Martelo De Tinkaton, Miracle Chest e Copycat.
+
+CORREÇÕES
+- A Troca Tática não embaralha mais o time quando ninguém tem vantagem de tipo.
+- O Carbos agora aumenta de verdade a Velocidade do time (antes não fazia efeito).
+</body></html>]]></description>
+      <pubDate>Thu, 01 Oct 2026 22:12:40 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.3-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.42.3"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="196034358"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.42.2 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Ficha Sem Trava
 
