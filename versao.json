@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.8-beta/PokeTaskBar.apk",
-                    "notas":  "Ouro Na Loja\n\nNOVIDADES\n- Pacote de 1M de ouro na Loja, na aba de Gemas, por 400 Gemas. O ouro entra na hora, na jornada que está aberta, e não tem limite de compras.\n- O Buff Semanal ganhou ícone próprio: o ovo em arco-íris.\n- Enquanto o Buff Semanal estiver valendo, o ovo arco-íris aparece no ícone de buffs da arena. Toque nele para ver o efeito e quanto tempo resta.\n\nMUDANÇAS\n- Ao comprar o Buff Semanal, o jogo avisa que ele já está ativo e por quanto tempo. Ele vale a partir da compra e não vai para a Mochila.\n",
-                    "versao":  "1.42.8"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.9-beta/PokeTaskBar.apk",
+                    "notas":  "Uma Conta, Um Aparelho\n\nNOVIDADES\n- Sua conta agora fica aberta em um aparelho de cada vez. Abrir o jogo (ou entrar na conta) em outro aparelho faz o anterior parar e mostrar a tela Conta Em Uso. Tocar em Jogar Aqui traz a conta de volta para aquele aparelho.\n- Treinadores, líderes de ginásio, a Liga e o Rival agora arremessam as pokébolas: as três saem juntas e os pokémon saem de dentro delas, em vez de entrarem caminhando. O substituto que entra no meio da luta também sai de uma pokébola.\n\nMUDANÇAS\n- Ficha: o botão de subir nível virou uma seta para cima com o custo em Rare Candy ao lado. No celular não dava para ver quanto faltava.\n- O e-mail de confirmação de conta agora leva para poketaskbar.com.\n",
+                    "versao":  "1.42.9"
                 }
 }
