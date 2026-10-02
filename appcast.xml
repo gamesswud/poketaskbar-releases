@@ -3,26 +3,24 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.42.7 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Menu De Ponta A Ponta
+      <title>PokeTaskBar 1.42.8 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Ouro Na Loja
+
+NOVIDADES
+- Pacote de 1M de ouro na Loja, na aba de Gemas, por 400 Gemas. O ouro entra na hora, na jornada que está aberta, e não tem limite de compras.
+- O Buff Semanal ganhou ícone próprio: o ovo em arco-íris.
+- Enquanto o Buff Semanal estiver valendo, o ovo arco-íris aparece no ícone de buffs da arena. Toque nele para ver o efeito e quanto tempo resta.
 
 MUDANÇAS
-- No celular, o menu agora ocupa toda a largura do topo da tela, com os ícones espalhados por igual. Ele aparece com um deslize curto e some do mesmo jeito.
-- Para recolher o menu no celular, toque em qualquer ponto fora dele ou no último ícone da barra.
-- O X de fechar o jogo saiu do menu no celular (lá quem fecha o app é o próprio sistema).
-
-CORREÇÕES
-- A lista de saves da Config mostra o save que está aberto de verdade. Antes, logo depois de trocar de jornada ou de entrar na conta, ela ainda mostrava o save anterior.
-- A lista de saves e as cópias de segurança mostram a fase certa.
-- A Config avisa que as 3 jornadas sincronizam com a nuvem da conta.
+- Ao comprar o Buff Semanal, o jogo avisa que ele já está ativo e por quanto tempo. Ele vale a partir da compra e não vai para a Mochila.
 </body></html>]]></description>
-      <pubDate>Fri, 02 Oct 2026 11:38:15 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 12:55:01 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.7-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.42.7"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.8-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.42.8"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="198953042"
+        length="198952300"
         type="application/octet-stream" />
     </item>
   </channel>
