@@ -3,70 +3,33 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.42.3 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Árvore Revisada
+      <title>PokeTaskBar 1.42.4 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Forja Nova
 
 NOVIDADES
-- Textos da Árvore Do Treinador mais claros, em português e inglês.
-- Quatro nós com nome novo: Casal Da Creche, Martelo De Tinkaton, Miracle Chest e Copycat.
-
-CORREÇÕES
-- A Troca Tática não embaralha mais o time quando ninguém tem vantagem de tipo.
-- O Carbos agora aumenta de verdade a Velocidade do time (antes não fazia efeito).
-</body></html>]]></description>
-      <pubDate>Thu, 01 Oct 2026 22:12:40 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.42.3"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="196034358"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.42.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Ficha Sem Trava
-
-CORREÇÕES
-- A Ficha agora troca de pokémon quando você clica em outro pokémon na arena (antes ela ficava presa no primeiro clicado).
-- Ao trocar de pokémon, a Ficha continua na aba em que você estava.
-</body></html>]]></description>
-      <pubDate>Thu, 01 Oct 2026 19:52:34 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.42.2"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="196031283"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.42.1 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Conta Obrigatória
-
-NOVIDADES
-- Jogo novo começa criando a sua conta (ou entrando na que você já tem), antes da história do Professor Carvalho. A conta guarda o progresso na nuvem, garante o lugar no Ranking e nunca perde as Gemas compradas.
-- Apagar Slot em Config → Saves: apaga o save do computador e da nuvem, com cópia de segurança antes.
-- Loja reorganizada: a aba de Gemas tem só os pacotes por PIX; Master Ball entrou na aba de Pokébolas; Buff Semanal e Passe De Nome ficam nos Buffs.
+- A Forja foi refeita: tela maior, três abas com nome (Melhorar, Fundir e Energias) e cada função com explicação, preço e quantas vezes ainda dá para usar. Quando um botão está apagado, a tela diz o motivo.
+- Dá para melhorar itens equipados direto na Forja, sem desequipar. Eles aparecem marcados, com o mini do pokémon que está usando.
+- Itens mais raros ficaram mais fortes: cada afixo de Raro, Lendário e Relíquia agora rola numa faixa maior. Os itens que você já tem não perdem nada e podem ser polidos até o teto novo.
+- Great Ball e Ultra Ball por Gemas agora vêm em pacote de 10, pelo mesmo preço.
 
 MUDANÇAS
-- Ranking: quem joga sem e-mail continua aparecendo enquanto está ativo; só a conta com e-mail garante o lugar. O jogo avisa ao abrir e na tela do Ranking.
-- Gemas, Buff Semanal e Skin valem iguais nos três slots de save.
-- Na tela do Professor Carvalho, a música vira um ícone de nota: um clique silencia tudo, outro devolve o som.
-- As bolinhas da fila de captura empilham na vertical, acima da pokébola.
+- Held items caem com muito mais frequência nos baús.
+- A Master Ball passa a custar 1.000 Gemas.
+- Bônus De XP e Bônus De Captura saíram da Loja; quem já tem continua podendo usar.
+- Os itens de PP agora se chamam Leppa Berry e Max Elixir.
+- Fundir Tudo voltou à Forja, com confirmação em dois toques.
 
 CORREÇÕES
-- Os ícones dos pacotes de Gemas crescem do Punhado (1 gema) ao Tesouro (10 gemas).
-- O convite do tutorial não fica mais cortado quando uma tela está aberta.
-- O menu de naturezas rola quando há muitas capturadas.
+- Botões e dicas mostram os ícones do jogo (Essência, ouro, reciclar) no lugar dos emojis.
+- O preço do Alterar Nome fica alinhado com os outros cartões da Loja.
 </body></html>]]></description>
-      <pubDate>Wed, 30 Sep 2026 22:01:39 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:07:49 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.1-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.42.1"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.4-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.42.4"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="198917558"
+        length="198938645"
         type="application/octet-stream" />
     </item>
   </channel>
