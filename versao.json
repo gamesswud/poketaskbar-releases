@@ -1,7 +1,7 @@
 {
-    "android": {
-        "versao": "1.42.5",
-        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.5-beta/PokeTaskBar.apk",
-        "notas": "Tela Cheia No Celular\n\nNOVIDADES\n- A arena agora ocupa a tela inteira do celular. O cenário aparece de cima a baixo e os pokémon continuam do mesmo tamanho.\n- Toda tela aberta ocupa a tela inteira: Loja, Mochila, Forja, PC, Pokédex, Histórico e Chat.\n- As abas de treinador entram pela borda da tela e ocupam a altura toda.\n- A Forja foi refeita: três abas com nome (Melhorar, Fundir e Energias) e cada função com explicação, preço e quantas vezes ainda dá para usar. Dá para melhorar itens equipados sem desequipar.\n- Itens mais raros ficaram mais fortes: cada afixo de Raro, Lendário e Relíquia rola numa faixa maior. Os itens que você já tem não perdem nada.\n- Great Ball e Ultra Ball por Gemas vêm em pacote de 10, pelo mesmo preço.\n\nMUDANÇAS\n- Held items caem com muito mais frequência nos baús.\n- A Master Ball passa a custar 1.000 Gemas.\n- Bônus De XP e Bônus De Captura saíram da Loja; quem já tem continua podendo usar.\n- Os itens de PP agora se chamam Leppa Berry e Max Elixir.\n- Textos da Árvore Do Treinador revisados.\n\nCORREÇÕES\n- Botões e dicas mostram os ícones do jogo no lugar dos emojis.\n- A Ficha acompanha o pokémon tocado na arena mesmo com outra Ficha aberta.\n- Troca Tática e Carbos funcionam como descrito.\n"
-    }
+    "android":  {
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.6-beta/PokeTaskBar.apk",
+                    "notas":  "Escolha Seu Save\n\nNOVIDADES\n- Ao entrar com um e-mail que já tem save, num aparelho que também tem progresso, o jogo pergunta qual save você quer manter: o deste aparelho ou o da conta. A escolha vale para as jornadas que existem nos dois; as outras são mantidas.\n- Ficar com o save do aparelho substitui o da conta e pede uma confirmação. O save que sai do aparelho vira Cópia De Segurança.\n- No celular, os pokémon e a interface da arena ficaram maiores (até 20%).\n\nCORREÇÕES\n- Entrar na conta por um aparelho que estava em outra jornada agora traz o save da conta e abre a jornada dela.\n- Se a nuvem não responder na hora do login, o jogo avisa e deixa tentar de novo, sem mexer em nenhum save.\n- No celular, a captura não desenha mais um bloco escuro no meio da tela: a cena escurece a tela inteira. A cena do Centro Pokémon também ocupa a tela toda.\n",
+                    "versao":  "1.42.6"
+                }
 }
