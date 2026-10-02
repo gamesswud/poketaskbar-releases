@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.6-beta/PokeTaskBar.apk",
-                    "notas":  "Escolha Seu Save\n\nNOVIDADES\n- Ao entrar com um e-mail que já tem save, num aparelho que também tem progresso, o jogo pergunta qual save você quer manter: o deste aparelho ou o da conta. A escolha vale para as jornadas que existem nos dois; as outras são mantidas.\n- Ficar com o save do aparelho substitui o da conta e pede uma confirmação. O save que sai do aparelho vira Cópia De Segurança.\n- No celular, os pokémon e a interface da arena ficaram maiores (até 20%).\n\nCORREÇÕES\n- Entrar na conta por um aparelho que estava em outra jornada agora traz o save da conta e abre a jornada dela.\n- Se a nuvem não responder na hora do login, o jogo avisa e deixa tentar de novo, sem mexer em nenhum save.\n- No celular, a captura não desenha mais um bloco escuro no meio da tela: a cena escurece a tela inteira. A cena do Centro Pokémon também ocupa a tela toda.\n",
-                    "versao":  "1.42.6"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.7-beta/PokeTaskBar.apk",
+                    "notas":  "Menu De Ponta A Ponta\n\nMUDANÇAS\n- No celular, o menu agora ocupa toda a largura do topo da tela, com os ícones espalhados por igual. Ele aparece com um deslize curto e some do mesmo jeito.\n- Para recolher o menu no celular, toque em qualquer ponto fora dele ou no último ícone da barra.\n- O X de fechar o jogo saiu do menu no celular (lá quem fecha o app é o próprio sistema).\n\nCORREÇÕES\n- A lista de saves da Config mostra o save que está aberto de verdade. Antes, logo depois de trocar de jornada ou de entrar na conta, ela ainda mostrava o save anterior.\n- A lista de saves e as cópias de segurança mostram a fase certa.\n- A Config avisa que as 3 jornadas sincronizam com a nuvem da conta.\n",
+                    "versao":  "1.42.7"
                 }
 }
