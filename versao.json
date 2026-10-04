@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.0-beta/PokeTaskBar.apk",
-                    "notas":  "TMs e HMs chegaram! Compre os discos na aba TM/HM da Loja (liberados conforme você avança por Kanto), ensine na Ficha e equipe como qualquer golpe.\nLoja em formato grande, com organização por tipo, poder, categoria e preço.\nGame Corner: a roleta ocupa a tela toda e agora também dá ouro, Fichas De Treinador, itens e, com sorte, TMs.\nPokémon capturado já evoluído entra no nível mínimo da forma (um Seadra chega no Lv 32).\nPontos de IV por captura repetida, aviso de shiny da captura automática e arena ampliada por padrão no PC.",
-                    "versao":  "1.43.0"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.2-beta/PokeTaskBar.apk",
+                    "notas":  "Time completo desde o começo: os 6 slots de pokémon já vêm liberados para todo mundo, e os pontos gastos no nó \"Time\" da árvore voltaram para você.\nAs pokébolinhas dos pokémon capturáveis ficam alinhadas, logo acima da cabeça do mais alto em campo.\nProporções ajustadas na arena: Charizard maior, Alakazam e Articuno menores.",
+                    "versao":  "1.43.2"
                 }
 }
