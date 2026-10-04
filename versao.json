@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.2-beta/PokeTaskBar.apk",
-                    "notas":  "Time completo desde o começo: os 6 slots de pokémon já vêm liberados para todo mundo, e os pontos gastos no nó \"Time\" da árvore voltaram para você.\nAs pokébolinhas dos pokémon capturáveis ficam alinhadas, logo acima da cabeça do mais alto em campo.\nProporções ajustadas na arena: Charizard maior, Alakazam e Articuno menores.",
-                    "versao":  "1.43.2"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.4-beta/PokeTaskBar.apk",
+                    "notas":  "Itens em ordem: toda aba com itens ganhou a setinha de organizar (Mochila, Forja, Loja, Guarda-roupa e discos de TM).\nItem equipado mostra o mini do pokémon que está usando, e a Ficha lista também o que está em outros pokémon: tocar puxa o item para o pokémon da ficha.\nHeld items podem ser vendidos por ouro (Mochila e Loja) e organizados por tipo e por poder.\nÍcones de tipo novos, os oficiais. Articuno bate as asas ao andar e o botão de destravar nível mostra o preço em Fichas.\nCelular: com o Fold aberto, a arena fica na tela de cima e os menus na de baixo; a interface da arena ficou 15% maior.",
+                    "versao":  "1.43.4"
                 }
 }

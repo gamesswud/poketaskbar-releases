@@ -3,31 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.3 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Fichas que crescem com o progresso: chefes, treinadores e marcos pagam mais Fichas quanto mais longe a fase — até o triplo no fim do mapa.
-Subir de dificuldade também paga: no Pesadelo os prêmios dobram, no Inferno triplicam. Os líderes pagam mais a cada dificuldade.
-O começo do jogo segue igual; a diferença aparece do meio para a frente e, principalmente, depois da Liga.</body></html>]]></description>
-      <pubDate>Sun, 04 Oct 2026 18:04:05 GMT</pubDate>
+      <title>PokeTaskBar 1.43.4 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Itens em ordem: toda aba com itens ganhou a setinha de organizar (Mochila, Forja, Loja, Guarda-roupa e discos de TM).
+Item equipado mostra o mini do pokémon que está usando, e a Ficha lista também o que está em outros pokémon: tocar puxa o item para o pokémon da ficha.
+Held items podem ser vendidos por ouro (Mochila e Loja) e organizados por tipo e por poder.
+Ícones de tipo novos, os oficiais. Articuno bate as asas ao andar e o botão de destravar nível mostra o preço em Fichas.
+Celular: com o Fold aberto, a arena fica na tela de cima e os menus na de baixo; a interface da arena ficou 15% maior.</body></html>]]></description>
+      <pubDate>Sun, 04 Oct 2026 19:14:18 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.3-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.3"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.4-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.4"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="196283114"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.2 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Time completo desde o começo: os 6 slots de pokémon já vêm liberados para todo mundo, e os pontos gastos no nó "Time" da árvore voltaram para você.
-As pokébolinhas dos pokémon capturáveis ficam alinhadas, logo acima da cabeça do mais alto em campo.
-Proporções ajustadas na arena: Charizard maior, Alakazam e Articuno menores.</body></html>]]></description>
-      <pubDate>Sun, 04 Oct 2026 15:14:26 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.2-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.2"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="199167563"
+        length="199185659"
         type="application/octet-stream" />
     </item>
   </channel>
