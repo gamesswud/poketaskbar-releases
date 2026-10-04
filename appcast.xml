@@ -3,35 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.42.10 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Clãs
-
-NOVIDADES
-- Clãs: junte até 20 treinadores. Crie o seu (custa ouro) ou entre em um pela aba Todos Os Clãs, que mostra o líder, os membros e o botão de entrar ou de pedir entrada. O clã tem mural, cargos (Líder, Oficial e Membro), Chat Do Clã, Pokédex Do Clã, Missões Da Semana com prêmio e ranking.
-- Chefe Do Clã: toda semana um lendário vira o chefe. Abra uma sala de Treino ou Oficial com até 3 treinadores e lute de verdade na arena, com 6 pokémon, por 30 turnos do chefe. O dano das batalhas oficiais soma para o clã, libera prêmios e vale no ranking semanal entre clãs. O nível do chefe é ??? e ele fica mais forte a cada turno.
-- Cada chefe tem uma habilidade própria. O Mew prende um pokémon em campo e mostra na cabeça o tipo de golpe que solta: leve pokémon de Fogo, Água, Planta e Elétrico. Quebrar a prisão faz o Mew levar 30% mais dano por 2 turnos.
-- Social: Amigos e Clã agora ficam num item só do menu.
-- Cada save tem o seu próprio clã. As jornadas da mesma conta são independentes.
-- Pokémon shiny brilham na arena, com cintilos na entrada e de tempos em tempos.
-- Lutas contra líderes de ginásio, a Liga e o Rival abrem com o nome do treinador.
-
-MUDANÇAS
-- Todo pokémon alcança qualquer adversário, em qualquer posição da arena.
-- Golpes de vários acertos mostram o dano no momento de cada acerto.
-- Max Elixir e Leppa Berry agora recuperam PP por turno: Max Elixir dá 1 PP em todos os golpes a cada 3 turnos e Leppa Berry dá 1 PP em um golpe a cada 2 turnos.
-- A página Rankings ganhou o ranking semanal de clãs.
-- O chat abre na última mensagem.
-
-CONSERTOS
-- A luta contra treinador que empacava não mostra mais Vitória quando é dada como perdida, e o tempo não corre enquanto você escolhe o golpe no modo manual.
-</body></html>]]></description>
-      <pubDate>Sat, 03 Oct 2026 19:17:34 GMT</pubDate>
+      <title>PokeTaskBar 1.43.0 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>TMs e HMs chegaram! Compre os discos na aba TM/HM da Loja (liberados conforme você avança por Kanto), ensine na Ficha e equipe como qualquer golpe.
+Loja em formato grande, com organização por tipo, poder, categoria e preço.
+Game Corner: a roleta ocupa a tela toda e agora também dá ouro, Fichas De Treinador, itens e, com sorte, TMs.
+Pokémon capturado já evoluído entra no nível mínimo da forma (um Seadra chega no Lv 32).
+Pontos de IV por captura repetida, aviso de shiny da captura automática e arena ampliada por padrão no PC.</body></html>]]></description>
+      <pubDate>Sun, 04 Oct 2026 03:38:25 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.10-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.42.10"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.0-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.0"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="199069797"
+        length="199177198"
         type="application/octet-stream" />
     </item>
   </channel>

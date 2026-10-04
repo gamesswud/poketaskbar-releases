@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.42.9-beta/PokeTaskBar.apk",
-                    "notas":  "Uma Conta, Um Aparelho\n\nNOVIDADES\n- Sua conta agora fica aberta em um aparelho de cada vez. Abrir o jogo (ou entrar na conta) em outro aparelho faz o anterior parar e mostrar a tela Conta Em Uso. Tocar em Jogar Aqui traz a conta de volta para aquele aparelho.\n- Treinadores, líderes de ginásio, a Liga e o Rival agora arremessam as pokébolas: as três saem juntas e os pokémon saem de dentro delas, em vez de entrarem caminhando. O substituto que entra no meio da luta também sai de uma pokébola.\n\nMUDANÇAS\n- Ficha: o botão de subir nível virou uma seta para cima com o custo em Rare Candy ao lado. No celular não dava para ver quanto faltava.\n- O e-mail de confirmação de conta agora leva para poketaskbar.com.\n",
-                    "versao":  "1.42.9"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.0-beta/PokeTaskBar.apk",
+                    "notas":  "TMs e HMs chegaram! Compre os discos na aba TM/HM da Loja (liberados conforme você avança por Kanto), ensine na Ficha e equipe como qualquer golpe.\nLoja em formato grande, com organização por tipo, poder, categoria e preço.\nGame Corner: a roleta ocupa a tela toda e agora também dá ouro, Fichas De Treinador, itens e, com sorte, TMs.\nPokémon capturado já evoluído entra no nível mínimo da forma (um Seadra chega no Lv 32).\nPontos de IV por captura repetida, aviso de shiny da captura automática e arena ampliada por padrão no PC.",
+                    "versao":  "1.43.0"
                 }
 }
