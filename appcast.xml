@@ -3,17 +3,18 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.5 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mini do pokémon no canto dos itens: agora sempre no mesmo lugar e do mesmo tamanho, em todas as telas.
-Golpes da Ficha com o fundo do elemento, como na aba de golpes da arena (nos slots de Skills e na aba Golpes).
-Seta de subir nível mais grossa e a setinha do filtro de tipo em preto, mais fáceis de enxergar.</body></html>]]></description>
-      <pubDate>Sun, 04 Oct 2026 20:16:25 GMT</pubDate>
+      <title>PokeTaskBar 1.43.6 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mini do pokémon no canto dos itens: agora com o centro exatamente no cantinho do item, igual na Forja, na Mochila e na Ficha.
+Golpes da Ficha: o fundo do elemento aparece sem o filtro escuro, e o golpe equipado ganhou borda dourada, brilho e a etiqueta Equipado. A aba de golpes da arena também ficou sem o filtro.
+Ícones em ordem: a Ficha De Treinador é sempre o hexágono dourado, a roleta mostra Bilhetes, a Essência é sempre o frasco roxo e as Energias aparecem com o ícone do tipo.
+Pidgeot ficou 25% menor na arena.</body></html>]]></description>
+      <pubDate>Sun, 04 Oct 2026 22:49:20 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.5-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.5"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.6-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.6"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="199190229"
+        length="203241519"
         type="application/octet-stream" />
     </item>
   </channel>
