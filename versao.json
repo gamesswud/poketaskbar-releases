@@ -1,7 +1,7 @@
 {
-    "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.8-beta/PokeTaskBar.apk",
-                    "notas":  "Mais golpes em área: Rock Slide, Surf, Shadow Ball, Sky Attack, Submission, Rollout, Horn Drill, Whirlwind, Dragon Rage e Fury Attack agora acertam todos os inimigos.\nGolpes de dano fixo e de status marcados como área também pegam todo mundo, com metade do efeito em cada um. O Fury Attack em área acerta cada inimigo de 2 a 5 vezes, com força total.\nDragon Rage agora usa o seu maior ataque (físico ou especial) com poder 80, no lugar dos 40 de dano fixo.\nAnimações novas em 11 golpes e cores revisadas nos efeitos.\nNo celular: o aviso de versão nova aparece também quando você volta para o jogo, e chegam juntas as novidades das versões 1.43.6 e 1.43.7 (mini do pokémon no canto dos itens, golpe equipado em destaque e ícones novos).",
-                    "versao":  "1.43.8"
-                }
+    "android": {
+        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.9-beta/PokeTaskBar.apk",
+        "notas": "Novo no celular: o jogo pode continuar rodando com o app fora da tela. Ligue em Config → Celular → Jogar Em Segundo Plano (vem desligado).\nWidget para a tela inicial: o seu time marchando, o ouro e os pokémon capturados esperando. Toque em Adicionar Widget À Tela Inicial na mesma seção.\nCom a tela apagada o jogo dorme, e o tempo dormido vira recompensa offline quando você volta.",
+        "versao": "1.43.9"
+    }
 }
