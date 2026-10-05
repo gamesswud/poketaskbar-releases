@@ -1,7 +1,7 @@
 {
     "android": {
-        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.9-beta/PokeTaskBar.apk",
-        "notas": "Novo no celular: o jogo pode continuar rodando com o app fora da tela. Ligue em Config → Celular → Jogar Em Segundo Plano (vem desligado).\nWidget para a tela inicial: o seu time marchando, o ouro e os pokémon capturados esperando. Toque em Adicionar Widget À Tela Inicial na mesma seção.\nCom a tela apagada o jogo dorme, e o tempo dormido vira recompensa offline quando você volta.",
-        "versao": "1.43.9"
+        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.10-beta/PokeTaskBar.apk",
+        "notas": "Widget do celular animado: o seu time marcha e batalha a cerca de 24 quadros por segundo, sem travar.\nNovo no widget: o seu estoque de Rare Candy, no meio, entre o ouro e os pokémon capturados.\nConfig do celular mais limpa: as opções que só valem no PC sumiram, e há uma dica de como adicionar o widget pela tela inicial.\nLembrete: ligue em Config → Celular → Jogar Em Segundo Plano (vem desligado).",
+        "versao": "1.43.10"
     }
 }
