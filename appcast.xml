@@ -3,17 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.7 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mini do pokémon dono agora fica no canto de cima do item, sempre no mesmo lugar, e substitui o sinal de equipado.
-Rare Candy e Bilhetes do Game Corner ganharam ícone próprio no lugar dos emojis.
-Abas de Itens, Helds e Buffs com o mesmo desenho na Ficha, na Mochila, na Loja e na Árvore.</body></html>]]></description>
-      <pubDate>Sun, 04 Oct 2026 23:58:12 GMT</pubDate>
+      <title>PokeTaskBar 1.43.8 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mais golpes em área: Rock Slide, Surf, Shadow Ball, Sky Attack, Submission, Rollout, Horn Drill, Whirlwind, Dragon Rage e Fury Attack agora acertam todos os inimigos.
+Golpes de dano fixo e de status marcados como área também pegam todo mundo, com metade do efeito em cada um. O Fury Attack em área acerta cada inimigo de 2 a 5 vezes, com força total.
+Dragon Rage agora usa o seu maior ataque (físico ou especial) com poder 80, no lugar dos 40 de dano fixo.
+Animações novas em 11 golpes e cores revisadas nos efeitos.
+No celular: o aviso de versão nova aparece também quando você volta para o jogo, e chegam juntas as novidades das versões 1.43.6 e 1.43.7 (mini do pokémon no canto dos itens, golpe equipado em destaque e ícones novos).</body></html>]]></description>
+      <pubDate>Mon, 05 Oct 2026 01:17:07 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.7-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.7"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.8-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.8"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="203238945"
+        length="202779987"
         type="application/octet-stream" />
     </item>
   </channel>

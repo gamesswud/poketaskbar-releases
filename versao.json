@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.5-beta/PokeTaskBar.apk",
-                    "notas":  "Mini do pokémon no canto dos itens: agora sempre no mesmo lugar e do mesmo tamanho, em todas as telas.\nGolpes da Ficha com o fundo do elemento, como na aba de golpes da arena (nos slots de Skills e na aba Golpes).\nSeta de subir nível mais grossa e a setinha do filtro de tipo em preto, mais fáceis de enxergar.",
-                    "versao":  "1.43.5"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.8-beta/PokeTaskBar.apk",
+                    "notas":  "Mais golpes em área: Rock Slide, Surf, Shadow Ball, Sky Attack, Submission, Rollout, Horn Drill, Whirlwind, Dragon Rage e Fury Attack agora acertam todos os inimigos.\nGolpes de dano fixo e de status marcados como área também pegam todo mundo, com metade do efeito em cada um. O Fury Attack em área acerta cada inimigo de 2 a 5 vezes, com força total.\nDragon Rage agora usa o seu maior ataque (físico ou especial) com poder 80, no lugar dos 40 de dano fixo.\nAnimações novas em 11 golpes e cores revisadas nos efeitos.\nNo celular: o aviso de versão nova aparece também quando você volta para o jogo, e chegam juntas as novidades das versões 1.43.6 e 1.43.7 (mini do pokémon no canto dos itens, golpe equipado em destaque e ícones novos).",
+                    "versao":  "1.43.8"
                 }
 }
