@@ -1,7 +1,7 @@
 {
-    "android": {
-        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.10-beta/PokeTaskBar.apk",
-        "notas": "Widget do celular animado: o seu time marcha e batalha a cerca de 24 quadros por segundo, sem travar.\nNovo no widget: o seu estoque de Rare Candy, no meio, entre o ouro e os pokémon capturados.\nConfig do celular mais limpa: as opções que só valem no PC sumiram, e há uma dica de como adicionar o widget pela tela inicial.\nLembrete: ligue em Config → Celular → Jogar Em Segundo Plano (vem desligado).",
-        "versao": "1.43.10"
-    }
+    "android":  {
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.12-beta/PokeTaskBar.apk",
+                    "notas":  "Lutas mais ágeis: inimigos caem em menos golpes, o PP acaba bem menos e os números de dano deixaram de explodir. O nível dos pokémon agora acompanha o do treinador (até +5).\nGolpes consertados: Focus Energy, Icy Wind, Fire Spin e outros passam a fazer efeito; a IA escolhe pelo dano real; Explosion só com pouca vida; Counter, Protect e Quick Attack respeitam a ordem oficial dos turnos.\nNovidades: ouro e Fichas na barra da arena, letra da dificuldade junto do nome do mapa, formas evoluídas nos mapas do Pesadelo em diante, SORT dos pokémon que fica salvo, stats dos itens no hover, item voando para o carrinho, natureza em roxo nos stats e nenhuma caixa de dica cortada.\nFichas ganhas jogando valem o dobro. Retratos dos amigos agora trazem o time exato deles.\nNo celular: vida sempre visível na arena e segurar o dedo mostra as informações.",
+                    "versao":  "1.43.12"
+                }
 }

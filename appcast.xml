@@ -3,34 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.11 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Tutorial do Prof. Carvalho revisado: cada lição mostra onde clicar, nada mais trava no meio, e a captura do Pidgey tem festa.
-O Carvalho agora pergunta se você é menino ou menina antes do nome, e retoma a lição se você fechar o jogo no meio.
-O passeio guiado pelas telas saiu do caminho: fica em Config, "Tour Guiado Pelas Telas", com a arena parada e um fim de verdade.
-Nova seção "Atalhos Do Teclado" na Config.</body></html>]]></description>
-      <pubDate>Tue, 06 Oct 2026 03:30:39 GMT</pubDate>
+      <title>PokeTaskBar 1.43.12 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Lutas mais ágeis: inimigos caem em menos golpes, o PP acaba bem menos e os números de dano deixaram de explodir. O nível dos pokémon agora acompanha o do treinador (até +5).
+Golpes consertados: Focus Energy, Icy Wind, Fire Spin e outros passam a fazer efeito; a IA escolhe pelo dano real; Explosion só com pouca vida; Counter, Protect e Quick Attack respeitam a ordem oficial dos turnos.
+Novidades: ouro e Fichas na barra da arena, letra da dificuldade junto do nome do mapa, formas evoluídas nos mapas do Pesadelo em diante, SORT dos pokémon que fica salvo, stats dos itens no hover, item voando para o carrinho, natureza em roxo nos stats e nenhuma caixa de dica cortada.
+Fichas ganhas jogando valem o dobro. Retratos dos amigos agora trazem o time exato deles.
+No celular: vida sempre visível na arena e segurar o dedo mostra as informações.</body></html>]]></description>
+      <pubDate>Tue, 06 Oct 2026 23:07:02 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.11-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.11"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.12-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.12"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="199906706"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.8 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mais golpes em área: Rock Slide, Surf, Shadow Ball, Sky Attack, Submission, Rollout, Horn Drill, Whirlwind, Dragon Rage e Fury Attack agora acertam todos os inimigos.
-Golpes de dano fixo e de status marcados como área também pegam todo mundo, com metade do efeito em cada um. O Fury Attack em área acerta cada inimigo de 2 a 5 vezes, com força total.
-Dragon Rage agora usa o seu maior ataque (físico ou especial) com poder 80, no lugar dos 40 de dano fixo.
-Animações novas em 11 golpes e cores revisadas nos efeitos.
-No celular: o aviso de versão nova aparece também quando você volta para o jogo, e chegam juntas as novidades das versões 1.43.6 e 1.43.7 (mini do pokémon no canto dos itens, golpe equipado em destaque e ícones novos).</body></html>]]></description>
-      <pubDate>Mon, 05 Oct 2026 01:17:07 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.8-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.8"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="202779987"
+        length="202818292"
         type="application/octet-stream" />
     </item>
   </channel>
