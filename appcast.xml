@@ -3,6 +3,21 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.43.11 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Tutorial do Prof. Carvalho revisado: cada lição mostra onde clicar, nada mais trava no meio, e a captura do Pidgey tem festa.
+O Carvalho agora pergunta se você é menino ou menina antes do nome, e retoma a lição se você fechar o jogo no meio.
+O passeio guiado pelas telas saiu do caminho: fica em Config, "Tour Guiado Pelas Telas", com a arena parada e um fim de verdade.
+Nova seção "Atalhos Do Teclado" na Config.</body></html>]]></description>
+      <pubDate>Tue, 06 Oct 2026 03:30:39 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.11-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.11"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="199906706"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.43.8 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mais golpes em área: Rock Slide, Surf, Shadow Ball, Sky Attack, Submission, Rollout, Horn Drill, Whirlwind, Dragon Rage e Fury Attack agora acertam todos os inimigos.
 Golpes de dano fixo e de status marcados como área também pegam todo mundo, com metade do efeito em cada um. O Fury Attack em área acerta cada inimigo de 2 a 5 vezes, com força total.
