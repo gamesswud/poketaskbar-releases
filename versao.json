@@ -1,7 +1,7 @@
 {
-  "android": {
-    "versao": "1.43.13",
-    "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.13-beta/PokeTaskBar.apk",
-    "notas": "Títulos De Treinador: 50 títulos para ganhar jogando e exibir ao lado do nome. Escolha o seu no Perfil, no botão Escolher Título; cada um mostra o objetivo e o progresso.\nO título aparece no seu perfil, no chat, no ranking, na lista de amigos e na aba do treinador nas batalhas.\nNo PvP o oponente agora aparece com o apelido real.\nO título que os outros veem sai do save validado pelo servidor."
-  }
+    "android":  {
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.14-beta/PokeTaskBar.apk",
+                    "notas":  "Celular: o número de vida fixo ao lado da barra saiu. Para ver nome, HP e status de um pokémon na arena, segure o dedo nele por um instante, como o mouse em cima no PC.",
+                    "versao":  "1.43.14"
+                }
 }
