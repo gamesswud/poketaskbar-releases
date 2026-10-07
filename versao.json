@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.14-beta/PokeTaskBar.apk",
-                    "notas":  "Celular: o número de vida fixo ao lado da barra saiu. Para ver nome, HP e status de um pokémon na arena, segure o dedo nele por um instante, como o mouse em cima no PC.",
-                    "versao":  "1.43.14"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.15-beta/PokeTaskBar.apk",
+                    "notas":  "Pesadelo sem multiplicador escondido: os inimigos continuam do nível do Blue (66) e sobem até o 100 na Liga do Pesadelo, sem bônus oculto de força. Seus pokémon voltam a dar dano de verdade lá.\nNo Inferno e no Tormento os inimigos ficam no nível 100 e ganham um multiplicador de força; o nível deles aparece colorido (vermelho e roxo) para avisar.",
+                    "versao":  "1.43.15"
                 }
 }

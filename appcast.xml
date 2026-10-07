@@ -3,15 +3,16 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.14 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Celular: o número de vida fixo ao lado da barra saiu. Para ver nome, HP e status de um pokémon na arena, segure o dedo nele por um instante, como o mouse em cima no PC.</body></html>]]></description>
-      <pubDate>Wed, 07 Oct 2026 03:23:51 GMT</pubDate>
+      <title>PokeTaskBar 1.43.15 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Pesadelo sem multiplicador escondido: os inimigos continuam do nível do Blue (66) e sobem até o 100 na Liga do Pesadelo, sem bônus oculto de força. Seus pokémon voltam a dar dano de verdade lá.
+No Inferno e no Tormento os inimigos ficam no nível 100 e ganham um multiplicador de força; o nível deles aparece colorido (vermelho e roxo) para avisar.</body></html>]]></description>
+      <pubDate>Wed, 07 Oct 2026 05:16:22 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.14-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.14"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.15-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.15"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="202829321"
+        length="202827751"
         type="application/octet-stream" />
     </item>
   </channel>
