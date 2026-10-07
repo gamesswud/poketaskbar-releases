@@ -3,16 +3,17 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.15 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Pesadelo sem multiplicador escondido: os inimigos continuam do nível do Blue (66) e sobem até o 100 na Liga do Pesadelo, sem bônus oculto de força. Seus pokémon voltam a dar dano de verdade lá.
-No Inferno e no Tormento os inimigos ficam no nível 100 e ganham um multiplicador de força; o nível deles aparece colorido (vermelho e roxo) para avisar.</body></html>]]></description>
-      <pubDate>Wed, 07 Oct 2026 05:16:22 GMT</pubDate>
+      <title>PokeTaskBar 1.43.16 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Alvos Da Caçada: o nó da Árvore que libera os alvos agora abre uma tela com todos os pokémon. Marque quais a Pokébola automática deve caçar e qual bola usar em cada um; a mira da arena prefere os alvos. A escolha saiu da Pokédex e do mapa.
+Olho De Colecionador: escolha uma bola para shiny e outra para lendários. Bola sem estoque passa para a próxima disponível.
+Super Fang passa a tirar 1/8 da vida e, como todo dano fixo, respeita a imunidade de tipo. Confusão e golpes de dano fixo (Night Shade, Seismic Toss, Sonic Boom) voltam a ter o peso certo em todos os níveis.</body></html>]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:21:57 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.15-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.15"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.16-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.16"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="202827751"
+        length="202832732"
         type="application/octet-stream" />
     </item>
   </channel>
