@@ -3,32 +3,17 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.17 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Fale com a gente: achou um bug, teve uma ideia ou ficou com dúvida? Toque no balão no topo de qualquer tela (ou aperte F8) e escolha Bug, Sugestão, Dúvida ou Curti. Escrever é opcional.
-O print da tela vai junto: dá para dar zoom e riscar por cima para mostrar exatamente onde está o problema.
-Vai só o que ajuda a entender o momento (versão, fase, time e o que aconteceu nos últimos minutos), nunca senha, e-mail ou dados pessoais.
-O ícone discreto na arena pode ser desligado em Configurações; o F8 aparece na lista de atalhos.</body></html>]]></description>
-      <pubDate>Wed, 07 Oct 2026 20:36:24 GMT</pubDate>
+      <title>PokeTaskBar 1.43.18 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Dano do jogo refeito: a partir do nível 35 o dano acompanha a vida do alvo. Lutas de mesmo nível caem em ~5 golpes com o golpe forte, em qualquer nível, no Pesadelo inclusive. Até o nível 35 nada muda.
+Outrage, Thrash e Petal Dance fiéis ao oficial: um acerto por turno, o pokémon fica preso no golpe por 2 ou 3 turnos e só depois fica confuso.
+Olho De Colecionador: não joga mais bola em espécies que você já capturou e evoluiu.</body></html>]]></description>
+      <pubDate>Thu, 08 Oct 2026 01:46:50 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.17-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.17"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.18-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.18"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="199987601"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.16 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Alvos Da Caçada: o nó da Árvore que libera os alvos agora abre uma tela com todos os pokémon. Marque quais a Pokébola automática deve caçar e qual bola usar em cada um; a mira da arena prefere os alvos. A escolha saiu da Pokédex e do mapa.
-Olho De Colecionador: escolha uma bola para shiny e outra para lendários. Bola sem estoque passa para a próxima disponível.
-Super Fang passa a tirar 1/8 da vida e, como todo dano fixo, respeita a imunidade de tipo. Confusão e golpes de dano fixo (Night Shade, Seismic Toss, Sonic Boom) voltam a ter o peso certo em todos os níveis.</body></html>]]></description>
-      <pubDate>Wed, 07 Oct 2026 17:21:57 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.16-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.16"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="202832732"
+        length="202872262"
         type="application/octet-stream" />
     </item>
   </channel>

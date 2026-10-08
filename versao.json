@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.16-beta/PokeTaskBar.apk",
-                    "notas":  "Alvos Da Caçada: o nó da Árvore que libera os alvos agora abre uma tela com todos os pokémon. Marque quais a Pokébola automática deve caçar e qual bola usar em cada um; a mira da arena prefere os alvos. A escolha saiu da Pokédex e do mapa.\nOlho De Colecionador: escolha uma bola para shiny e outra para lendários. Bola sem estoque passa para a próxima disponível.\nSuper Fang passa a tirar 1/8 da vida e, como todo dano fixo, respeita a imunidade de tipo. Confusão e golpes de dano fixo (Night Shade, Seismic Toss, Sonic Boom) voltam a ter o peso certo em todos os níveis.",
-                    "versao":  "1.43.16"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.18-beta/PokeTaskBar.apk",
+                    "notas":  "Dano do jogo refeito: a partir do nível 35 o dano acompanha a vida do alvo. Lutas de mesmo nível caem em ~5 golpes com o golpe forte, em qualquer nível, no Pesadelo inclusive. Até o nível 35 nada muda.\nOutrage, Thrash e Petal Dance fiéis ao oficial: um acerto por turno, o pokémon fica preso no golpe por 2 ou 3 turnos e só depois fica confuso.\nOlho De Colecionador: não joga mais bola em espécies que você já capturou e evoluiu.",
+                    "versao":  "1.43.18"
                 }
 }
