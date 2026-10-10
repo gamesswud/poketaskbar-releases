@@ -3,16 +3,18 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.21 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Novidades No Navegador: o jogo no navegador agora mostra as novidades sempre que sai uma versao nova, numa janelinha ao abrir.
-Perdeu alguma? Em Config, aba Conta & Saves, o botao "Ver Novidades" mostra as notas das ultimas versoes (tambem no PC).</body></html>]]></description>
-      <pubDate>Fri, 09 Oct 2026 22:10:00 GMT</pubDate>
+      <title>PokeTaskBar 1.43.22 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Sem renascer: o pokémon que cai fica fora da luta até o time inteiro cair. Aí todos vão ao Centro Pokémon e voltam inteiros para o início da área.
+Novo nó Reviver na Árvore Do Treinador, no lugar do Centro Pokémon Expresso: 1 ou 2 pokémon revivem na hora com metade da vida, uma vez por área. Não vale no PvP.
+Caído mostra K.O. na arena, sem contador de turnos.
+Correção: o save não sobe para a nuvem durante uma luta PvP ou do Chefe Do Clã, que no celular podia remontar a arena no meio da luta.</body></html>]]></description>
+      <pubDate>Sat, 10 Oct 2026 18:55:23 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.21-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.21"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.22-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.22"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="200011405"
+        length="202906612"
         type="application/octet-stream" />
     </item>
   </channel>
