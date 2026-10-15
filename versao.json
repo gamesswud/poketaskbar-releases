@@ -1,7 +1,7 @@
 {
-    "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.18-beta/PokeTaskBar.apk",
-                    "notas":  "Dano do jogo refeito: a partir do nível 35 o dano acompanha a vida do alvo. Lutas de mesmo nível caem em ~5 golpes com o golpe forte, em qualquer nível, no Pesadelo inclusive. Até o nível 35 nada muda.\nOutrage, Thrash e Petal Dance fiéis ao oficial: um acerto por turno, o pokémon fica preso no golpe por 2 ou 3 turnos e só depois fica confuso.\nOlho De Colecionador: não joga mais bola em espécies que você já capturou e evoluiu.",
-                    "versao":  "1.43.18"
-                }
+    "android": {
+        "versao": "1.43.24",
+        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.24-beta/PokeTaskBar.apk",
+        "notas": "Sem renascer: o pokémon que cai fica fora da luta até o time inteiro cair. Aí todos vão ao Centro Pokémon e voltam inteiros para o início da área. Novo nó Reviver na Árvore Do Treinador: 1 ou 2 pokémon revivem na hora com metade da vida, uma vez por área.\nBotão 🏥 Centro Pokémon: aparece quando alguém do time está nocauteado; cura todos e recomeça a área. Viajar pelo mapa para outra área também cura os nocauteados.\nBandeira branca 🏳️ na luta do Chefe Do Clã: toque e confirme para desistir. Sozinho, conta o dano já causado (na oficial, a vez de 48 h é consumida); em grupo, seus pokémon seguem no automático para os amigos.\nRoupas Com Propósito: boné = captura, camiseta = dano do tipo dela + crítico, calça = defesa, sapato = ouro e XP. Arte nova em pixel art e Relíquia na Forja (funde 8 Lendários da mesma peça). Suas roupas antigas foram rerroladas na regra nova.\nConfig › Conta & Saves ganhou o botão \"Ver Novidades\" com as notas das últimas versões.\nCorreção: o save não sobe para a nuvem no meio de uma luta PvP ou do Chefe Do Clã (podia remontar a arena no celular)."
+    }
 }
