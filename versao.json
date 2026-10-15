@@ -1,7 +1,7 @@
 {
-    "android": {
-        "versao": "1.43.24",
-        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.24-beta/PokeTaskBar.apk",
-        "notas": "Sem renascer: o pokémon que cai fica fora da luta até o time inteiro cair. Aí todos vão ao Centro Pokémon e voltam inteiros para o início da área. Novo nó Reviver na Árvore Do Treinador: 1 ou 2 pokémon revivem na hora com metade da vida, uma vez por área.\nBotão 🏥 Centro Pokémon: aparece quando alguém do time está nocauteado; cura todos e recomeça a área. Viajar pelo mapa para outra área também cura os nocauteados.\nBandeira branca 🏳️ na luta do Chefe Do Clã: toque e confirme para desistir. Sozinho, conta o dano já causado (na oficial, a vez de 48 h é consumida); em grupo, seus pokémon seguem no automático para os amigos.\nRoupas Com Propósito: boné = captura, camiseta = dano do tipo dela + crítico, calça = defesa, sapato = ouro e XP. Arte nova em pixel art e Relíquia na Forja (funde 8 Lendários da mesma peça). Suas roupas antigas foram rerroladas na regra nova.\nConfig › Conta & Saves ganhou o botão \"Ver Novidades\" com as notas das últimas versões.\nCorreção: o save não sobe para a nuvem no meio de uma luta PvP ou do Chefe Do Clã (podia remontar a arena no celular)."
-    }
+    "android":  {
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.25-beta/PokeTaskBar.apk",
+                    "notas":  "Contraste revisto no jogo inteiro, nos dois temas: Loja, Mochila, Forja e Game Corner ganharam cartões escuros no tema escuro, e nenhum texto fica mais claro sobre fundo claro.\nA aba aberta em qualquer menu agora tem um contorno vermelho-escuro, para você ver de longe onde está.\nPokédex: o filtro de tipo virou um chip na linha das abas e os nomes dos tipos aparecem sempre traduzidos.\nFormação: Filtrar Por Tipo e Organizar com a mesma pílula; a ordem padrão é o número da Pokédex.",
+                    "versao":  "1.43.25"
+                }
 }
