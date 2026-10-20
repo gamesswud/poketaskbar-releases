@@ -3,17 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.27 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>- Menu reorganizado pelo que mais se usa: o Treinador vem primeiro, depois Pokédex, Pokémon, Mochila, Árvore do Treinador e Mapa.
-- Em seguida: Loja, Forja e Game Corner; depois Chat, Social e Ranking; no fim Histórico, Configurações e Fechar.
-- Num jogo novo, a barra não começa mais pelo cadeado do Game Corner.</body></html>]]></description>
-      <pubDate>Tue, 20 Oct 2026 03:06:33 GMT</pubDate>
+      <title>PokeTaskBar 1.43.28 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>- Energias de Fada, Aco e Sombrio existem: escolha da Energia dourada no Game Corner (18 tipos), Reforja, packs e chefes de fim de fase. Clefairy, Magnemite e golpes Sombrios sobem de Tier e de nivel.
+- PvP 1x1 dentro da arena: Arena Ampliada a luta inteira, relogio e bandeira de Desistir no topo da arena, resultado dentro dela, sem o quadrado escuro.
+- Itens contam no stat de verdade: o bonus entra na base do pokemon e cresce com o nivel. A Ficha mostra o ganho real.
+- Golpe travado mostra o que falta no lugar do cadeado; Amigos abre com a lista; Centro Pokemon virou cruz vermelha ao lado do A/M.
+- Arcanine ataca com o sprite de disparo e Butterfree anda.</body></html>]]></description>
+      <pubDate>Tue, 20 Oct 2026 14:34:20 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.27-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.27"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.28-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.28"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="202871203"
+        length="202913662"
         type="application/octet-stream" />
     </item>
   </channel>
