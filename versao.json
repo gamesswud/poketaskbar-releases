@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.34-beta/PokeTaskBar.apk",
-                    "notas":  "Marowak Maul: todos os golpes que saem dele ficam vermelho brilhante, na cor do sabre (Bonemerang, Bone Club e o que mais ele usar).\r\n",
-                    "versao":  "1.43.34"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.35-beta/PokeTaskBar.apk",
+                    "notas":  "Corrigido: a skin que você veste aparecia também nos pokémon selvagens e de treinadores da mesma espécie. Agora só o seu pokémon usa a skin.\r\nCorrigido: os golpes do Marowak Maul apareciam como um retângulo cinza em vez do efeito vermelho.\r\n",
+                    "versao":  "1.43.35"
                 }
 }
