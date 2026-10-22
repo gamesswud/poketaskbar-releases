@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.31-beta/PokeTaskBar.apk",
-                    "notas":  "Três skins novas na Loja: Venusaur Mecha, Charizard Mecha (garras douradas) e Blastoise Mecha (canhões no casco) — os golpes saem da boca ou dos canhões.\nArena: setinha azul no pokémon da vez e setinha vermelha no inimigo atacado; no Manual, clicar no inimigo continua escolhendo o alvo.\nPokebolinha colorida só no alvo da sua bola; os outros capturáveis ficam em preto e branco.\nFicha com o nome do pokémon no cartão do topo (troca com as setas) e aba Skins com cada estágio no tamanho certo; cards da Loja alinhados.\n",
-                    "versao":  "1.43.31"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.32-beta/PokeTaskBar.apk",
+                    "notas":  "Blastoise Mecha de cara nova: a armadura do corpo ficou roxa (os canhões e o casco seguem de metal).\nO ataque dele agora dura mais tempo na arena e ele pisa mais perto do chão.\nSprite do Blastoise Mecha sem a franja clara nas bordas.\nPvP: a plaquinha Esperando O Oponente Escolher não sai mais cortada embaixo da arena.\n",
+                    "versao":  "1.43.32"
                 }
 }
