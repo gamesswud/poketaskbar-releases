@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.33-beta/PokeTaskBar.apk",
-                    "notas":  "Todas as skins da Loja estão liberadas de graça para todo mundo testar: Pikachu Libre, Venusaur Mecha, Charizard Mecha, Blastoise Mecha e a nova Marowak Maul. É só vestir na aba Skins da Ficha.\r\nSkin nova: Marowak Maul, caveira vermelha tatuada, capuz preto e bastão de duas lâminas vermelhas.\r\nMarowak com visual novo na arena: as cores da forma alternativa do PMD Collab (marrom fosco, barriga clara).",
-                    "versao":  "1.43.33"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.34-beta/PokeTaskBar.apk",
+                    "notas":  "Marowak Maul: todos os golpes que saem dele ficam vermelho brilhante, na cor do sabre (Bonemerang, Bone Club e o que mais ele usar).\r\n",
+                    "versao":  "1.43.34"
                 }
 }
