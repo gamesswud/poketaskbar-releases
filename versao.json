@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.30-beta/PokeTaskBar.apk",
-                    "notas":  "As Fitas saíram do jogo: agora só existe o Reborn, e ele dá o que a Fita dava (golpe de tutor, Tier 5 e 6, nós da árvore). O Hall Da Fama mostra os Renascidos.\nFila de PvP 1x1 na aba PVP do Social: Normal (pareia por chegada; sem ninguém, luta contra o time de outro treinador no automático) e Ranqueada (só gente na fila; a única que conta no Ranking). A abinha de espadas avisa quando parear.\nPvP justo: o pokémon do outro treinador chega inteiro, com a aura de Reborn, e um renascido de nível baixo luta como o Lv 100 que os stats dele carregam.\nFicha Do Treinador com o Perfil como quarta aba; todas as abas do jogo com a mesma largura, altura e letra.\nGame Corner: segure o botão de ouro para comprar bilhetes em sequência e gire até 100 de uma vez. Pokémon caído aparece em preto e branco com um X na aba lateral.\n",
-                    "versao":  "1.43.30"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.31-beta/PokeTaskBar.apk",
+                    "notas":  "Três skins novas na Loja: Venusaur Mecha, Charizard Mecha (garras douradas) e Blastoise Mecha (canhões no casco) — os golpes saem da boca ou dos canhões.\nArena: setinha azul no pokémon da vez e setinha vermelha no inimigo atacado; no Manual, clicar no inimigo continua escolhendo o alvo.\nPokebolinha colorida só no alvo da sua bola; os outros capturáveis ficam em preto e branco.\nFicha com o nome do pokémon no cartão do topo (troca com as setas) e aba Skins com cada estágio no tamanho certo; cards da Loja alinhados.\n",
+                    "versao":  "1.43.31"
                 }
 }
