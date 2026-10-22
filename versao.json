@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.32-beta/PokeTaskBar.apk",
-                    "notas":  "Blastoise Mecha de cara nova: a armadura do corpo ficou roxa (os canhões e o casco seguem de metal).\nO ataque dele agora dura mais tempo na arena e ele pisa mais perto do chão.\nSprite do Blastoise Mecha sem a franja clara nas bordas.\nPvP: a plaquinha Esperando O Oponente Escolher não sai mais cortada embaixo da arena.\n",
-                    "versao":  "1.43.32"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.33-beta/PokeTaskBar.apk",
+                    "notas":  "Todas as skins da Loja estão liberadas de graça para todo mundo testar: Pikachu Libre, Venusaur Mecha, Charizard Mecha, Blastoise Mecha e a nova Marowak Maul. É só vestir na aba Skins da Ficha.\r\nSkin nova: Marowak Maul, caveira vermelha tatuada, capuz preto e bastão de duas lâminas vermelhas.\r\nMarowak com visual novo na arena: as cores da forma alternativa do PMD Collab (marrom fosco, barriga clara).",
+                    "versao":  "1.43.33"
                 }
 }
