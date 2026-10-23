@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.39-beta/PokeTaskBar.apk",
-                    "notas":  "Linha Do Tempo: o símbolo ‹ › na ponta do cartão de Rare Candy/ouro agora é um botão. Toque nele para ver a ordem de ataque e a barra de cada pokémon; toque de novo para voltar às moedas. O deslizar saiu (não funcionava no celular).\r\nContinua valendo da 1.43.38: ordem de ataque por velocidade (Prontidão), ninguém perde a vez, Solar Beam na pose o golpe inteiro; PvP e Chefe Do Clã exigem todos na mesma versão.\r\n",
-                    "versao":  "1.43.39"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.40-beta/PokeTaskBar.apk",
+                    "notas":  "Sky Attack, Skull Bash e Dig: no turno seguinte o golpe sai sozinho, sem apertar nada; enquanto carrega, o pokémon mostra feixes subindo.\r\nItens: afixos numa régua em pontos por raridade. Raridade maior sempre dá valor maior; todo Polir sobe o valor mostrado; nenhum afixo nasce no teto. Itens antigos abaixo do piso foram levantados.\r\nLinha Do Tempo: as barras enchem de forma contínua e os minis deslizam quando um pokémon passa o outro.\r\nPvP e Chefe Do Clã: todos os jogadores da sala precisam estar nesta versão.\r\n",
+                    "versao":  "1.43.40"
                 }
 }
