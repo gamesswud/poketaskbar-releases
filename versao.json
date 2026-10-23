@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.38-beta/PokeTaskBar.apk",
-                    "notas":  "Ordem de ataque nova: cada pokémon tem uma barra que enche pela VELOCIDADE dele; quem enche primeiro ataca. Não existe mais rodada: o mais rápido ataca mais vezes, e Agility, X Speed ou paralisia mudam a ordem na hora.\r\nLinha Do Tempo: segure e deslize para a direita no cartão de Rare Candy/ouro do topo da arena para ver a ordem de ataque (o próximo à direita) e a barra de cada pokémon. O sinal ‹ › mostra onde dá para deslizar, inclusive no cartão de TM.\r\nNinguém perde a vez por estar longe: o pokémon espera com a barra cheia e ataca assim que o alvo chega. Quem entra numa troca começa com a barra zerada.\r\nGolpes de prioridade e a Quick Claw dão um empurrão na barra de quem acabou de atacar.\r\nSolar Beam, Thunder e Blizzard: o pokémon fica na pose de ataque durante todo o golpe.\r\nPvP e Chefe Do Clã: todos os jogadores da sala precisam estar nesta versão (versões diferentes desincronizam a luta).\r\n",
-                    "versao":  "1.43.38"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.39-beta/PokeTaskBar.apk",
+                    "notas":  "Linha Do Tempo: o símbolo ‹ › na ponta do cartão de Rare Candy/ouro agora é um botão. Toque nele para ver a ordem de ataque e a barra de cada pokémon; toque de novo para voltar às moedas. O deslizar saiu (não funcionava no celular).\r\nContinua valendo da 1.43.38: ordem de ataque por velocidade (Prontidão), ninguém perde a vez, Solar Beam na pose o golpe inteiro; PvP e Chefe Do Clã exigem todos na mesma versão.\r\n",
+                    "versao":  "1.43.39"
                 }
 }

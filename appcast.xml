@@ -3,21 +3,17 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.38 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Ordem de ataque nova: cada pokémon tem uma barra que enche pela VELOCIDADE dele; quem enche primeiro ataca. Não existe mais rodada: o mais rápido ataca mais vezes, e Agility, X Speed ou paralisia mudam a ordem na hora.
-Linha Do Tempo: segure e deslize para a direita no cartão de Rare Candy/ouro do topo da arena para ver a ordem de ataque (o próximo à direita) e a barra de cada pokémon. O sinal ‹ › mostra onde dá para deslizar, inclusive no cartão de TM.
-Ninguém perde a vez por estar longe: o pokémon espera com a barra cheia e ataca assim que o alvo chega. Quem entra numa troca começa com a barra zerada.
-Golpes de prioridade e a Quick Claw dão um empurrão na barra de quem acabou de atacar.
-Solar Beam, Thunder e Blizzard: o pokémon fica na pose de ataque durante todo o golpe.
-PvP e Chefe Do Clã: todos os jogadores da sala precisam estar nesta versão (versões diferentes desincronizam a luta).
+      <title>PokeTaskBar 1.43.39 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Linha Do Tempo: o símbolo ‹ › na ponta do cartão de Rare Candy/ouro agora é um botão. Toque nele para ver a ordem de ataque e a barra de cada pokémon; toque de novo para voltar às moedas. O deslizar saiu (não funcionava no celular).
+Continua valendo da 1.43.38: ordem de ataque por velocidade (Prontidão), ninguém perde a vez, Solar Beam na pose o golpe inteiro; PvP e Chefe Do Clã exigem todos na mesma versão.
 </body></html>]]></description>
-      <pubDate>Fri, 23 Oct 2026 03:47:11 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 04:09:37 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.38-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.38"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.39-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.39"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="211580791"
+        length="211584468"
         type="application/octet-stream" />
     </item>
   </channel>
