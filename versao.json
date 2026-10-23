@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.36-beta/PokeTaskBar.apk",
-                    "notas":  "Skin nova: Charizard Mecha Pixel, desenhada no mesmo tamanho do Charizard normal (corpo cromado, asas laranja, visor), que voa em vez de andar. Liberada de graça como as outras, na aba Skins da Ficha.\r\n",
-                    "versao":  "1.43.36"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.37-beta/PokeTaskBar.apk",
+                    "notas":  "Skin nova: Venusaur HD, o Venusaur normal redesenhado com muito mais detalhe (mesma nitidez do Venusaur Mecha), com a flor apontando para a frente nos golpes. Liberada de graça como as outras, na aba Skins da Ficha.\r\nCharizard Mecha Pixel: o voo não aumenta mais o tamanho dele.\r\n",
+                    "versao":  "1.43.37"
                 }
 }
