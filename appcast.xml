@@ -3,6 +3,22 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.43.43 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Os "held items" agora se chamam Reliquias, e o tier do topo dos itens e roupas virou Mitico. O pokemon raro da Alcateia agora se chama Diferente.
+Forja > Fundir: Reliquias repetidas viram comida. A primeira na bigorna e o alvo; cada igual que entra da XP a ela e o nivel sobe sem teto (quanto mais forte a comida, mais XP). Fundir Tudo tambem alimenta a melhor de cada tipo.
+Mochila bem maior: 80 vagas no comeco e ate 500 pela arvore. Com a Mochila cheia aparecem os botoes "Fundir Na Forja" e "Vender Na Loja".
+Forja: o "Preencher" sempre sugere algo que fecha uma fusao (itens, roupas ou duas Reliquias iguais).
+</body></html>]]></description>
+      <pubDate>Sat, 24 Oct 2026 23:06:32 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.43-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.43"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="207752860"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.43.42 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mochila: agora tudo ocupa vaga (cada monte de TM, Energia, Buff ou Bola conta 1; item, roupa e held soltos contam 1 cada). Contador de vagas na barra; vagas por nivel 40/50/65/80/100/150.
 Mochila cheia: o bau espera ate voce abrir espaco, e "Abrir Tudo" abre so os baus do mesmo tipo. Save acima do limite nao perde nada: aparece um aviso e o botao "Marcar comuns" na venda da Loja ajuda a limpar.
