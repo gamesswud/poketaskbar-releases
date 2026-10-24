@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.40-beta/PokeTaskBar.apk",
-                    "notas":  "Sky Attack, Skull Bash e Dig: no turno seguinte o golpe sai sozinho, sem apertar nada; enquanto carrega, o pokémon mostra feixes subindo.\r\nItens: afixos numa régua em pontos por raridade. Raridade maior sempre dá valor maior; todo Polir sobe o valor mostrado; nenhum afixo nasce no teto. Itens antigos abaixo do piso foram levantados.\r\nLinha Do Tempo: as barras enchem de forma contínua e os minis deslizam quando um pokémon passa o outro.\r\nPvP e Chefe Do Clã: todos os jogadores da sala precisam estar nesta versão.\r\n",
-                    "versao":  "1.43.40"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.41-beta/PokeTaskBar.apk",
+                    "notas":  "Revive: toque no item (na aba lateral da arena ou na Mochila) e escolha qual pokémon caído reviver. Funciona em qualquer luta, não gasta turno e ele volta com metade da vida.\r\nMochila: nova categoria Combate, com o Revive.\r\nSkin Blastoise Mecha refeita: casco de placas de blindagem, animações novas e bordas limpas.\r\n",
+                    "versao":  "1.43.41"
                 }
 }
