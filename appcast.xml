@@ -3,6 +3,20 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.43.45 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Pokedex: saiu a faixa "Level Da Conta" do topo da aba Pokemons e o aviso "Esta Entrada Contribui Ao Teto" dentro de cada especie. Eram restos de um sistema antigo.
+Por baixo dos panos chegou a base do Treino: um novo jeito de fortalecer cada stat do pokemon, que vai substituir IV e Tier. Ainda esta desligado nesta versao; entra depois da calibragem, numa proxima atualizacao.
+</body></html>]]></description>
+      <pubDate>Sun, 25 Oct 2026 00:19:33 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.45-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.45"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="207769833"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.43.44 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Modo manual: ao armar um golpe, a aba de golpes vira a lista dos inimigos vivos, com o primeiro ja marcado. Um clique marca e move a seta; o segundo clique no marcado dispara. "&lt; Golpe" volta aos golpes.
 O clique direto no inimigo na arena saiu: o alvo e sempre escolhido pela aba. A licao do Prof. Carvalho sobre golpes aponta para o cartao certo.
