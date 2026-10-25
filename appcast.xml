@@ -3,6 +3,21 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.43.46 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Treino ligado de verdade: IVs e Tier deram lugar a 6 escalas de 0 a 10, uma por stat. Na Ficha, cada stat mostra g/10 e a pill n/60 abre o painel de Treino.
+Seus pokemon convertem sem perder nada: cada IV virou o grau equivalente e cada Tier ja alcancado virou pontos livres.
+Pontos vem de captura repetida da especie ou de 10 vitorias com o pokemon no time; os ultimos degraus pedem Fichas e Energia do tipo. Laco da +1 grau de HP por tier acima do teto.
+</body></html>]]></description>
+      <pubDate>Sat, 25 Oct 2026 02:05:00 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.46-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.46"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="207769896"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.43.45 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Pokedex: saiu a faixa "Level Da Conta" do topo da aba Pokemons e o aviso "Esta Entrada Contribui Ao Teto" dentro de cada especie. Eram restos de um sistema antigo.
 Por baixo dos panos chegou a base do Treino: um novo jeito de fortalecer cada stat do pokemon, que vai substituir IV e Tier. Ainda esta desligado nesta versao; entra depois da calibragem, numa proxima atualizacao.
