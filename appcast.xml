@@ -3,109 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.47 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>O no Alvos Da Cacada (Arvore > Capturar) ganhou o botao liga/desliga, como os outros nos automaticos.
-Desligado, ou sem nenhuma especie marcada, a Pokebola automatica volta a sair em qualquer Pokemon capturavel; o Olho De Colecionador decide se ignora os ja capturados.
-Ligado e com especies marcadas, segue cacando so os marcados (shiny sempre vale). Bom para farmar replicas no Treino sem perder a lista de alvos.
-</body></html>]]></description>
-      <pubDate>Sat, 25 Oct 2026 04:30:00 GMT</pubDate>
+      <title>PokeTaskBar 1.43.48 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Visão Futura E Pequenos Maiores
+• Future Sight cai no 2º turno de quem usou e o dano não se perde mais; o Pokémon mostra a carga enquanto espera.
+• Pokémon pequenos bem maiores na arena; médios e grandes do mesmo tamanho; Golbat menor.
+• PvP: mude quem está lutando de lugar sem gastar a vez; golpes do lado do seu treinador; skins para os dois; Reborns no draft.
+• Pokédex com linha evolutiva clicável e golpes detalhados. Skins novas: Meowth Equipe Rocket e Mewtwo De Armadura.</body></html>]]></description>
+      <pubDate>Sun, 25 Oct 2026 23:18:27 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.47-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.47"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.48-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.48"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="207765194"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.46 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Treino ligado de verdade: IVs e Tier deram lugar a 6 escalas de 0 a 10, uma por stat. Na Ficha, cada stat mostra g/10 e a pill n/60 abre o painel de Treino.
-Seus pokemon convertem sem perder nada: cada IV virou o grau equivalente e cada Tier ja alcancado virou pontos livres.
-Pontos vem de captura repetida da especie ou de 10 vitorias com o pokemon no time; os ultimos degraus pedem Fichas e Energia do tipo. Laco da +1 grau de HP por tier acima do teto.
-</body></html>]]></description>
-      <pubDate>Sat, 25 Oct 2026 02:05:00 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.46-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.46"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="207769896"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.45 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Pokedex: saiu a faixa "Level Da Conta" do topo da aba Pokemons e o aviso "Esta Entrada Contribui Ao Teto" dentro de cada especie. Eram restos de um sistema antigo.
-Por baixo dos panos chegou a base do Treino: um novo jeito de fortalecer cada stat do pokemon, que vai substituir IV e Tier. Ainda esta desligado nesta versao; entra depois da calibragem, numa proxima atualizacao.
-</body></html>]]></description>
-      <pubDate>Sun, 25 Oct 2026 00:19:33 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.45-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.45"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="207769833"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.44 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Modo manual: ao armar um golpe, a aba de golpes vira a lista dos inimigos vivos, com o primeiro ja marcado. Um clique marca e move a seta; o segundo clique no marcado dispara. "&lt; Golpe" volta aos golpes.
-O clique direto no inimigo na arena saiu: o alvo e sempre escolhido pela aba. A licao do Prof. Carvalho sobre golpes aponta para o cartao certo.
-Traz tambem tudo da 1.43.43: Reliquias com XP na Forja, raridade Mitico e Mochila ate 500.
-</body></html>]]></description>
-      <pubDate>Sat, 24 Oct 2026 23:52:20 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.44-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.44"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="207751576"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.43 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Os "held items" agora se chamam Reliquias, e o tier do topo dos itens e roupas virou Mitico. O pokemon raro da Alcateia agora se chama Diferente.
-Forja > Fundir: Reliquias repetidas viram comida. A primeira na bigorna e o alvo; cada igual que entra da XP a ela e o nivel sobe sem teto (quanto mais forte a comida, mais XP). Fundir Tudo tambem alimenta a melhor de cada tipo.
-Mochila bem maior: 80 vagas no comeco e ate 500 pela arvore. Com a Mochila cheia aparecem os botoes "Fundir Na Forja" e "Vender Na Loja".
-Forja: o "Preencher" sempre sugere algo que fecha uma fusao (itens, roupas ou duas Reliquias iguais).
-</body></html>]]></description>
-      <pubDate>Sat, 24 Oct 2026 23:06:32 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.43-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.43"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="207752860"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.42 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Mochila: agora tudo ocupa vaga (cada monte de TM, Energia, Buff ou Bola conta 1; item, roupa e held soltos contam 1 cada). Contador de vagas na barra; vagas por nivel 40/50/65/80/100/150.
-Mochila cheia: o bau espera ate voce abrir espaco, e "Abrir Tudo" abre so os baus do mesmo tipo. Save acima do limite nao perde nada: aparece um aviso e o botao "Marcar comuns" na venda da Loja ajuda a limpar.
-Loja: TMs agora podem ser vendidos (1 disco por marcacao); TMs em A-Z pelo nome do golpe e aba Recentes de verdade.
-Ficha: botoes dos cantos do retrato inteiros e fora do nome, Natureza alinhada com o Held e titulo do Stats que nao pula com o selo de IV.
-</body></html>]]></description>
-      <pubDate>Sat, 24 Oct 2026 17:35:34 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.42-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.42"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="207739355"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.41 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Revive: toque no item (na aba lateral da arena ou na Mochila) e escolha qual pokémon caído reviver. Funciona em qualquer luta, não gasta turno e ele volta com metade da vida.
-Mochila: nova categoria Combate, com o Revive.
-Skin Blastoise Mecha refeita: casco de placas de blindagem, animações novas e bordas limpas.
-</body></html>]]></description>
-      <pubDate>Sat, 24 Oct 2026 00:09:48 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.41-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.41"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="210621446"
+        length="213258773"
         type="application/octet-stream" />
     </item>
   </channel>

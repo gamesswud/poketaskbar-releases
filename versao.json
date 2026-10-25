@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.41-beta/PokeTaskBar.apk",
-                    "notas":  "Revive: toque no item (na aba lateral da arena ou na Mochila) e escolha qual pokémon caído reviver. Funciona em qualquer luta, não gasta turno e ele volta com metade da vida.\r\nMochila: nova categoria Combate, com o Revive.\r\nSkin Blastoise Mecha refeita: casco de placas de blindagem, animações novas e bordas limpas.\r\n",
-                    "versao":  "1.43.41"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.48-beta/PokeTaskBar.apk",
+                    "notas":  "Visão Futura E Pequenos Maiores\n• Future Sight cai no 2º turno de quem usou e o dano não se perde mais; o Pokémon mostra a carga enquanto espera.\n• Pokémon pequenos bem maiores na arena; médios e grandes do mesmo tamanho; Golbat menor.\n• PvP: mude quem está lutando de lugar sem gastar a vez; golpes do lado do seu treinador; skins para os dois; Reborns no draft.\n• Pokédex com linha evolutiva clicável e golpes detalhados. Skins novas: Meowth Equipe Rocket e Mewtwo De Armadura.",
+                    "versao":  "1.43.48"
                 }
 }
