@@ -3,6 +3,21 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
+      <title>PokeTaskBar 1.43.47 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>O no Alvos Da Cacada (Arvore > Capturar) ganhou o botao liga/desliga, como os outros nos automaticos.
+Desligado, ou sem nenhuma especie marcada, a Pokebola automatica volta a sair em qualquer Pokemon capturavel; o Olho De Colecionador decide se ignora os ja capturados.
+Ligado e com especies marcadas, segue cacando so os marcados (shiny sempre vale). Bom para farmar replicas no Treino sem perder a lista de alvos.
+</body></html>]]></description>
+      <pubDate>Sat, 25 Oct 2026 04:30:00 GMT</pubDate>
+      <enclosure
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.47-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.47"
+        sparkle:os="windows"
+        sparkle:installerArguments="/SILENT /SP-"
+        length="207765194"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>PokeTaskBar 1.43.46 (beta)</title>
       <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Treino ligado de verdade: IVs e Tier deram lugar a 6 escalas de 0 a 10, uma por stat. Na Ficha, cada stat mostra g/10 e a pill n/60 abre o painel de Treino.
 Seus pokemon convertem sem perder nada: cada IV virou o grau equivalente e cada Tier ja alcancado virou pontos livres.
