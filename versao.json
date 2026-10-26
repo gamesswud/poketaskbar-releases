@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.48-beta/PokeTaskBar.apk",
-                    "notas":  "Visão Futura E Pequenos Maiores\n• Future Sight cai no 2º turno de quem usou e o dano não se perde mais; o Pokémon mostra a carga enquanto espera.\n• Pokémon pequenos bem maiores na arena; médios e grandes do mesmo tamanho; Golbat menor.\n• PvP: mude quem está lutando de lugar sem gastar a vez; golpes do lado do seu treinador; skins para os dois; Reborns no draft.\n• Pokédex com linha evolutiva clicável e golpes detalhados. Skins novas: Meowth Equipe Rocket e Mewtwo De Armadura.",
-                    "versao":  "1.43.48"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.49-beta/PokeTaskBar.apk",
+                    "notas":  "• Aparência Do Treinador: escolha entre 12 personagens e pinte as roupas com a roda de cores (Perfil Do Treinador → Aparência). Grátis no pré-beta.\r\n• Cada Pokémon e skin com o tamanho certo na arena.\r\n• Inimigos mais fortes a partir da fase 2; cada Tormento sobe 15% em vez de dobrar.\r\n• Itens de tipo, Life Orb e Expert Belt agora dão % de dano; Reborn sobe por igual a cada nível.",
+                    "versao":  "1.43.49"
                 }
 }
