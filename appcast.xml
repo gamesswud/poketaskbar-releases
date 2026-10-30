@@ -3,32 +3,17 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.50 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>• Capturável Frágil: o Pokémon capturável que chega a 1 de HP sai da luta — não ataca mais e o seu time passa a bater nos outros inimigos. Ele continua capturável, fica esmaecido e mostra uma barrinha ciano com o tempo que falta para fugir.
-• Sozinho na arena, o time espera parado até a captura ou a fuga.
-• Builds de teste não criam mais conta na nuvem.</body></html>]]></description>
-      <pubDate>Thu, 29 Oct 2026 00:59:39 GMT</pubDate>
+      <title>PokeTaskBar 1.43.51 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Clima Nas Fases: 35% das fases chegam com Chuva, Sol Forte, Tempestade De Raios, Outono ou Nevando — ícone na frente do nome do mapa e golpes do tipo do clima 20% mais fortes, para os dois lados.
+Cenários Em Camadas: 12 fases com fundos novos em pixel art e parallax de verdade, cada cenário com os seus bichinhos.
+Inclui a Capturável Frágil da 1.43.50.</body></html>]]></description>
+      <pubDate>Fri, 30 Oct 2026 03:17:52 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.50-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.50"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.51-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.51"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="210520981"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.49 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>• Aparência Do Treinador: escolha entre 12 personagens e pinte as roupas com a roda de cores (Perfil Do Treinador → Aparência). Grátis no pré-beta.
-• Cada Pokémon e skin com o tamanho certo na arena.
-• Inimigos mais fortes a partir da fase 2; cada Tormento sobe 15% em vez de dobrar.
-• Itens de tipo, Life Orb e Expert Belt agora dão % de dano; Reborn sobe por igual a cada nível.</body></html>]]></description>
-      <pubDate>Mon, 26 Oct 2026 23:34:42 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.49-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.49"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="213417228"
+        length="214204766"
         type="application/octet-stream" />
     </item>
   </channel>

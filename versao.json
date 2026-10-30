@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.49-beta/PokeTaskBar.apk",
-                    "notas":  "• Aparência Do Treinador: escolha entre 12 personagens e pinte as roupas com a roda de cores (Perfil Do Treinador → Aparência). Grátis no pré-beta.\r\n• Cada Pokémon e skin com o tamanho certo na arena.\r\n• Inimigos mais fortes a partir da fase 2; cada Tormento sobe 15% em vez de dobrar.\r\n• Itens de tipo, Life Orb e Expert Belt agora dão % de dano; Reborn sobe por igual a cada nível.",
-                    "versao":  "1.43.49"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.51-beta/PokeTaskBar.apk",
+                    "notas":  "Clima Nas Fases: 35% das fases chegam com Chuva, Sol Forte, Tempestade De Raios, Outono ou Nevando — ícone na frente do nome do mapa e golpes do tipo do clima 20% mais fortes, para os dois lados.\nCenários Em Camadas: 12 fases com fundos novos em pixel art e parallax de verdade, cada cenário com os seus bichinhos.\nInclui a Capturável Frágil da 1.43.50.",
+                    "versao":  "1.43.51"
                 }
 }
