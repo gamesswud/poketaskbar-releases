@@ -1,7 +1,7 @@
 {
-    "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.54-beta/PokeTaskBar.apk",
-                    "notas":  "Arenas Da Liga: os 8 ginásios e as 5 salas da Liga refeitos, Estrada Da Vitória nova, todas as rotas com cenário em camadas e novos climas nas cavernas e na Liga. Também: Relatório novo, Poder De Combate, Guia De Caça fiel e Repetir Fase lutando o portão da fase.",
-                    "versao":  "1.43.54"
-                }
+    "android": {
+        "versao": "1.43.55",
+        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.55-beta/PokeTaskBar.apk",
+        "notas": "Itens Em Ordem Padrão!\n- Ordem padrão única: raridade e peça, na Mochila, no Guarda-Roupa, na Forja, na Ficha e na venda da Loja.\n- Guarda-Roupa e Forja ganharam a pílula de ordenar com texto, com a mesma medida em todo o jogo.\n- Forja mais limpa: colunas sem filtro ocupam a área inteira.\n- PvP sem fim por tempo: aos 5 minutos todo dano dobra para os dois lados, e dobra de novo a cada minuto, até alguém vencer."
+    }
 }

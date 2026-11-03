@@ -3,35 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.54 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Loop Ate O Lider!
-- Repetir Fase agora luta o portao da fase: enfrenta o lider, o chefe ou o Rival e volta ao comeco.
-- Concluir uma fase em loop avanca o seu recorde para a entrada da fase seguinte.
-- No Portal, o ginasio abre assim que voce chega na fase dele; viajar para a Liga leva sempre a Sala de Lorelei.
-- Revanche de ginasio (lider ja vencido nesta dificuldade) rende metade do loot nas ondas da fase.</body></html>]]></description>
-      <pubDate>Tue, 03 Nov 2026 04:29:13 GMT</pubDate>
+      <title>PokeTaskBar 1.43.55 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Itens Em Ordem Padrão!
+- Ordem padrão única: raridade e peça, na Mochila, no Guarda-Roupa, na Forja, na Ficha e na venda da Loja.
+- Guarda-Roupa e Forja ganharam a pílula de ordenar com texto, com a mesma medida em todo o jogo.
+- Forja mais limpa: colunas sem filtro ocupam a área inteira.
+- PvP sem fim por tempo: aos 5 minutos todo dano dobra para os dois lados, e dobra de novo a cada minuto, até alguém vencer.</body></html>]]></description>
+      <pubDate>Tue, 03 Nov 2026 16:39:46 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.54-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.54"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.55-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.55"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="215345791"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.53 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Arenas Da Liga!
-- Os 8 ginásios refeitos: arena simétrica, portão no fundo, brasão do líder e campo de batalha novo, desde a entrada da fase.
-- As 5 salas da Liga agora têm arena própria, do palácio de gelo ao salão do Campeão.
-- Estrada Da Vitória nova: salão de mármore com estátuas de pokémon icônicos e coroas de louro.
-- Todas as rotas com cenário em camadas e novos climas nas cavernas e na Liga.</body></html>]]></description>
-      <pubDate>Tue, 03 Nov 2026 02:23:03 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.53-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.53"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="218248100"
+        length="218252457"
         type="application/octet-stream" />
     </item>
   </channel>
