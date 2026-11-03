@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.51-beta/PokeTaskBar.apk",
-                    "notas":  "Clima Nas Fases: 35% das fases chegam com Chuva, Sol Forte, Tempestade De Raios, Outono ou Nevando — ícone na frente do nome do mapa e golpes do tipo do clima 20% mais fortes, para os dois lados.\nCenários Em Camadas: 12 fases com fundos novos em pixel art e parallax de verdade, cada cenário com os seus bichinhos.\nInclui a Capturável Frágil da 1.43.50.",
-                    "versao":  "1.43.51"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.54-beta/PokeTaskBar.apk",
+                    "notas":  "Arenas Da Liga: os 8 ginásios e as 5 salas da Liga refeitos, Estrada Da Vitória nova, todas as rotas com cenário em camadas e novos climas nas cavernas e na Liga. Também: Relatório novo, Poder De Combate, Guia De Caça fiel e Repetir Fase lutando o portão da fase.",
+                    "versao":  "1.43.54"
                 }
 }
