@@ -3,33 +3,19 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.52 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Relatório novo: virou item do menu (o Histórico é uma aba dentro dele), com Fase, Sessão e Histórico, gráficos por horário e quebras por pokémon, tipo, alvo e raridade. Atalho: ↑↑ abre o Relatório, ↓ abre o Chat.
-Poder De Combate (CP): um número que resume a força do pokémon, do time e da conta — na Ficha, na Formação e no Portal, para comparar com a fase.
-Guia De Caça fiel: a lista do Portal espelha o sorteio real por fase e dificuldade.
-Forja: favorito não entra em nenhuma fusão, roupa de qualquer preset fica protegida, Fundir Tudo com um aviso só e botão Favoritar na Mochila.
-Legibilidade: listas de Filtrar Por Tipo, Organizar, Reforja e Tutor seguem o tema claro e escuro.</body></html>]]></description>
-      <pubDate>Sat, 31 Oct 2026 07:05:00 GMT</pubDate>
+      <title>PokeTaskBar 1.43.53 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Arenas Da Liga!
+- Os 8 ginásios refeitos: arena simétrica, portão no fundo, brasão do líder e campo de batalha novo, desde a entrada da fase.
+- As 5 salas da Liga agora têm arena própria, do palácio de gelo ao salão do Campeão.
+- Estrada Da Vitória nova: salão de mármore com estátuas de pokémon icônicos e coroas de louro.
+- Todas as rotas com cenário em camadas e novos climas nas cavernas e na Liga.</body></html>]]></description>
+      <pubDate>Tue, 03 Nov 2026 02:23:03 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.52-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.52"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.53-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.53"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="211342501"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>PokeTaskBar 1.43.51 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Clima Nas Fases: 35% das fases chegam com Chuva, Sol Forte, Tempestade De Raios, Outono ou Nevando — ícone na frente do nome do mapa e golpes do tipo do clima 20% mais fortes, para os dois lados.
-Cenários Em Camadas: 12 fases com fundos novos em pixel art e parallax de verdade, cada cenário com os seus bichinhos.
-Inclui a Capturável Frágil da 1.43.50.</body></html>]]></description>
-      <pubDate>Fri, 30 Oct 2026 03:17:52 GMT</pubDate>
-      <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.51-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.51"
-        sparkle:os="windows"
-        sparkle:installerArguments="/SILENT /SP-"
-        length="214204766"
+        length="218248100"
         type="application/octet-stream" />
     </item>
   </channel>
