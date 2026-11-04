@@ -1,7 +1,7 @@
 {
     "android": {
-        "versao": "1.43.55",
-        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.55-beta/PokeTaskBar.apk",
-        "notas": "Itens Em Ordem Padrão!\n- Ordem padrão única: raridade e peça, na Mochila, no Guarda-Roupa, na Forja, na Ficha e na venda da Loja.\n- Guarda-Roupa e Forja ganharam a pílula de ordenar com texto, com a mesma medida em todo o jogo.\n- Forja mais limpa: colunas sem filtro ocupam a área inteira.\n- PvP sem fim por tempo: aos 5 minutos todo dano dobra para os dois lados, e dobra de novo a cada minuto, até alguém vencer."
+        "versao": "1.43.56",
+        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.56-beta/PokeTaskBar.apk",
+        "notas": "VFX Novos Em Todos Os Golpes!\n- Todos os golpes ganharam efeitos novos, feitos do zero, com impactos próprios: cortes, faíscas de metal, reflexos de luz, buraco negro e muito mais.\n- Ataques básicos novos, um para cada tipo.\n- Hyper Beam, Thunder e Dream Eater foram refeitos com destaque.\n- Quick Attack e Body Slam ainda vão ganhar animação própria."
     }
 }
