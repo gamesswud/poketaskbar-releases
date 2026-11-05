@@ -1,7 +1,7 @@
 {
-    "android": {
-        "versao": "1.43.58",
-        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.58-beta/PokeTaskBar.apk",
-        "notas": "VFX Novos Em Todos Os Golpes!\n- Todos os golpes ganharam efeitos novos, feitos do zero, com impactos próprios: cortes, faíscas de metal, reflexos de luz, buraco negro e muito mais.\n- Ataques básicos novos, um para cada tipo.\n- Hyper Beam, Thunder e Dream Eater foram refeitos com destaque.\n- Consertado o retângulo em volta dos efeitos das versões anteriores.\n- Quick Attack e Body Slam ainda vão ganhar animação própria."
-    }
+    "android":  {
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.59-beta/PokeTaskBar.apk",
+                    "notas":  "VFX Novos E Pés No Chão\r\n- Todos os golpes ganharam efeitos novos, feitos por código; Hyper Beam, Thunder, Solar Beam, Flamethrower, Hydro Pump, Fire Blast, Heat Wave e Stone Edge foram refeitos.\r\n- Os pokémon pisam no chão de verdade e ficaram 10% menores na arena.\r\n- Ginásios e Elite dos Quatro: a arena não anda mais; treinadores e líder trocam no lugar.\r\n- No modo manual, clique direto no inimigo para disparar o golpe (a aba continua).\r\n- Mirror Shot virou golpe de um acerto só.",
+                    "versao":  "1.43.59"
+                }
 }
