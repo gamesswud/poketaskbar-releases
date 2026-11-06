@@ -3,20 +3,17 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.59 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>VFX Novos E Pés No Chão
-- Todos os golpes ganharam efeitos novos, feitos por código; Hyper Beam, Thunder, Solar Beam, Flamethrower, Hydro Pump, Fire Blast, Heat Wave e Stone Edge foram refeitos.
-- Os pokémon pisam no chão de verdade e ficaram 10% menores na arena.
-- Ginásios e Elite dos Quatro: a arena não anda mais; treinadores e líder trocam no lugar.
-- No modo manual, clique direto no inimigo para disparar o golpe (a aba continua).
-- Mirror Shot virou golpe de um acerto só.</body></html>]]></description>
-      <pubDate>Thu, 05 Nov 2026 17:55:16 GMT</pubDate>
+      <title>PokeTaskBar 1.43.60 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>Roleta Sem Ouro
+- A roleta do Game Corner não dá mais ouro, de vez (a fatia virou Essência).
+- Quem funde Raros em Lendários na Forja não tem mais o save recusado pela nuvem (o rollback de alguns jogadores) — conserto no servidor, já no ar.</body></html>]]></description>
+      <pubDate>Fri, 06 Nov 2026 02:19:23 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.59-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.59"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.60-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.60"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="222427402"
+        length="222431546"
         type="application/octet-stream" />
     </item>
   </channel>
