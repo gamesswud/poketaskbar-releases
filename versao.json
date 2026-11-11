@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.62-beta/PokeTaskBar.apk",
-                    "notas":  "• Menu PVP novo (espadas cruzadas): Liga Das Estrelas, Arena, Normal e Ranqueada num lugar só.\n• Arena: 5 desafios por dia contra o time de qualquer treinador, com Elo, Ranking, Histórico, Reprise e Revanche. Monte o time de Ataque e o de Defesa arrastando 6 pokémon.\n• Prêmio da temporada da Arena em Cristais (1º lugar: 100) e ouro.\n• Liga Das Estrelas: 5 ginásios comandados por jogadores. Derrube o dono, defenda o seu e junte Cristais no Cofre.\n• Consertos: luta automática sem pokémon duplicado nem skin sumindo; capturável preso não trava mais a fase; aviso quando a sessão cai.\n",
-                    "versao":  "1.43.62"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.63-beta/PokeTaskBar.apk",
+                    "notas":  "Seu Ginásio Caiu\n\n• Liga Das Estrelas: quando alguém toma o seu ginásio, um aviso dourado aparece no topo da arena.\n• Na tela da Liga, o aviso conta quantas vezes o ginásio defendeu, quem o tomou e há quanto tempo.\n• O aviso traz o botão da Revanche, com o tempo que resta para usá-la.\n",
+                    "versao":  "1.43.63"
                 }
 }
