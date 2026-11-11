@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.60-beta/PokeTaskBar.apk",
-                    "notas":  "Roleta Sem Ouro\r\n- A roleta do Game Corner não dá mais ouro, de vez (a fatia virou Essência).\r\n- Quem funde Raros em Lendários na Forja não tem mais o save recusado pela nuvem (o rollback de alguns jogadores) — conserto no servidor, já no ar.",
-                    "versao":  "1.43.60"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.61-beta/PokeTaskBar.apk",
+                    "notas":  "PvP Automático: na aba PVP, o cartão novo Automática põe o seu Time para lutar sozinho, na hora, contra o time de outro treinador (vale tudo e não conta no Ranking).\nCaptura: linha nova entra sempre no Lv 1; capturar a forma evoluída de quem você já tem promove na hora, sem mexer no nível.\nTema escuro mais legível (Mochila, Ficha, Portal e filtros) e ordem A-Z em todas as listas.\nGuia De Caça: Mew só a partir do Inferno; aves lendárias pelo seu recorde.\nGinásios com os discípulos na arena do líder; Gust, Hyper Fang e Harden com efeitos novos; pokémon mais nítidos na arena.",
+                    "versao":  "1.43.61"
                 }
 }
