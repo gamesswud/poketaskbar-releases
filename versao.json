@@ -1,7 +1,7 @@
 {
     "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.61-beta/PokeTaskBar.apk",
-                    "notas":  "PvP Automático: na aba PVP, o cartão novo Automática põe o seu Time para lutar sozinho, na hora, contra o time de outro treinador (vale tudo e não conta no Ranking).\nCaptura: linha nova entra sempre no Lv 1; capturar a forma evoluída de quem você já tem promove na hora, sem mexer no nível.\nTema escuro mais legível (Mochila, Ficha, Portal e filtros) e ordem A-Z em todas as listas.\nGuia De Caça: Mew só a partir do Inferno; aves lendárias pelo seu recorde.\nGinásios com os discípulos na arena do líder; Gust, Hyper Fang e Harden com efeitos novos; pokémon mais nítidos na arena.",
-                    "versao":  "1.43.61"
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.62-beta/PokeTaskBar.apk",
+                    "notas":  "• Menu PVP novo (espadas cruzadas): Liga Das Estrelas, Arena, Normal e Ranqueada num lugar só.\n• Arena: 5 desafios por dia contra o time de qualquer treinador, com Elo, Ranking, Histórico, Reprise e Revanche. Monte o time de Ataque e o de Defesa arrastando 6 pokémon.\n• Prêmio da temporada da Arena em Cristais (1º lugar: 100) e ouro.\n• Liga Das Estrelas: 5 ginásios comandados por jogadores. Derrube o dono, defenda o seu e junte Cristais no Cofre.\n• Consertos: luta automática sem pokémon duplicado nem skin sumindo; capturável preso não trava mais a fase; aviso quando a sessão cai.\n",
+                    "versao":  "1.43.62"
                 }
 }

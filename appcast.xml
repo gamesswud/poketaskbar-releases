@@ -3,19 +3,20 @@
   <channel>
     <title>PokeTaskBar</title>
     <item>
-      <title>PokeTaskBar 1.43.61 (beta)</title>
-      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>PvP Automático: na aba PVP, o cartão novo Automática põe o seu Time para lutar sozinho, na hora, contra o time de outro treinador (vale tudo e não conta no Ranking).
-Captura: linha nova entra sempre no Lv 1; capturar a forma evoluída de quem você já tem promove na hora, sem mexer no nível.
-Tema escuro mais legível (Mochila, Ficha, Portal e filtros) e ordem A-Z em todas as listas.
-Guia De Caça: Mew só a partir do Inferno; aves lendárias pelo seu recorde.
-Ginásios com os discípulos na arena do líder; Gust, Hyper Fang e Harden com efeitos novos; pokémon mais nítidos na arena.</body></html>]]></description>
-      <pubDate>Wed, 11 Nov 2026 02:02:51 GMT</pubDate>
+      <title>PokeTaskBar 1.43.62 (beta)</title>
+      <description><![CDATA[<!DOCTYPE html><html><head><meta charset="utf-8"><style>:root{color-scheme:light}html,body{background:#ffffff;color:#111111;margin:0}body{font-family:'Segoe UI',Arial,sans-serif;font-size:13px;line-height:1.45;padding:12px;white-space:pre-wrap}</style></head><body>• Menu PVP novo (espadas cruzadas): Liga Das Estrelas, Arena, Normal e Ranqueada num lugar só.
+• Arena: 5 desafios por dia contra o time de qualquer treinador, com Elo, Ranking, Histórico, Reprise e Revanche. Monte o time de Ataque e o de Defesa arrastando 6 pokémon.
+• Prêmio da temporada da Arena em Cristais (1º lugar: 100) e ouro.
+• Liga Das Estrelas: 5 ginásios comandados por jogadores. Derrube o dono, defenda o seu e junte Cristais no Cofre.
+• Consertos: luta automática sem pokémon duplicado nem skin sumindo; capturável preso não trava mais a fase; aviso quando a sessão cai.
+</body></html>]]></description>
+      <pubDate>Wed, 11 Nov 2026 18:46:23 GMT</pubDate>
       <enclosure
-        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.61-beta/PokeTaskBar-Setup.exe"
-        sparkle:version="1.43.61"
+        url="https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.62-beta/PokeTaskBar-Setup.exe"
+        sparkle:version="1.43.62"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT /SP-"
-        length="232537644"
+        length="232596519"
         type="application/octet-stream" />
     </item>
   </channel>
