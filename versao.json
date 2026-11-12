@@ -1,7 +1,7 @@
 {
-    "android": {
-        "versao": "1.43.64",
-        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.64-beta/PokeTaskBar.apk",
-        "notas": "Luta Automática Mais Esperta\n\n• Na Arena, na Liga Das Estrelas e na luta Automática, os pokémon agora escolhem o alvo: derrubam quem pode cair e miram o mais perigoso, em vez de bater sempre no da frente.\n• Golpes de status entram na hora certa, e quem entra do banco é o reserva com o melhor confronto. A Rotação da Ficha não vale nessas lutas.\n• O chão não anda mais no meio da luta, e o aviso de quem está na fila do PvP diz o motivo certo.\n"
-    }
+    "android":  {
+                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.65-beta/PokeTaskBar.apk",
+                    "notas":  "Skins Em Todo Lugar\n• A skin que você veste agora aparece em todos os modos: Arena, Liga Das Estrelas, luta Automática, PvP e Chefe Do Clã.\n• Os outros jogadores veem a sua skin de hoje, mesmo que o seu time de Ataque ou Defesa tenha sido salvo antes de você vestir.\n• No Chefe Do Clã, cada pokémon aparece com a skin do dono dele.\n• A lista do Golpe De Tutor abre inteira dentro da Ficha, sem ficar cortada.\n",
+                    "versao":  "1.43.65"
+                }
 }
