@@ -1,7 +1,7 @@
 {
-    "android":  {
-                    "url":  "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.63-beta/PokeTaskBar.apk",
-                    "notas":  "Seu Ginásio Caiu\n\n• Liga Das Estrelas: quando alguém toma o seu ginásio, um aviso dourado aparece no topo da arena.\n• Na tela da Liga, o aviso conta quantas vezes o ginásio defendeu, quem o tomou e há quanto tempo.\n• O aviso traz o botão da Revanche, com o tempo que resta para usá-la.\n",
-                    "versao":  "1.43.63"
-                }
+    "android": {
+        "versao": "1.43.64",
+        "url": "https://github.com/gamesswud/poketaskbar-releases/releases/download/v1.43.64-beta/PokeTaskBar.apk",
+        "notas": "Luta Automática Mais Esperta\n\n• Na Arena, na Liga Das Estrelas e na luta Automática, os pokémon agora escolhem o alvo: derrubam quem pode cair e miram o mais perigoso, em vez de bater sempre no da frente.\n• Golpes de status entram na hora certa, e quem entra do banco é o reserva com o melhor confronto. A Rotação da Ficha não vale nessas lutas.\n• O chão não anda mais no meio da luta, e o aviso de quem está na fila do PvP diz o motivo certo.\n"
+    }
 }
